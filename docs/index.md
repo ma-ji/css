@@ -33,3 +33,17 @@ Although programming is an essential part of this course, the course schedule an
 - B+ >= 87%, B >= 83%, B- >= 80%
 - C+ >= 77%, C >= 73%, C- >= 70%
 - D+ >= 67%, D >= 63%, D- >= 60%
+
+### Class profile
+
+*Please briefly describe your previous experience of ''computational social science.''*
+
+![previous experience](/assets/previous.png)
+
+*What are the research interests that you hope to develop further through this course?*
+
+![hope to develop](/assets/dev.png)
+
+*Do you have any other suggestions or expectations?*
+
+![hope to develop](/assets/expectations.png)
