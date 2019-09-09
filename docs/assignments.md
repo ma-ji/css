@@ -6,6 +6,8 @@
 - [Assignment 4: Disambiguation using algorithm (individual/group, 15% points)](#a4)
 - [Assignment 5: Network / text analysis (individual/group, 10% points)](#a5)
 
+Late submissions are not accepted.
+
 ---
 ### <a name="a1"> Assignment 1: Complete data topic page (individual, 5% points) </a>
 
