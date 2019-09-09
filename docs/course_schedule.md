@@ -52,7 +52,7 @@ Text analysis in social sciences
 - Course review: Syllabus, assignments, final project.
 
 ### After class
-- [<span style="color:red">**Assignment 1 due this week's Sunday.**</span>](/open_data/assignment/#a1)
+- [<span style="color:red">**Assignment 1 due this week's Sunday.**</span>](/open_data/assignments/#a1)
 - [Be familiar with "Getting started with Chameleon Cloud"](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
 
 
@@ -76,7 +76,7 @@ Text analysis in social sciences
 	- Snapshot the instance [as an image](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html).
 
 #### After class
-- [<span style="color:red">**Assignment 2 due this week's Sunday.**</span>](/open_data/assignment/#a2)
+- [<span style="color:red">**Assignment 2 due this week's Sunday.**</span>](/open_data/assignments/#a2)
 
 
 ---
@@ -118,7 +118,7 @@ Text analysis in social sciences
 	- Define a function then parallel a job.
 
 #### After class
-- [<span style="color:red">**Assignment 3 due this week's Sunday.**</span>](/open_data/assignment/#a3)
+- [<span style="color:red">**Assignment 3 due this week's Sunday.**</span>](/open_data/assignments/#a3)
 
 
 ---
@@ -180,7 +180,7 @@ Text analysis in social sciences
 - Hands-on practice.
 
 #### After class
-- [<span style="color:red">**Assignment 4 due this week's Sunday.**</span>](/open_data/assignment/#a4)
+- [<span style="color:red">**Assignment 4 due this week's Sunday.**</span>](/open_data/assignments/#a4)
 
 
 ---
@@ -236,7 +236,7 @@ Text analysis in social sciences
 - Data topic: TBD
 
 #### After class
-- [<span style="color:red">**Assignment 5 due this week's Sunday.**</span>](/open_data/assignment/#a5)
+- [<span style="color:red">**Assignment 5 due this week's Sunday.**</span>](/open_data/assignments/#a5)
 
 
 ---
