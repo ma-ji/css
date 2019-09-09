@@ -20,4 +20,4 @@ Presenter: Peter K. Bol, Charles H. Carswell Professor of East Asian Languages a
 The special events are **not required**, but students in the class are prioritized.
 
 ---
-*The final project and special events are supported by UT Austin Graduate School's [Academic Enrichment Fund](https://gradschool.utexas.edu/finances/academic-enrichment) and [RGK Center Special Funds for Data Science Speaker Series](https://rgkcenter.org/).*
+*The final project and special events are supported by UT Austin Graduate School's [Academic Enrichment Fund](https://gradschool.utexas.edu/finances/academic-enrichment) and [RGK Center Special Funds for Data Science Speaker Series](https://rgkcenter.org/) at the [LBJ School of Public Affairs](https://lbj.utexas.edu/). Co-sponsors also include [Center for East Asian Studies](https://liberalarts.utexas.edu/asianstudies/), [UT Library Research Data Services](https://www.lib.utexas.edu/research-help-support/research-data-services).*
