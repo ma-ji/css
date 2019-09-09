@@ -8,7 +8,7 @@ Knowledge and hands-on fundamentals
 
 - [Week 1 Sep 9: Why this course?](#w1)
 - [Week 2 Sep 16: Knowledge graph, computation, and social science](#w2)
-- [Week 3 Sep 23: Good enough research practices in scientific computing (TBD)](#w3)
+- [Week 3 Sep 23: Good enough research practices in scientific computing](#w3)
 - [Week 4 Sep 30: High-performance cloud computing and parallel computing (TBD)](#w4)
 - [Week 5 Oct 7: Algorithm and workflow for social scientists (TBD)](#w5)
 
@@ -45,7 +45,7 @@ Text analysis in social sciences
 #### Before class
 - Readings:
 	- Lazer, David, Alex Pentland, Lada Adamic, Sinan Aral, Albert-László Barabási, Devon Brewer, Nicholas Christakis, et al. 2009. “Computational Social Science.” Science 323 (5915): 721–23. https://doi.org/10.1126/science.1167742.
-	- Cioffi-Revilla, Claudio. 2017. Introduction to Computational Social Science. Texts in Computer Science. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-50131-4.
+	- Cioffi-Revilla, Claudio. 2017. “Introduction.” In Introduction to Computational Social Science, 1–33. Texts in Computer Science. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-50131-4.
 
 ### In class
 - Discussion and lecture on readings.

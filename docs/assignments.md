@@ -73,4 +73,5 @@ Choose an assignment of your interest:
 
 #### Analysis of social networks 
 
-#### Analysis of trends using topic modeling (individual/group, 10% points)
+#### Analysis of trends using topic modeling
+
