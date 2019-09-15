@@ -54,3 +54,14 @@ This is the U.S. Bureau of Labor Statistics website, which contains myriad datas
 #### Related academic study
 * David H. Autor, 2019. "Work of the Past, Work of the Future," AEA Papers and Proceedings, vol 109, pages 1-32.
 * Labor markets in U.S. cities today are vastly more educated and skill-intensive than they were five decades ago. Yet, urban non-college workers perform substantially less skilled work than decades earlier. This deskilling reflects the joint effects of automation and international trade, which have eliminated the bulk of non-college production, administrative support, and clerical jobs, yielding a disproportionate polarization of urban labor markets. The unwinding of the urban non-college occupational skill gradient has, I argue, abetted a secular fall in real non-college wages by: (1) shunting non-college workers out of specialized middle-skill occupations into low-wage occupations that require only generic skills; (2) diminishing the set of non-college workers that hold middle-skill jobs in high-wage cities; and (3) attenuating, to a startling degree, the steep urban wage premium for non-college workers that prevailed in earlier decades. Changes in the nature of work—many of which are technological in origin—have been more disruptive and less beneficial for non-college than college workers.
+
+---
+### Week 13 – Dec 9: [Mychal Warner’s Topic](https://wid.world/)
+
+### Dataset Background
+
+The World Inequality Database is an open database that contains data on the historical evolution of income and wealth distribution. The WID contains datasets on income and wealth inequality both within and between countries.
+
+### Related Academic Study
+* Marina Gindelsky. "Modeling and Forecasting Income Inequality in the United States." Bureau of Economic Analysis. https://www.bea.gov/research/papers/2018/ August 201
+* Abstract: Recently, an idea has emerged that “the rich are getting richer and the poor are getting poorer”. Using tax data from Piketty, Saez, and Zucman (2017) (updated in the World Wealth & Income Database) and internal microdata from the Current Population Survey (1975-2015), this paper models inequality and performs pseudo-out-of-sample (2012-2015) and true out-ofsample (2016-2018) forecasts for 5 income inequality measures. The lowest forecast errors from the best models are found for distributional metrics, as compared to top income shares. While macroeconomic indicators, human capital, and labor force metrics often enhance models, measures of skill biased technological change are not found to be robust predictors of inequality trends. Naive approaches often outperform more complex models.
