@@ -65,3 +65,14 @@ The World Inequality Database is an open database that contains data on the hist
 ### Related Academic Study
 * Marina Gindelsky. "Modeling and Forecasting Income Inequality in the United States." Bureau of Economic Analysis. https://www.bea.gov/research/papers/2018/ August 201
 * Abstract: Recently, an idea has emerged that “the rich are getting richer and the poor are getting poorer”. Using tax data from Piketty, Saez, and Zucman (2017) (updated in the World Wealth & Income Database) and internal microdata from the Current Population Survey (1975-2015), this paper models inequality and performs pseudo-out-of-sample (2012-2015) and true out-ofsample (2016-2018) forecasts for 5 income inequality measures. The lowest forecast errors from the best models are found for distributional metrics, as compared to top income shares. While macroeconomic indicators, human capital, and labor force metrics often enhance models, measures of skill biased technological change are not found to be robust predictors of inequality trends. Naive approaches often outperform more complex models.
+
+---
+### Week 14 - Dec 2: [H-1B VISA Data](https://public.enigma.com).
+
+### Dataset background
+
+These are H-1B Visas applications data from 2006 - 2018, which includes applicants' employers, wage rates, job titles, employers' addresses, etc. I hope to find features of H-1B Visa applications, such as the applicants' average wage rates, their employers' location, etc. Also, I hope to figure out what are kinds of jobs or employers with most applicants; are H-1B Visa applicants often paid averagely less than the native employees, regarding the same job positions?
+
+#### Related academic study
+* Watts, Julie R. "The H-1B visa: Free market solutions for business and labor." Population Research and Policy Review 20 (2001): 143–156.
+* The debate on the H-1B Visa often concentrates on the statement that the H-1B visa program opened the US information technology labor market to temporary, skilled immigrant labor. However, the author argues that this debate often obscures the fundamental flaws of the H-1B Visa. These flaws privilege the IT industry at the expense of H-1B holders and domestic IT workers and should be remedied to ensure that both business and labor abide by free-market principles. The employers’ ability to hire globally must be balanced by workers’ rights to seek out better opportunities. Workers with H-1B Visa are bound to a specific employer for 6 years, which restricts the ability of H-1B holders to compete in an open market, and enables employers to pay a salary often below market value. Also, this restriction jeopardizes domestic IT workers by enabling the IT companies to replace domestic workers to cheaper, temporary immigrant labor.
