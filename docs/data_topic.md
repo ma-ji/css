@@ -11,7 +11,7 @@
 
 ---
 
-### <a name="d3"></a> Week 6: [Your data topic](https://www.taobao.com/).
+### <a name="d3"></a> Week 6: [Xu Meiying's data topic](https://www.taobao.com/).
 
 #### Dataset Introduction
 Alibaba is an internet-based e-commerce website that covers business-to-business online marketplaces, retail and payment platforms, shopping search engine and data-centric cloud computing services.24 Alibaba requires that manufacturers provide detailed infor- mation about the company, including location, employee size, registered capital and a link to the company’s website. Alibaba allows manufacturers to subscribe as Gold Suppliers, a premium membership that provides promotional opportunities to maximise the exposure and return-on- investment of the suppliers. To qualify for a Gold Supplier membership, a supplier must complete an authentication and verification process by a reputable third-party security service provider appointed by Alibaba. Once approved, Gold Supplier members are authorised to display the Gold Supplier icon to demonstrate their authenticity. Limiting the search to Gold Suppliers ensured the existence of the manufacturing companies identified and excluded fake companies from the search results.
