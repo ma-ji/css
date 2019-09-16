@@ -24,11 +24,11 @@ Knowledge and skills practiced:
 ### <a name="a2"> Assignment 2: Create your own cloud computing server (individual, 5% points) </a>
 
 Tasks:
-1. Create a 48-core VM on [ChameleonCloud](https://www.chameleoncloud.org/);
+1. Create a 48-core VM on [ChameleonCloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html);
 2. Install [Anaconda Python](https://www.anaconda.com/distribution/);
-3. Run a [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)/[JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html) server with password and SSL for encrypted communication;
-4. Login your Jupyter Notebook/JupyterLab server through web-browser;
-5. Open a terminal in Jupyter, [save an image of your instance](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html), then submit a screenshot through Canvas showing: 1) instance image is saved successfully, and 2) Jupyter server is started successfully;
+3. Run a [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html) server with password and SSL for encrypted communication;
+4. Login your Jupyter Notebook server through web-browser;
+5. [Save an image of your instance](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html), submit screenshots through Canvas showing: 1) instance image is saved successfully, and 2) Jupyter server is started successfully;
 6. After submission, release your IP and server to other users (if you don't plan to use the instance).
 
 ** _Special attention: ChameleonCloud often has technical glitches, so please DON'T procrastinate this assignment to the last minute. If you have technical issue, submit a ticket through [Help Desk](https://www.chameleoncloud.org/user/help/). They almost only work on weekdays and will reply you in one or two business days. Again, don't procrastinate this assignment._ **
