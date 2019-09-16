@@ -31,6 +31,8 @@ Tasks:
 5. Open a terminal in Jupyter, [save an image of your instance](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html), then submit a screenshot through Canvas showing: 1) instance image is saved successfully, and 2) Jupyter server is started successfully;
 6. After submission, release your IP and server to other users (if you don't plan to use the instance).
 
+** _Special attention: ChameleonCloud often has technical glitches, so please DON'T procrastinate this assignment to the last minute. If you have technical issue, submit a ticket through [Help Desk](https://www.chameleoncloud.org/user/help/). They almost only work on weekdays and will reply you in one or two business days. Again, don't procrastinate this assignment._ **
+
 Knowledge and skills practiced:
 - Using cloud computing platform;
 - Using command line terminal and Linux system.
