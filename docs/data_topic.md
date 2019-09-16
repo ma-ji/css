@@ -105,3 +105,14 @@ These are H-1B Visas applications data from 2006 - 2018, which includes applican
 #### Related academic study
 * Watts, Julie R. "The H-1B visa: Free market solutions for business and labor." Population Research and Policy Review 20 (2001): 143–156.
 * The debate on the H-1B Visa often concentrates on the statement that the H-1B visa program opened the US information technology labor market to temporary, skilled immigrant labor. However, the author argues that this debate often obscures the fundamental flaws of the H-1B Visa. These flaws privilege the IT industry at the expense of H-1B holders and domestic IT workers and should be remedied to ensure that both business and labor abide by free-market principles. The employers’ ability to hire globally must be balanced by workers’ rights to seek out better opportunities. Workers with H-1B Visa are bound to a specific employer for 6 years, which restricts the ability of H-1B holders to compete in an open market, and enables employers to pay a salary often below market value. Also, this restriction jeopardizes domestic IT workers by enabling the IT companies to replace domestic workers to cheaper, temporary immigrant labor.
+
+---
+### Week ?? - ??? ?: [Alex Meed's Data Topic](https://api.open.fec.gov/developers/).
+
+### Dataset background
+
+The Federal Election Commission publishes data on campaign committees for Congress and the presidency online. Using this information, I can analyze contributions made to various campaigns for public office. I can also attempt to correlate this data with other datasets to determine the impact of campaign contributions on votes on Congress, electoral results, and other pertinent information.
+
+#### Related academic study
+* Gimpel, James G., and James H. Glenn. "Racial Proximity and Campaign Contributing." _Electoral Studies_ 57 (February 2019): 79-87.
+* Gimpel and Glenn use FEC campaign data to analyze whether potential donors to federal campaigns are more active in areas where black and white residents live in close proximity. The authors use data from the American Community Survey to estimate racial population proportions by ZIP code. They then correlate this with the ZIP codes provided by campaign donors, and listed in FEC data, from 2004 to 2014. The authors find that areas in the American South with high levels of mixed settlement produce high levels of campaign contributions.
