@@ -53,6 +53,18 @@ I hope to use this dataset in order to analyze the impact of trade war ignited b
 * Summary: A country’s mix of products predicts its subsequent pattern of diversification and economic growth. But does this product mix also predict income inequality? Here we combine methods from econometrics, network science, and economic complexity to show that countries exporting complex products—as measured by the Economic Complexity Index—have lower levels of income inequality than countries exporting simpler products. Using multivariate regression analysis, we show that economic complexity is a significant and negative predictor of income inequality and that this relationship is robust to controlling for aggregate measures of income, institutions, export concentration, and human capital. Moreover, we introduce a measure that associates a product to a level of income inequality equal to the average GINI of the countries exporting that product (weighted by the share the product represents in that country’s export basket). We use this measure together with the network of related products—or product space—to illustrate how the development of new products is associated with changes in income inequality. These findings show that economic complexity captures information about an economy’s level of development that is relevant to the ways an economy generates and distributes its income. Moreover, these findings suggest that a country’s productive structure may limit its range of income inequality. Finally, we make our results available through an online resource that allows for its users to visualize the structural transformation of over 150 countries and their associated changes in income inequality during 1963–2008.
 
 ---
+### Week 12 - Nov 18: [Lucas Sepulveda's Data Topic](https://nccs.urban.org/).
+
+#### Dataset Introduction
+
+The National Center for Charitable Statistics derives data from information that tax-exempt nonprofit organizations file with the IRS, resulting in the most comprehensive standardized data on tax-exempt organizations. The data is intended for reserachers and policy-makers to use as a springboard for more in-depth survey or case-study research on nonprofits. 
+
+### Related Academic Study
+
+ * Bielefeld, W. (2000). Metropolitan Nonprofit Sectors: Findings from NCCS Data. Nonprofit and Voluntary Sector Quarterly, 29(2), 297–314
+ * Data from the National Center for Charitable Statistics (NCCS) and other secondary sources was used to examine the nonprofit sectors of nine metropolitan regions. The results indicate that nonprofit sectors vary widely in terms of the numbers of organizations in them and the proportions of different types of providers. Moreover, the findings showed complex and intriguing relationships between nonprofit sectors and political culture, generosity, wealth, poverty, and heterogeneity. Traditionalistic sites had sectors with the opposite characteristics. The sectors in individualistic sites lay between these two patterns. Wealthier sites had larger, better-supported and secure sectors. Sites with higher poverty had less well supported sectors with smaller human service components. The most and least heterogeneous sites had the largest and smallest nonprofit sectors respectively. These findings bolster confidence in the use of NCCS data.
+
+---
 ### Week 13 - Nov 25: [Ryan Anderson's Data Topic](https://www.bls.gov).
 
 #### Dataset Introduction
