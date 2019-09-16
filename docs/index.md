@@ -1,7 +1,7 @@
 ## Course Description
 
 - Instructor: [Prof. Ji Ma](http://jima.me)
-- Monday 2:00PM to 5:00PM, SRH 3.216/3.219
+- Monday 2:00PM to 5:00PM, SRH 3.316/3.350
 - "Lite" TA section: Friday 2-4pm, SRH 3.318.
 
 - <html>
