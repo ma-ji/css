@@ -41,6 +41,18 @@ This is the U.S. Securities and Exchange Commission's data portal. My goal is to
 * Abstract: We examine the influence of CEOs' military background on financial misconduct using two distinctive datasets. First, we make use of accounting and auditing enforcement releases (AAER) issued by the U.S. Securities and Exchange Commission (SEC), which contain intentional and substantial cases of financial fraud. Second, we use a dataset of “lucky grants,” which provide a measure of the likelihood of grant dates of CEOs' stock options having been manipulated. Results for both datasets indicate that CEOs who served in the military are less inclined to be involved in fraudulent financial reporting and to backdate stock options. In addition, we find that these relationships are moderated by board oversight (CEO duality and independent directors in the board).
 
 ---
+### Week 12 - Nov 18: [Lucas Sepulveda's Data Topic](https://nccs.urban.org/).
+
+#### Dataset Introduction
+
+The National Center for Charitable Statistics derives data from information that tax-exempt nonprofit organizations file with the IRS, resulting in the most comprehensive standardized data on tax-exempt organizations. The data is intended for reserachers and policy-makers to use as a springboard for more in-depth survey or case-study research on nonprofits. 
+
+### Related Academic Study
+
+ * Bielefeld, W. (2000). Metropolitan Nonprofit Sectors: Findings from NCCS Data. Nonprofit and Voluntary Sector Quarterly, 29(2), 297–314
+ * Data from the National Center for Charitable Statistics (NCCS) and other secondary sources was used to examine the nonprofit sectors of nine metropolitan regions. The results indicate that nonprofit sectors vary widely in terms of the numbers of organizations in them and the proportions of different types of providers. Moreover, the findings showed complex and intriguing relationships between nonprofit sectors and political culture, generosity, wealth, poverty, and heterogeneity. Traditionalistic sites had sectors with the opposite characteristics. The sectors in individualistic sites lay between these two patterns. Wealthier sites had larger, better-supported and secure sectors. Sites with higher poverty had less well supported sectors with smaller human service components. The most and least heterogeneous sites had the largest and smallest nonprofit sectors respectively. These findings bolster confidence in the use of NCCS data.
+
+ ---
 ### Week 13 - Nov 25: [Ryan Anderson's Data Topic](https://www.bls.gov).
 
 #### Dataset Introduction
