@@ -25,5 +25,7 @@ navbar:
    link: "data_topic"
  - name: "Final"
    link: "final"
+ - name: "Special Events"
+   link: "special_events"
  - name: "home"
    link: "index"
