@@ -70,7 +70,7 @@ Text analysis in social sciences
 - Group discussion: How can you use knowledge graph and RDF to solve a social science problem?
 - Hands-on:
 	- Start an instance on [Chameleon Cloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html): 1) book a lease, 2) setup the [network and router](https://chameleoncloud.readthedocs.io/en/latest/technical/networks/networks_vlan.html) for remote access (instance->self-defined network->router->public network), 3) start an instance.
-	- Install [Anaconda Python](https://www.anaconda.com/distribution/) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)/[JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html).
+	- Install [Anaconda Python](https://www.anaconda.com/distribution/) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
 	- Snapshot the instance [as an image](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html).
 
 #### After class
