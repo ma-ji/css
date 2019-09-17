@@ -31,9 +31,6 @@ Text analysis in social sciences
 ---
 ### <a name="w0"> Week 0 Pre-course </a>
 - [Complete course survey](https://utexas.instructure.com/courses/1261330/quizzes/1295833)
-- Programming Basics:
-	- [Linux terminal tutorial](http://linuxcommand.org/index.php)
-	- [Basic Linux Commands for Beginners](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
 - Register Accounts:
 	- [GitHub](https://github.com/) / [Education (Students)](https://education.github.com/students)
 	- [Chameleon Cloud](https://www.chameleoncloud.org/)
@@ -54,6 +51,7 @@ Text analysis in social sciences
 ### After class
 - [<span style="color:red">**Assignment 1 due this week's Sunday.**</span>](/open_data/assignments/#a1)
 - [Be familiar with "Getting started with Chameleon Cloud"](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
+- Recommended course: [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science) (4 hours)
 
 
 ---
@@ -92,6 +90,9 @@ Text analysis in social sciences
 - Discussion and lecture on readings.
 - Data topic: [example data topic and link](/open_data/data_topic/#d3)
 
+#### After class
+- Recommended course: [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1) (3 hours)
+
 
 ---
 ### <a name="w4"> Week 4 Sep 30: High-performance cloud computing and parallel computing </a>
@@ -119,6 +120,7 @@ Text analysis in social sciences
 
 #### After class
 - [<span style="color:red">**Assignment 3 due this week's Sunday.**</span>](/open_data/assignments/#a3)
+- Recommended course: [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2) (4 hours)
 
 
 ---
@@ -132,6 +134,9 @@ Text analysis in social sciences
 #### In class:
 - Discussion and lecture on readings.
 - Data topic: TBD
+
+#### After class
+- Recommended course: [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2) (4 hours)
 
 
 ---
@@ -152,7 +157,7 @@ Text analysis in social sciences
 - Further readings:
 	- Scott, John. 2017. “Data Collection for Social Network Analysis.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
 	- Scott, John. 2017. “The History of Social Network Analysis.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
-
+- Recommended course: [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 
 ---
 ### <a name="w7"> Week 7 Oct 21: Network analysis - analysis of nodes </a>
@@ -165,6 +170,9 @@ Text analysis in social sciences
 - Discussion and lecture on readings.
 - Data topic: TBD
 - Hands-on practice.
+
+#### After class
+- Recommended course: [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 
 
 ---
@@ -181,6 +189,7 @@ Text analysis in social sciences
 
 #### After class
 - [<span style="color:red">**Assignment 4 due this week's Sunday.**</span>](/open_data/assignments/#a4)
+- Recommended course: [Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
 
 
 ---
@@ -193,6 +202,9 @@ Text analysis in social sciences
 #### In class
 - Discussion and lecture on readings.
 - Data topic: TBD
+
+#### After class
+- Recommended course: [Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
 
 
 ---
@@ -211,6 +223,9 @@ Text analysis in social sciences
 - Discussion and lecture on readings.
 - Data topic: TBD
 - Hands-on practice.
+
+#### After class
+- Recommended course: [Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
 
 
 ---

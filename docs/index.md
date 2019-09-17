@@ -21,6 +21,11 @@ Although programming is an essential part of this course, the course schedule an
 
 1. College level statistics. For example, you are confident to use probability for hypothesis testing, you can run and understand OLS and multivariate regression.
 2. Comfortable with programming using Python. The class is Python based, but you can use R or any other programming language as long as you can complete the assignments and final challenge. If you haven't used Python for a while or not familiar with it, please complete an online tutorial before taking this class. Example Python packages used in this course: Pandas, Requests, regular expression, NetworkX, NLTK, TensorFlow, Keras, etc. We will introduce these packages in class, but you should be familiar with Python programming in general before class.
+3. You need to pass the following courses before registering this course (contact instructor for a free DataCamp license):
+	- [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) (4 hours)
+	- [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science) (4 hours)
+	- [Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science) (4 hours)
+
 
 ### Recommended online tutorials
 
