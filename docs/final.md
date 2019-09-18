@@ -8,7 +8,7 @@ A one-day data hackathon will be held on November 2nd, 2019 to solve real-world 
 ### Eligibility and requirements: 
 
 - Course students are required.
-- Other current UT Austin full time graduate (9 credit hours) or undergraduate (12 credit hours) students are also eligible, but [need to apply here](#). The selection process will be competitive.
+- All current UT Austin full time graduate (9 credit hours) or undergraduate (12 credit hours) students are eligible, but [need to apply here](#). The selection process is competitive.
 - Need to work as a team with 2-4 people.
 
 
