@@ -20,13 +20,18 @@ A one-day data hackathon will be held on November 2nd, 2019 to solve real-world 
 
 Depending on the University's operating procedures, final rewards may be distributed as cash or credits for student loan or course.
 
-### Evaluation Criteria
+### Evaluation criteria
 
 - Outstanding deliverables.
 - Efficient team work.
 - Well-organized presentation.
-- Evidence of learning while completing the task. 
+- Evidence of learning while completing the task.
 
+### Assessment team
+
+- Patrick Bixler, PhD, Assistant Professor of Practice at the RGK Center and LBJ School of Public Affairs.
+- Ji Ma, PhD, Assistant Professor at the RGK Center and LBJ School of Public Affairs.
+- Other member TBD.
 
 ---
 *The final project is supported by UT Austin Graduate School's [Academic Enrichment Fund](https://gradschool.utexas.edu/finances/academic-enrichment) and [RGK Center Special Funds for Data Science Speaker Series](https://rgkcenter.org/) at the [LBJ School of Public Affairs](https://lbj.utexas.edu/). Co-sponsors also include [UT Library Research Data Services](https://www.lib.utexas.edu/research-help-support/research-data-services).*
