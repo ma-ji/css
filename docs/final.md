@@ -18,7 +18,7 @@ A one-day data hackathon will be held on November 2nd, 2019 to solve real-world 
 - Second Prize Group: $300
 - Third Prize Group: $100
 
-Depending on the University's operating procedures, final rewards may be distributed as cash or credits for students loan or course.
+Depending on the University's operating procedures, final rewards may be distributed as cash or credits for student loan or course.
 
 ### Evaluation Criteria
 
