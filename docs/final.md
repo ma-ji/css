@@ -29,4 +29,4 @@ Depending on the University's operating procedures, final rewards may be distrib
 
 
 ---
-*The final project and special events are supported by UT Austin Graduate School's [Academic Enrichment Fund](https://gradschool.utexas.edu/finances/academic-enrichment) and [RGK Center Special Funds for Data Science Speaker Series](https://rgkcenter.org/) at the [LBJ School of Public Affairs](https://lbj.utexas.edu/). Co-sponsors also include [Center for East Asian Studies](https://liberalarts.utexas.edu/asianstudies/), [UT Library Research Data Services](https://www.lib.utexas.edu/research-help-support/research-data-services).*
+*The final project is supported by UT Austin Graduate School's [Academic Enrichment Fund](https://gradschool.utexas.edu/finances/academic-enrichment) and [RGK Center Special Funds for Data Science Speaker Series](https://rgkcenter.org/) at the [LBJ School of Public Affairs](https://lbj.utexas.edu/). Co-sponsors also include [UT Library Research Data Services](https://www.lib.utexas.edu/research-help-support/research-data-services).*
