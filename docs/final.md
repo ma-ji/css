@@ -29,8 +29,8 @@ Depending on the University's operating procedures, final rewards may be distrib
 
 ### Assessment team
 
-- Patrick Bixler, PhD, Assistant Professor of Practice at the RGK Center and LBJ School of Public Affairs.
-- Ji Ma, PhD, Assistant Professor at the RGK Center and LBJ School of Public Affairs.
+- [Ji Ma](http://jima.me/), PhD, Assistant Professor at the RGK Center and LBJ School of Public Affairs.
+- [Patrick Bixler](https://lbj.utexas.edu/bixler-r-patrick), PhD, Assistant Professor of Practice at the RGK Center and LBJ School of Public Affairs.
 - Other member TBD.
 
 ---
