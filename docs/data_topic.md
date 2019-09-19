@@ -30,6 +30,17 @@ I will be using the [IMF database](https://www.imf.org/en/Data) to gather data o
 * Dreher, Axel, Jan-Egbert Sturm, and James Raymond Vreeland. "Global horse trading: IMF loans for votes in the United Nations Security Council." European Economic Review 53, no. 7 (2009): 742-757.
 * This paper studies the relationship between IMF loans approved to developig countries and theier membership status in the United Nations Security Council. The authors propose that temporary members of the United Nations Security Council are more likely to get their loan requests approved. For this, they use a panel data for 197 countries over the period from 1951 to 2004. They check the number of loans approved for each country between these years. They also check the number of conditions attached with each loan. The study finds that not only do the temporary members of UNSC are more likely to get their loan request approved but the conditions attached with loans are also fewer. The authors conclude that IMF loans is a mechanism by which shareholders of the fund win favor with voting members of the United Nations.
 
+---
+### Week 5 - Oct 7: [Alex Meed's Data Topic](https://api.open.fec.gov/developers/).
+
+### Dataset background
+
+The Federal Election Commission publishes data on campaign committees for Congress and the presidency online. Using this information, I can analyze contributions made to various campaigns for public office. I can also attempt to correlate this data with other datasets to determine the impact of campaign contributions on votes on Congress, electoral results, and other pertinent information.
+
+#### Related academic study
+* Gimpel, James G., and James H. Glenn. "Racial Proximity and Campaign Contributing." _Electoral Studies_ 57 (February 2019): 79-87.
+* Gimpel and Glenn use FEC campaign data to analyze whether potential donors to federal campaigns are more active in areas where black and white residents live in close proximity. The authors use data from the American Community Survey to estimate racial population proportions by ZIP code. They then correlate this with the ZIP codes provided by campaign donors, and listed in FEC data, from 2004 to 2014. The authors find that areas in the American South with high levels of mixed settlement produce high levels of campaign contributions.
+
 ### <a name="d3"></a> Week 6: [Xu Meiying's data topic](https://www.taobao.com/).
 
 #### Dataset Introduction
