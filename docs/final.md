@@ -29,9 +29,11 @@ Depending on the University's operating procedures, final rewards may be distrib
 
 ### Assessment team
 
-- [Ji Ma](http://jima.me/), PhD, Assistant Professor at the RGK Center and LBJ School of Public Affairs.
-- [Patrick Bixler](https://lbj.utexas.edu/bixler-r-patrick), PhD, Assistant Professor of Practice at the RGK Center and LBJ School of Public Affairs.
-- Other member TBD.
+- [Bixler, Patrick](https://lbj.utexas.edu/bixler-r-patrick), PhD, Assistant Professor of Practice at the RGK Center and LBJ School of Public Affairs.
+- [Ma, Ji](http://jima.me/), PhD, Assistant Professor at the RGK Center and LBJ School of Public Affairs.
+- [Rudow, Josh](https://www.linkedin.com/in/joshua-rudow-87896b8b), PhD, Senior Planner, City of Austin.
+- [Taylor, Reyda](https://www.linkedin.com/in/reyda-taylor-a9450a20), PhD, Senior Consultant, Data & Evaluation, [Mission Capital](https://www.missioncapital.org/).
+
 
 ---
 *The final project is supported by UT Austin Graduate School's [Academic Enrichment Fund](https://gradschool.utexas.edu/finances/academic-enrichment) and [RGK Center Special Funds for Data Science Speaker Series](https://rgkcenter.org/) at the [LBJ School of Public Affairs](https://lbj.utexas.edu/). Co-sponsors also include [UT Library Research Data Services](https://www.lib.utexas.edu/research-help-support/research-data-services).*
