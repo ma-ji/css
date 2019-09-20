@@ -11,7 +11,6 @@ A one-day data hackathon will be held on November 2nd, 2019 to solve real-world 
 - All current UT Austin full time graduate (9 credit hours) or undergraduate (12 credit hours) students are eligible, but [need to apply here](#). The selection process is competitive.
 - Need to work as a team with 2-4 people.
 
-
 ### Rewards
 
 - First Prize Group: $500
@@ -19,6 +18,16 @@ A one-day data hackathon will be held on November 2nd, 2019 to solve real-world 
 - Third Prize Group: $100
 
 Depending on the University's operating procedures, final rewards may be distributed as cash or credits for student loan or course.
+
+### Timeline (tentative)
+- October 1st - 14th: Outreach, receiving applications.
+- October 15th - 31st: Team preparation and working with domain experts.
+- November 2nd: Hackathon day.
+	- 9am-12pm: Team work and feedback from domain experts.
+	- 12pm-1:30pm: Break.
+	- 1:30pm-4pm: Finalize work and presentation.
+	- 4pm-5:30pm: Team presentations.
+	- 5:30pm-6pm: Announcing awards.
 
 ### Evaluation criteria
 
