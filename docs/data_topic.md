@@ -19,14 +19,14 @@
 - Week 6 Oct 14: [A. Messamore's Data Topic: Chicago Data Portal](#d6)
 - Week 7 Oct 21: [H. Zalke's Data Topic: IMF Data](#d7)
 - Week 8 Oct 28: [M. Xu's data topic: Alibaba-Tabao B2B e-commerce data](#d8)
-- Week 9 Nov 4: [T. Oladimeji's Data Topic: U.S. Securities and Exchange Commission EDGAR](#d9)
-- Week 9 Nov 4: [X. Han's Data Topic: ShangHai Data Portal](#d9)
+- Week 9 Nov 4: [T. Oladimeji's Data Topic: U.S. Securities and Exchange Commission EDGAR](#d9a)
+- Week 9 Nov 4: [X. Han's Data Topic: ShangHai Data Portal](#d9b)
 - Week 10 Nov 11: [E. Tenison's Data Topic: The Atlas of Economic Complexity](#d10)
 - Week 11 Nov 18: [L. Sepulveda's Data Topic: National Center for Charitable Statistics](#d11)
 - Week 12 Nov 25: [R. Anderson's Data Topic: U.S. Bureau of Labor Statistics](#d12)
 - Week 13 Dec 2: [W. Li's Data Topic: H-1B VISA Data](#d13)
-- Week 14 Dec 9: [M. Warner’s Topic](#d14)
-- Week 14 Dec 9: [L. YE's Data Topic: Social Twitter Data](#d14)
+- Week 14 Dec 9: [M. Warner’s Topic](#d14a)
+- Week 14 Dec 9: [L. YE's Data Topic: Social Twitter Data](#d14b)
 
 ---
 ### <a name="d3">Week 3 Sep 23: [Y. Gutiérrez's Data Topic: Occupation and employment in Mexico](https://inegi.org.mx/programas/enoe/15ymas/default.html#Datos_abiertos).</a>
@@ -95,7 +95,7 @@ Alibaba is an internet-based e-commerce website that covers business-to-business
 - The paper concludes that betterregulationofe-cigarettemarketing messages on manufacturers’ websites is needed in China. The frequent claims of health benefits, smoking cessation, strategies appealing to youth and women are concerning, especially targeting women. Regulators should prohibit marketing claims of health benefits, no SHS exposure and value for smoking cessation in China until health-related, quality and safety issues have been adequately addressed. To avoid e-cigarette use for initiation to nicotine addiction, messages targeting youth and women should be prohibited.
 
 ---
-### <a name="d9">Week 9 Nov 4: [T. Oladimeji's Data Topic: U.S. Securities and Exchange Commission EDGAR](https://www.sec.gov/edgar.shtml)</a>
+### <a name="d9a">Week 9 Nov 4: [T. Oladimeji's Data Topic: U.S. Securities and Exchange Commission EDGAR](https://www.sec.gov/edgar.shtml)</a>
 
 #### Dataset background
 This is the U.S. Securities and Exchange Commission's data portal. My goal is to use it to study how CEO beliefs predict firm actions and performance.
@@ -105,7 +105,7 @@ This is the U.S. Securities and Exchange Commission's data portal. My goal is to
 * Abstract: We examine the influence of CEOs' military background on financial misconduct using two distinctive datasets. First, we make use of accounting and auditing enforcement releases (AAER) issued by the U.S. Securities and Exchange Commission (SEC), which contain intentional and substantial cases of financial fraud. Second, we use a dataset of “lucky grants,” which provide a measure of the likelihood of grant dates of CEOs' stock options having been manipulated. Results for both datasets indicate that CEOs who served in the military are less inclined to be involved in fraudulent financial reporting and to backdate stock options. In addition, we find that these relationships are moderated by board oversight (CEO duality and independent directors in the board).
 
 ---
-### <a name="d9">Week 9 Nov 4: [X. Han's Data Topic: ShangHai Data Portal](http://data.sh.gov.cn/home!toHomePage.action)</a>
+### <a name="d9b">Week 9 Nov 4: [X. Han's Data Topic: ShangHai Data Portal](http://data.sh.gov.cn/home!toHomePage.action)</a>
 
 #### Dataset background
 
@@ -165,7 +165,7 @@ These are H-1B Visas applications data from 2006 - 2018, which includes applican
 
 
 ---
-### <a name="d14">Week 14 Dec 9: [M. Warner’s Topic](https://wid.world/)</a>
+### <a name="d14a">Week 14 Dec 9: [M. Warner’s Topic](https://wid.world/)</a>
 
 #### Dataset Background
 
@@ -177,7 +177,7 @@ The World Inequality Database is an open database that contains data on the hist
 
 
 ---
-### <a name="d14">Week 14 Dec 9: [L. YE's Data Topic: Social Twitter Data](http://snap.stanford.edu/data/egonets-Twitter.html)</a>
+### <a name="d14b">Week 14 Dec 9: [L. YE's Data Topic: Social Twitter Data](http://snap.stanford.edu/data/egonets-Twitter.html)</a>
 
 #### Dataset Background
 

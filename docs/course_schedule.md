@@ -201,7 +201,7 @@ Text analysis in social sciences
 
 #### In class
 - Discussion and lecture on readings.
-- [Data topic 9](/open_data/data_topic/#d9)
+- [Data topic 9](/open_data/data_topic/#d9a)
 
 #### After class
 - Recommended course: [Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
@@ -275,6 +275,6 @@ Text analysis in social sciences
 	- Hollibaugh, Gary E. 2018. “The Use of Text as Data Methods in Public Administration: A Review and an Application to Agency Priorities.” Journal of Public Administration Research and Theory. https://doi.org/10.1093/jopart/muy045.
 
 #### In class
-- [Data topic 14](/open_data/data_topic/#d14)
+- [Data topic 14](/open_data/data_topic/#d14a)
 - Hands-on practice.
 
