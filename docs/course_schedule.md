@@ -88,7 +88,7 @@ Text analysis in social sciences
 
 #### In class
 - Discussion and lecture on readings.
-- Data topic: [example data topic and link](/open_data/data_topic/#d3)
+- [Data topic 3](/open_data/data_topic/#d3)
 
 #### After class
 - Recommended course: [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1) (3 hours)
@@ -103,7 +103,7 @@ Text analysis in social sciences
 
 #### In class
 - Visit [Texas Advanced Computing Center](https://www.tacc.utexas.edu/).
-- Data topic: TBD
+- [Data topic 4](/open_data/data_topic/#d4)
 - Hands-on:
 	- Let's use [JupyterHub Server](https://chameleoncloud.readthedocs.io/en/latest/technical/jupyter.html) on Chameleon Cloud.
 	- Install [`htop`](https://hisham.hm/htop/) (not easy):
@@ -133,7 +133,7 @@ Text analysis in social sciences
 
 #### In class:
 - Discussion and lecture on readings.
-- Data topic: TBD
+- [Data topic 5](/open_data/data_topic/#d5)
 
 #### After class
 - Recommended course: [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2) (4 hours)
@@ -150,7 +150,7 @@ Text analysis in social sciences
 
 #### In class
 - Discussion and lecture on readings.
-- Data topic: TBD
+- [Data topic 6](/open_data/data_topic/#d6)
 - Hands-on practice.
 
 #### After class
@@ -168,7 +168,7 @@ Text analysis in social sciences
 
 #### In class
 - Discussion and lecture on readings.
-- Data topic: TBD
+- [Data topic 7](/open_data/data_topic/#d7)
 - Hands-on practice.
 
 #### After class
@@ -184,7 +184,7 @@ Text analysis in social sciences
 
 #### In class
 - Discussion and lecture on readings.
-- Data topic: TBD
+- [Data topic 8](/open_data/data_topic/#d8)
 - Hands-on practice.
 
 #### After class
@@ -201,7 +201,7 @@ Text analysis in social sciences
 
 #### In class
 - Discussion and lecture on readings.
-- Data topic: TBD
+- [Data topic 9](/open_data/data_topic/#d9)
 
 #### After class
 - Recommended course: [Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
@@ -221,7 +221,7 @@ Text analysis in social sciences
 
 #### In class
 - Discussion and lecture on readings.
-- Data topic: TBD
+- [Data topic 10](/open_data/data_topic/#d10)
 - Hands-on practice.
 
 #### After class
@@ -240,7 +240,7 @@ Text analysis in social sciences
 
 #### In class
 - Discussion and lecture on readings.
-- Data topic: TBD
+- [Data topic 11](/open_data/data_topic/#d11)
 - Hands-on practice.
 
 
@@ -248,7 +248,7 @@ Text analysis in social sciences
 ### <a name="w12"> Week 12 Nov 25: Text analysis - Topic modeling and classification </a>
 #### Before class
 #### In class
-- Data topic: TBD
+- [Data topic 12](/open_data/data_topic/#d12)
 
 #### After class
 - [<span style="color:red">**Assignment 5 due this week's Sunday.**</span>](/open_data/assignments/#a5)
@@ -263,7 +263,7 @@ Text analysis in social sciences
 	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018. “Graph Analysis of Text.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
 
 #### In class
-- Data topic: TBD
+- [Data topic 13](/open_data/data_topic/#d13)
 - Hands-on practice.
 
 
@@ -275,6 +275,6 @@ Text analysis in social sciences
 	- Hollibaugh, Gary E. 2018. “The Use of Text as Data Methods in Public Administration: A Review and an Application to Agency Priorities.” Journal of Public Administration Research and Theory. https://doi.org/10.1093/jopart/muy045.
 
 #### In class
-- Data topic: TBD
+- [Data topic 14](/open_data/data_topic/#d14)
 - Hands-on practice.
 
