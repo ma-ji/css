@@ -9,12 +9,12 @@ Knowledge and hands-on fundamentals
 - [Week 1 Sep 9: Why this course?](#w1)
 - [Week 2 Sep 16: Knowledge graph, computation, and social science](#w2)
 - [Week 3 Sep 23: Good enough research practices in scientific computing](#w3)
-- [Week 4 Sep 30: High-performance cloud computing and parallel computing (TBD)](#w4)
-- [Week 5 Oct 7: Algorithm and workflow for social scientists (TBD)](#w5)
+- [Week 4 Sep 30: High-performance cloud computing and parallel computing](#w4)
+- [Week 5 Oct 7: Algorithm and workflow for social scientists](#w5)
 
 Network analysis in social sciences
 
-- [Week 6 Oct 14: Network analysis - basic concepts (TBD)](#w6)
+- [Week 6 Oct 14: Network analysis - basic concepts](#w6)
 - [Week 7 Oct 21: Network analysis - analysis of nodes (TBD)](#w7)
 - [Week 8 Oct 28: Network analysis - analysis of communities (TBD)](#w8)
 - [Week 9 Nov 4: Network analysis - Example studies in social sciences (TBD)](#w9)
