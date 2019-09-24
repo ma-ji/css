@@ -1,4 +1,4 @@
-## UT Civic Data Hackathon (November 2nd)
+## UT Civic Data Hackathon (November 2nd, [APPLY HERE](#))
 
 - Date: November 2nd, 2019
 - Place: [PCL Learning Lab 1](https://www.lib.utexas.edu/study-spaces-technology/spaces/learning-lab-1-ab)
