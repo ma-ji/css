@@ -1,6 +1,9 @@
 ## UT Civic Data Hackathon (November 2nd)
 
-A one-day data hackathon will be held on November 2nd, 2019 to solve real-world civic issues by analyzing open government data and building computer programs or models. You can assemble team with students from or outside of the class. Your team can choose from the following problems:
+- Date: November 2nd, 2019
+- Place: [PCL Learning Lab 1](https://www.lib.utexas.edu/study-spaces-technology/spaces/learning-lab-1-ab)
+
+We will solve real-world civic issues by analyzing open government data and building computer programs or models. You can assemble team with students from or outside of the class. Your team can choose from the following problems:
 
 - [Classifying Nonprofits Using 990 Forms](/assets/problem_description_CDH_990forms.pdf).
 - More topics TBD.
