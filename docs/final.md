@@ -1,4 +1,4 @@
-## UT Civic Data Hackathon (November 2nd, [APPLY HERE](#))
+## UT Civic Data Hackathon (November 2nd, [APPLY HERE](https://forms.gle/K3sxiFBjFMdWHtvV7))
 
 - Date: November 2nd, 2019
 - Place: [PCL Learning Lab 1](https://www.lib.utexas.edu/study-spaces-technology/spaces/learning-lab-1-ab)
@@ -11,7 +11,7 @@ We will solve real-world civic issues by analyzing open government data and buil
 ### Eligibility and requirements: 
 
 - Course students are required.
-- All current UT Austin full time graduate (9 credit hours) or undergraduate (12 credit hours) students are eligible, but [need to apply here](#). The selection process is competitive.
+- All current UT Austin full time graduate (9 credit hours) or undergraduate (12 credit hours) students are eligible, but [need to apply](https://forms.gle/K3sxiFBjFMdWHtvV7). The selection process is competitive.
 - Need to work as a team with 2-4 people.
 
 ### Rewards
