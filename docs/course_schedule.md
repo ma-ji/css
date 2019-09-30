@@ -88,7 +88,7 @@ Text analysis in social sciences
 
 #### In class
 - Discussion and lecture on readings.
-- [Data topic 3](/open_data/data_topic/#d3)
+<!-- - [Data topic 3](/open_data/data_topic/#d3) -->
 - Hands-on:
 	- Let's use [JupyterHub Server](https://chameleoncloud.readthedocs.io/en/latest/technical/jupyter.html) on Chameleon Cloud.
 	- Install [`htop`](https://hisham.hm/htop/) (not easy):
@@ -116,7 +116,7 @@ Text analysis in social sciences
 
 #### In class
 - Visit [Texas Advanced Computing Center](https://www.tacc.utexas.edu/).
-- [Data topic 4](/open_data/data_topic/#d4)
+<!-- - [Data topic 4](/open_data/data_topic/#d4) -->
 
 #### After class
 - [<span style="color:red">**Assignment 3 due this week's Sunday.**</span>](/open_data/assignments/#a3)

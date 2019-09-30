@@ -13,8 +13,8 @@
 ---
 ### Class data topics
 
-- Week 3 Sep 23: [Y. Gutiérrez's Topic: Occupation and employment in Mexico](#d3)
-- Week 4 Sep 30: [H. García's Topic: Inconme and expenses of families](#d4)
+<!-- - Week 3 Sep 23: [Y. Gutiérrez's Topic: Occupation and employment in Mexico](#d3)
+- Week 4 Sep 30: [H. García's Topic: Inconme and expenses of families](#d4) -->
 - Week 5 Oct 7: [A. Meed's Topic: Federal election data](#d5)
 - Week 6 Oct 14: [A. Messamore's Topic: Chicago Data Portal](#d6)
 - Week 7 Oct 21: [H. Zalke's Topic: IMF Data](#d7)
@@ -28,7 +28,7 @@
 - Week 14 Dec 9: [M. Warner's Topic: World Inequality Database](#d14a)
 - Week 14 Dec 9: [L. YE's Topic: Social Twitter Data](#d14b)
 
----
+<!-- ---
 ### <a name="d3">Week 3 Sep 23: [Y. Gutiérrez's Topic: Occupation and employment in Mexico](https://inegi.org.mx/programas/enoe/15ymas/default.html#Datos_abiertos).</a>
 
 #### Dataset Introduction
@@ -49,7 +49,7 @@ The National Survey of Household Income and Expenses 2018 was carried out from A
 #### Related academic study
 
 * Bazdresch, Santiago. "Finance and employment formalization: Evidence from Mexico's ENIGH, 2000-2016 " Banco de Mexico Working Papers (2018). No. 2018-14: 1-53
-
+ -->
 ---
 ### <a name="d5">Week 5 Oct 7: [A. Meed's Topic: Federal election data](https://api.open.fec.gov/developers/).</a>
 
