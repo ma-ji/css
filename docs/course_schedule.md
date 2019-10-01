@@ -14,7 +14,7 @@ Knowledge and hands-on fundamentals
 
 Text analysis in social sciences
 
-- [Week 6 Oct 14: Text analysis - Fundamentals and lexical resources (TBD)](#w6)
+- [Week 6 Oct 14: Text analysis - Fundamentals and lexical resources](#w6)
 - [Week 7 Oct 21: Text analysis - Preprocessing and vectorization (TBD)](#w7)
 - [Week 8 Oct 28: Text analysis - Topic modeling and classification (TBD)](#w8)
 - [Week 9 Nov 4: Text analysis - Context aware and relation extraction (TBD)](#w9)
@@ -147,7 +147,7 @@ Network analysis in social sciences
 	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018a. “Building a Custom Corpus.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
 	- ———. 2018b. “Language and Computation.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
 	- Bird, Steven, Ewan Klein, and Edward Loper. 2009a. “Accessing Text Corpora and Lexical Resources.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly. http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=415520.
-	- ———. 2009b. “Language Processing and Python.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly. http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=415520.
+	<!-- - ———. 2009b. “Language Processing and Python.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly. http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=415520. -->
 
 
 #### In class
