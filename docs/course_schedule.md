@@ -12,21 +12,20 @@ Knowledge and hands-on fundamentals
 - [Week 4 Sep 30: High-performance cloud computing and parallel computing](#w4)
 - [Week 5 Oct 7: Algorithm and workflow for social scientists](#w5)
 
-Network analysis in social sciences
-
-- [Week 6 Oct 14: Network analysis - basic concepts](#w6)
-- [Week 7 Oct 21: Network analysis - analysis of nodes (TBD)](#w7)
-- [Week 8 Oct 28: Network analysis - analysis of communities (TBD)](#w8)
-- [Week 9 Nov 4: Network analysis - Example studies in social sciences (TBD)](#w9)
-
 Text analysis in social sciences
 
-- [Week 10 Nov 11: Text analysis - Fundamentals and lexical resources (TBD)](#w10)
-- [Week 11 Nov 18: Text analysis - Preprocessing and vectorization (TBD)](#w11)
-- [Week 12 Nov 25: Text analysis - Topic modeling and classification (TBD)](#w12)
-- [Week 13 Dec 2: Text analysis - Context aware and relation extraction (TBD)](#w13)
-- [Week 14 Dec 9: Text analysis - Example studies in social sciences (TBD)](#w14)
+- [Week 6 Oct 14: Text analysis - Fundamentals and lexical resources (TBD)](#w6)
+- [Week 7 Oct 21: Text analysis - Preprocessing and vectorization (TBD)](#w7)
+- [Week 8 Oct 28: Text analysis - Topic modeling and classification (TBD)](#w8)
+- [Week 9 Nov 4: Text analysis - Context aware and relation extraction (TBD)](#w9)
+- [Week 10 Nov 11: Text analysis - Example studies in social sciences (TBD)](#w10)
 
+Network analysis in social sciences
+
+- [Week 11 Nov 18: Network analysis - basic concepts](#w11)
+- [Week 12 Nov 25: Network analysis - analysis of nodes (TBD)](#w12)
+- [Week 13 Dec 2: Network analysis - analysis of communities (TBD)](#w13)
+- [Week 14 Dec 9: Network analysis - Example studies in social sciences (TBD)](#w14)
 
 ---
 ### <a name="w0"> Week 0 Pre-course </a>
@@ -140,75 +139,7 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w6"> Week 6 Oct 14: Network analysis - basic concepts </a>
-
-#### Before class
-- Readings:
-	- Scott, John. 2017. “What Is Social Network Analysis?” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
-	- Scott, John. 2017. “Terminology for Network Analysis.” In Social Network Analysis, Fourth edition, 73–94. Thousand Oaks, CA: SAGE Publications Ltd.
-	- Scott, John. 2017. “Organising and Analysing Network Data.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
-
-#### In class
-- Discussion and lecture on readings.
-- [Data topic 6](/open_data/data_topic/#d6)
-- Hands-on practice.
-
-#### After class
-- Further readings:
-	- Scott, John. 2017. “Data Collection for Social Network Analysis.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
-	- Scott, John. 2017. “The History of Social Network Analysis.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
-- Recommended course: [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
-
----
-### <a name="w7"> Week 7 Oct 21: Network analysis - analysis of nodes </a>
-
-#### Before class
-- Readings:
-	- Scott, John. 2017. “Popularity Mediation and Exclusion.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
-
-#### In class
-- Discussion and lecture on readings.
-- [Data topic 7](/open_data/data_topic/#d7)
-- Hands-on practice.
-
-#### After class
-- Recommended course: [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
-
-
----
-### <a name="w8"> Week 8 Oct 28: Network analysis - analysis of communities </a>
-
-#### Before class
-- Readings:
-	- Colizza, V., A. Flammini, M. A. Serrano, and A. Vespignani. 2006. “Detecting Rich-Club Ordering in Complex Networks.” Nature Physics 2 (2): 110–15. https://doi.org/10.1038/nphys209.
-
-#### In class
-- Discussion and lecture on readings.
-- [Data topic 8](/open_data/data_topic/#d8)
-- Hands-on practice.
-
-#### After class
-- [<span style="color:red">**Assignment 4 due this week's Sunday.**</span>](/open_data/assignments/#a4)
-- Recommended course: [Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
-
-
----
-### <a name="w9"> Week 9 Nov 4: Network analysis - Example social science studies </a>
-
-#### Before class
-- Readings:
-	- Heemskerk, Eelke M., and Frank W. Takes. 2016. “The Corporate Elite Community Structure of Global Capitalism.” New Political Economy 21 (1): 90–118. https://doi.org/10.1080/13563467.2015.1041483.
-
-#### In class
-- Discussion and lecture on readings.
-- [Data topic 9](/open_data/data_topic/#d9a)
-
-#### After class
-- Recommended course: [Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
-
-
----
-### <a name="w10"> Week 10 Nov 11: Text analysis - Fundamentals and lexical resources </a>
+### <a name="w6"> Week 6 Oct 14: Text analysis - Fundamentals and lexical resources </a>
 #### Before class
 - [Complete all lessons on RegexOne](https://regexone.com/)
 - Readings:
@@ -221,7 +152,7 @@ Text analysis in social sciences
 
 #### In class
 - Discussion and lecture on readings.
-- [Data topic 10](/open_data/data_topic/#d10)
+- [Data topic 6](/open_data/data_topic/#d6)
 - Hands-on practice.
 
 #### After class
@@ -229,7 +160,7 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w11"> Week 11 Nov 18: Text analysis - Preprocessing and vectorization </a>
+### <a name="w7"> Week 7 Oct 21: Text analysis - Preprocessing and vectorization </a>
 
 #### Before class
 - Readings:
@@ -240,22 +171,19 @@ Text analysis in social sciences
 
 #### In class
 - Discussion and lecture on readings.
-- [Data topic 11](/open_data/data_topic/#d11)
+- [Data topic 7](/open_data/data_topic/#d7)
 - Hands-on practice.
 
 
 ---
-### <a name="w12"> Week 12 Nov 25: Text analysis - Topic modeling and classification </a>
+### <a name="w8"> Week 8 Oct 28: Text analysis - Topic modeling and classification </a>
 #### Before class
 #### In class
-- [Data topic 12](/open_data/data_topic/#d12)
-
-#### After class
-- [<span style="color:red">**Assignment 5 due this week's Sunday.**</span>](/open_data/assignments/#a5)
+- [Data topic 8](/open_data/data_topic/#d8)
 
 
 ---
-### <a name="w13"> Week 13 Dec 2: Text analysis - Context aware and relation extraction </a>
+### <a name="w9"> Week 9 Nov 4: Text analysis - Context aware and relation extraction </a>
 
 #### Before class
 - Readings:
@@ -263,18 +191,89 @@ Text analysis in social sciences
 	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018. “Graph Analysis of Text.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
 
 #### In class
-- [Data topic 13](/open_data/data_topic/#d13)
+- [Data topic 9](/open_data/data_topic/#d9a)
 - Hands-on practice.
 
 
 ---
-### <a name="w14"> Week 14 Dec 9: Text analysis - Example social science studies </a>
+### <a name="w10"> Week 10 Nov 11: Text analysis - Example social science studies </a>
 #### Before class
 - Readings:
 	- Grimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21 (3): 267–97. https://doi.org/10.1093/pan/mps028.
 	- Hollibaugh, Gary E. 2018. “The Use of Text as Data Methods in Public Administration: A Review and an Application to Agency Priorities.” Journal of Public Administration Research and Theory. https://doi.org/10.1093/jopart/muy045.
 
 #### In class
-- [Data topic 14](/open_data/data_topic/#d14a)
+- [Data topic 10](/open_data/data_topic/#d10)
 - Hands-on practice.
+
+
+---
+### <a name="w11"> Week 11 Nov 18: Network analysis - basic concepts </a>
+
+#### Before class
+- Readings:
+	- Scott, John. 2017. “What Is Social Network Analysis?” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
+	- Scott, John. 2017. “Terminology for Network Analysis.” In Social Network Analysis, Fourth edition, 73–94. Thousand Oaks, CA: SAGE Publications Ltd.
+	- Scott, John. 2017. “Organising and Analysing Network Data.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
+
+#### In class
+- Discussion and lecture on readings.
+- [Data topic 11](/open_data/data_topic/#d11)
+- Hands-on practice.
+
+#### After class
+- Further readings:
+	- Scott, John. 2017. “Data Collection for Social Network Analysis.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
+	- Scott, John. 2017. “The History of Social Network Analysis.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
+- Recommended course: [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
+
+---
+### <a name="w12"> Week 12 Nov 25: Network analysis - analysis of nodes </a>
+
+#### Before class
+- Readings:
+	- Scott, John. 2017. “Popularity Mediation and Exclusion.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
+
+#### In class
+- Discussion and lecture on readings.
+- [Data topic 12](/open_data/data_topic/#d12)
+- Hands-on practice.
+
+#### After class
+- Recommended course: [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
+- [<span style="color:red">**Assignment 5 due this week's Sunday.**</span>](/open_data/assignments/#a5)
+
+
+---
+### <a name="w13"> Week 13 Dec 2: Network analysis - analysis of communities </a>
+
+#### Before class
+- Readings:
+	- Colizza, V., A. Flammini, M. A. Serrano, and A. Vespignani. 2006. “Detecting Rich-Club Ordering in Complex Networks.” Nature Physics 2 (2): 110–15. https://doi.org/10.1038/nphys209.
+
+#### In class
+- Discussion and lecture on readings.
+- [Data topic 13](/open_data/data_topic/#d13)
+- Hands-on practice.
+
+#### After class
+- [<span style="color:red">**Assignment 4 due this week's Sunday.**</span>](/open_data/assignments/#a4)
+- Recommended course: [Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
+
+
+---
+### <a name="w14"> Week 14 Dec 9: Network analysis - Example social science studies </a>
+
+#### Before class
+- Readings:
+	- Heemskerk, Eelke M., and Frank W. Takes. 2016. “The Corporate Elite Community Structure of Global Capitalism.” New Political Economy 21 (1): 90–118. https://doi.org/10.1080/13563467.2015.1041483.
+
+#### In class
+- Discussion and lecture on readings.
+- [Data topic 14](/open_data/data_topic/#d14a)
+
+#### After class
+- Recommended course: [Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
+
+
 
