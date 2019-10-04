@@ -13,6 +13,8 @@
 ---
 ### Class data topics
 
+Students are expected to have a one-hour presentation on the following topics:
+
 <!-- - Week 3 Sep 23: [Y. Gutiérrez's Topic: Occupation and employment in Mexico](#d3)
 - Week 4 Sep 30: [H. García's Topic: Inconme and expenses of families](#d4) -->
 - Week 5 Oct 7: [A. Meed's Topic: Federal election data](#d5)
