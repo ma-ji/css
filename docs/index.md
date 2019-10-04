@@ -33,7 +33,7 @@ Although programming is an essential part of this course, the course schedule an
 2. You should be familiar with all the topics covered by [this tutorial](https://www.learnpython.org/) before class.
 
 ### Grading
-40% assignments, 20% presentation of datasets, and 40% final project.
+40% [assignments](/assignments/), 20% [presentation of datasets](/data_topic/), and 40% [final project](/final/).
 
 - A >= 93%, A- >= 90
 - B+ >= 87%, B >= 83%, B- >= 80%
