@@ -62,20 +62,15 @@ Tasks:
 1. Generate a codebook of this dataset;
 2. Create criteria for disambiguating authors and affiliations.
 3. Explain why the criteria can generate valid results.
-3. Compile a function according to the criteria, run the function on records, and give unique IDs to these entities.
-4. Verify accuracy: choose a random sample and manually check the false positive and false negative rates.
-5. Describe: 1) who are the most productive authors in nonprofit studies? 2) Which are the most productive institutions in nonprofit studies? 3) How you define "productive."
-6. Remember to document everything in detail using a Jupyter Notebook!
+4. Compile a function according to the criteria, run the function on records, and give unique IDs to these entities.
+5. Verify accuracy: choose a random sample and manually check the false positive and false negative rates.
+6. Describe: 1) who are the most productive authors in nonprofit studies? 2) Which are the most productive institutions in nonprofit studies? 3) How you define "productive."
+7. Remember to document everything in detail using Jupyter Notebook, and submit the notebook through Canvas.
 
 Example studies using this dataset:
-- Ma, Ji, and Sara Konrath. 2018. “A Century of Nonprofit Studies: Scaling the Knowledge of the Field.” VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations 29 (6): 1139–58. https://doi.org/10.1007/s11266-018-00057-5.
+- Ma, Ji, and Sara Konrath. 2018. "A Century of Nonprofit Studies: Scaling the Knowledge of the Field." VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations 29 (6): 1139–58. https://doi.org/10.1007/s11266-018-00057-5.
 
 ---
-### <a name="a5"> Assignment 5: Network / text analysis (individual/group, 10% points) </a>
+### <a name="a5"> Assignment 5: Network analysis (individual/group, 10% points) </a>
 
-Choose an assignment of your interest:
-
-#### Analysis of social networks 
-
-#### Analysis of trends using topic modeling
 

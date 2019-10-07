@@ -206,6 +206,9 @@ Network analysis in social sciences
 - [Data topic week 10](/open_data/data_topic/#d10)
 - Hands-on practice.
 
+#### After class
+- [<span style="color:red">**Assignment 4 due this week's Sunday.**</span>](/open_data/assignments/#a4)
+
 
 ---
 ### <a name="w11"> Week 11 Nov 18: Network analysis - basic concepts </a>
@@ -241,7 +244,6 @@ Network analysis in social sciences
 
 #### After class
 - Recommended course: [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
-- [<span style="color:red">**Assignment 5 due this week's Sunday.**</span>](/open_data/assignments/#a5)
 
 
 ---
@@ -257,7 +259,7 @@ Network analysis in social sciences
 - Hands-on practice.
 
 #### After class
-- [<span style="color:red">**Assignment 4 due this week's Sunday.**</span>](/open_data/assignments/#a4)
+- [<span style="color:red">**Assignment 5 due this week's Sunday.**</span>](/open_data/assignments/#a5)
 - Recommended course: [Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
 
 
