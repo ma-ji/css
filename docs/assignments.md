@@ -4,7 +4,7 @@
 - [Assignment 2: Create your own cloud computing server (individual, 5% points)](#a2)
 - [Assignment 3: Parallel computing (individual, 5% points)](#a3)
 - [Assignment 4: Disambiguation using algorithm (individual/group, 15% points)](#a4)
-- [Assignment 5: Network / text analysis (individual/group, 10% points)](#a5)
+- [Assignment 5: Network analysis (individual/group, 10% points; TBD)](#a5)
 
 Late submissions are not accepted.
 
