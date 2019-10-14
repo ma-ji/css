@@ -28,7 +28,7 @@ Network analysis in social sciences
 - [Week 14 Dec 9: Network analysis - Example studies in social sciences (TBD)](#w14)
 
 ---
-### <a name="w0"> Week 0 Pre-course </a>  [TOP](#)
+### <a name="w0"> Week 0 Pre-course </a>	[Back2Top](#)
 - [Complete course survey](https://utexas.instructure.com/courses/1261330/quizzes/1295833)
 - Register Accounts:
 	- [GitHub](https://github.com/) / [Education (Students)](https://education.github.com/students)
@@ -36,7 +36,7 @@ Network analysis in social sciences
 
 
 ---
-### <a name="w1"> Week 1 Sep 9: Why this course? </a>  [TOP](#)
+### <a name="w1"> Week 1 Sep 9: Why this course? </a>	[Back2Top](#)
 
 #### Before class
 - Readings:
@@ -54,7 +54,7 @@ Network analysis in social sciences
 
 
 ---
-### <a name="w2"> Week 2 Sep 16: Knowledge graph, computation, and social science </a>  [TOP](#)
+### <a name="w2"> Week 2 Sep 16: Knowledge graph, computation, and social science </a>	[Back2Top](#)
 
 #### Before class
 - Readings:
@@ -77,7 +77,7 @@ Network analysis in social sciences
 
 
 ---
-### <a name="w3"> Week 3 Sep 23: Good enough research practices in scientific computing </a>  [TOP](#)
+### <a name="w3"> Week 3 Sep 23: Good enough research practices in scientific computing </a>	[Back2Top](#)
 
 #### Before class
 - Readings:
@@ -107,7 +107,7 @@ Network analysis in social sciences
 
 
 ---
-### <a name="w4"> Week 4 Sep 30: High-performance cloud computing and parallel computing </a>  [TOP](#)
+### <a name="w4"> Week 4 Sep 30: High-performance cloud computing and parallel computing </a>	[Back2Top](#)
 
 #### Before class
 - Readings:
@@ -123,7 +123,7 @@ Network analysis in social sciences
 
 
 ---
-### <a name="w5"> Week 5 Oct 7: Algorithm and workflow for social scientists </a>  [TOP](#)
+### <a name="w5"> Week 5 Oct 7: Algorithm and workflow for social scientists </a>	[Back2Top](#)
 
 #### Before class
 - Readings:
@@ -139,7 +139,7 @@ Network analysis in social sciences
 
 
 ---
-### <a name="w6"> Week 6 Oct 14: Text analysis - Fundamentals and lexical resources </a>  [TOP](#)
+### <a name="w6"> Week 6 Oct 14: Text analysis - Fundamentals and lexical resources </a>	[Back2Top](#)
 #### Before class
 - [Complete all lessons on RegexOne](https://regexone.com/)
 - Readings:
@@ -161,7 +161,7 @@ Network analysis in social sciences
 
 
 ---
-### <a name="w7"> Week 7 Oct 21: Text analysis - Preprocessing and vectorization </a>  [TOP](#)
+### <a name="w7"> Week 7 Oct 21: Text analysis - Preprocessing and vectorization </a>	[Back2Top](#)
 
 #### Before class
 - Readings:
@@ -182,14 +182,14 @@ Network analysis in social sciences
 
 
 ---
-### <a name="w8"> Week 8 Oct 28: Text analysis - Topic modeling and classification </a>  [TOP](#)
+### <a name="w8"> Week 8 Oct 28: Text analysis - Topic modeling and classification </a>	[Back2Top](#)
 #### Before class
 #### In class
 - [Data topic week 8](/open_data/data_topic/#d8)
 
 
 ---
-### <a name="w9"> Week 9 Nov 4: Text analysis - Context aware and relation extraction </a>  [TOP](#)
+### <a name="w9"> Week 9 Nov 4: Text analysis - Context aware and relation extraction </a>	[Back2Top](#)
 
 #### Before class
 - Readings:
@@ -202,7 +202,7 @@ Network analysis in social sciences
 
 
 ---
-### <a name="w10"> Week 10 Nov 11: Text analysis - Example social science studies </a>  [TOP](#)
+### <a name="w10"> Week 10 Nov 11: Text analysis - Example social science studies </a>	[Back2Top](#)
 #### Before class
 - Readings:
 	- Grimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21 (3): 267–97. https://doi.org/10.1093/pan/mps028.
@@ -217,7 +217,7 @@ Network analysis in social sciences
 
 
 ---
-### <a name="w11"> Week 11 Nov 18: Network analysis - basic concepts </a>  [TOP](#)
+### <a name="w11"> Week 11 Nov 18: Network analysis - basic concepts </a>	[Back2Top](#)
 
 #### Before class
 - Readings:
@@ -237,7 +237,7 @@ Network analysis in social sciences
 - Recommended course: [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 
 ---
-### <a name="w12"> Week 12 Nov 25: Network analysis - analysis of nodes </a>  [TOP](#)
+### <a name="w12"> Week 12 Nov 25: Network analysis - analysis of nodes </a>	[Back2Top](#)
 
 #### Before class
 - Readings:
@@ -253,7 +253,7 @@ Network analysis in social sciences
 
 
 ---
-### <a name="w13"> Week 13 Dec 2: Network analysis - analysis of communities </a>  [TOP](#)
+### <a name="w13"> Week 13 Dec 2: Network analysis - analysis of communities </a>	[Back2Top](#)
 
 #### Before class
 - Readings:
@@ -270,7 +270,7 @@ Network analysis in social sciences
 
 
 ---
-### <a name="w14"> Week 14 Dec 9: Network analysis - Example social science studies </a>  [TOP](#)
+### <a name="w14"> Week 14 Dec 9: Network analysis - Example social science studies </a>	[Back2Top](#)
 
 #### Before class
 - Readings:
