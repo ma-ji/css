@@ -156,7 +156,7 @@ Network analysis in social sciences
 - Hands-on practice.
 
 #### After class
-- Recommended course: [Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
+- Recommended course: [Natural Language Processing Fundamentals in Python: Regular expressions & word tokenization](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
 
 
 ---
