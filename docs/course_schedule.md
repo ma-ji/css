@@ -15,7 +15,7 @@ Knowledge and hands-on fundamentals
 Text analysis in social sciences
 
 - [Week 6 Oct 14: Text analysis - Fundamentals and lexical resources](#w6)
-- [Week 7 Oct 21: Text analysis - Preprocessing and vectorization (TBD)](#w7)
+- [Week 7 Oct 21: Text analysis - Preprocessing and vectorization](#w7)
 - [Week 8 Oct 28: Text analysis - Topic modeling and classification (TBD)](#w8)
 - [Week 9 Nov 4: Text analysis - Context aware and relation extraction (TBD)](#w9)
 - [Week 10 Nov 11: Text analysis - Example studies in social sciences (TBD)](#w10)
@@ -167,8 +167,6 @@ Network analysis in social sciences
 - Readings:
 	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018a. “Corpus Preprocessing and Wrangling.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
 	- ———. 2018b. “Text Vectorization and Transformation Pipelines.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
-	- Bird, Steven, Ewan Klein, and Edward Loper. 2009a. “Categorizing and Tagging Words.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
-	- ———. 2009b. “Preprocessing Raw Text.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
 
 #### In class
 - Discussion and lecture on readings.
@@ -178,6 +176,9 @@ Network analysis in social sciences
 #### After class
 - [Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python):
 	- "Simple topic identification"
+- Further readings:
+	- Bird, Steven, Ewan Klein, and Edward Loper. 2009a. “Categorizing and Tagging Words.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
+	- ———. 2009b. “Preprocessing Raw Text.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
 
 
 ---
