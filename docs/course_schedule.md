@@ -156,7 +156,8 @@ Network analysis in social sciences
 - Hands-on practice.
 
 #### After class
-- Complete: [Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python): Regular expressions & word tokenization
+- [Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python):
+	- "Regular expressions & word tokenization"
 
 
 ---
@@ -166,13 +167,17 @@ Network analysis in social sciences
 - Readings:
 	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018a. “Corpus Preprocessing and Wrangling.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
 	- ———. 2018b. “Text Vectorization and Transformation Pipelines.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
-	- Bird, Steven, Ewan Klein, and Edward Loper. 2009a. “Categorizing and Tagging Words.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly. http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=415520.
-	- ———. 2009b. “Preprocessing Raw Text.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly. http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=415520.
+	- Bird, Steven, Ewan Klein, and Edward Loper. 2009a. “Categorizing and Tagging Words.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
+	- ———. 2009b. “Preprocessing Raw Text.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
 
 #### In class
 - Discussion and lecture on readings.
 - [Data topic week 7](/open_data/data_topic/#d7)
 - Hands-on practice.
+
+#### After class
+- [Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python):
+	- "Simple topic identification"
 
 
 ---
