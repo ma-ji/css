@@ -17,7 +17,7 @@ sass:
     sass_dir: css
 
 navbar:
- - name: "Course Schedule"
+ - name: "Schedule"
    link: "course_schedule"
  - name: "Assignments"
    link: "assignments"
@@ -27,5 +27,5 @@ navbar:
    link: "final"
  - name: "Special Events"
    link: "special_events"
- - name: "home"
+ - name: "Introduction"
    link: "index"
