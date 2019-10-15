@@ -180,10 +180,18 @@ Network analysis in social sciences
 	- Bird, Steven, Ewan Klein, and Edward Loper. 2009a. “Categorizing and Tagging Words.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
 	- ———. 2009b. “Preprocessing Raw Text.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
 
+#### After class
+- [Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python):
+	- "Building a 'fake news' classifier"
+
 
 ---
-### <a name="w8"> Week 8 Oct 28: Text analysis - Topic modeling and classification </a>	[_Back2Top_](#)
+### <a name="w8"> Week 8 Oct 28: Text analysis - classification </a>	[_Back2Top_](#)
 #### Before class
+- Readings:
+	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018. “Classification for Text Analysis.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
+	- Bird, Steven, Ewan Klein, and Edward Loper. 2009. “Learning to Classify Text.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
+
 #### In class
 - [Data topic week 8](/open_data/data_topic/#d8)
 
