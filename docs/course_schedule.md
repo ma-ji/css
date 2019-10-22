@@ -16,8 +16,8 @@ Text analysis in social sciences
 
 - [Week 6 Oct 14: Text analysis - Fundamentals and lexical resources](#w6)
 - [Week 7 Oct 21: Text analysis - Preprocessing and vectorization](#w7)
-- [Week 8 Oct 28: Text analysis - Topic modeling and classification (TBD)](#w8)
-- [Week 9 Nov 4: Text analysis - Context aware and relation extraction (TBD)](#w9)
+- [Week 8 Oct 28: Text analysis - Classification](#w8)
+- [Week 9 Nov 4: Text analysis - Relation extraction](#w9)
 - [Week 10 Nov 11: Text analysis - Example studies in social sciences (TBD)](#w10)
 
 Network analysis in social sciences
@@ -182,7 +182,7 @@ Network analysis in social sciences
 
 
 ---
-### <a name="w8"> Week 8 Oct 28: Text analysis - classification </a>	[_Back2Top_](#)
+### <a name="w8"> Week 8 Oct 28: Text analysis - Classification </a>	[_Back2Top_](#)
 #### Before class
 - Readings:
 	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018. “Classification for Text Analysis.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
@@ -197,11 +197,10 @@ Network analysis in social sciences
 
 
 ---
-### <a name="w9"> Week 9 Nov 4: Text analysis - Context aware and relation extraction </a>	[_Back2Top_](#)
+### <a name="w9"> Week 9 Nov 4: Text analysis - Relation extraction </a>	[_Back2Top_](#)
 
 #### Before class
 - Readings:
-	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018. “Context-Aware Text Analysis.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
 	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018. “Graph Analysis of Text.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
 
 #### In class
