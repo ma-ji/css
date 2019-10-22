@@ -20,7 +20,7 @@ Students are expected to have a one-hour presentation on the following topics:
 - Week 5 Oct 7: [A. Meed's Topic: Federal election data](#d5)
 - Week 6 Oct 14: [A. Messamore's Topic: Chicago Data Portal](#d6)
 - Week 7 Oct 21: [H. Zalke's Topic: IMF Data](#d7)
-- Week 8 Oct 28: [M. Xu's Topic: Alibaba-Tabao B2B e-commerce data](#d8)
+- Week 8 Oct 28: [M. Xu's Topic: Philanthropy Roundtable](#d8)
 - Week 9 Nov 4: [T. Oladimeji's Topic: U.S. Securities and Exchange Commission EDGAR](#d9a)
 - Week 9 Nov 4: [X. Han's Topic: ShangHai Data Portal](#d9b)
 - Week 10 Nov 11: [E. Tenison's Topic: The Atlas of Economic Complexity](#d10)
@@ -85,16 +85,25 @@ I will be using the [IMF database](https://www.imf.org/en/Data) to gather data o
 * This paper studies the relationship between IMF loans approved to developig countries and theier membership status in the United Nations Security Council. The authors propose that temporary members of the United Nations Security Council are more likely to get their loan requests approved. For this, they use a panel data for 197 countries over the period from 1951 to 2004. They check the number of loans approved for each country between these years. They also check the number of conditions attached with each loan. The study finds that not only do the temporary members of UNSC are more likely to get their loan request approved but the conditions attached with loans are also fewer. The authors conclude that IMF loans is a mechanism by which shareholders of the fund win favor with voting members of the United Nations.
 
 
-### <a name="d8">Week 8 Oct 28: [M. Xu's Topic: Alibaba-Tabao B2B e-commerce data](https://www.taobao.com/).</a>
+### <a name="d8">Week 8 Oct 28: [M. Xu's Topic: Philanthropy Roundtable](https://www.philanthropyroundtable.org/).</a>
 
 #### Dataset Introduction
-Alibaba is an internet-based e-commerce website that covers business-to-business online marketplaces, retail and payment platforms, shopping search engine and data-centric cloud computing services.24 Alibaba requires that manufacturers provide detailed infor- mation about the company, including location, employee size, registered capital and a link to the company’s website. Alibaba allows manufacturers to subscribe as Gold Suppliers, a premium membership that provides promotional opportunities to maximise the exposure and return-on- investment of the suppliers. To qualify for a Gold Supplier membership, a supplier must complete an authentication and verification process by a reputable third-party security service provider appointed by Alibaba. Once approved, Gold Supplier members are authorised to display the Gold Supplier icon to demonstrate their authenticity. Limiting the search to Gold Suppliers ensured the existence of the manufacturing companies identified and excluded fake companies from the search results.
+[Philanthropy Roundtable] (https://www.philanthropyroundtable.org/)
+* The Philanthropy Roundtable is America's leading network of charitable donors working to strengthen our free society, uphold donor intent, and protect the freedom to give. Our members include individual philanthropists, families, and private foundations. It seeks to to foster excellence in philanthropy, to protect philanthropic freedom, to assist donors in achieving their philanthropic intent, and to help donors advance liberty, opportunity, and personal responsibility in America and abroad. 
+
+Supplementary materials: 
+* Peer-reviewed social scientific research on climate change published by leading scholars and in leading journals
+* Internal Revenue Service (IRS) records aggregated from 
+  * [GuideStar] (https://www.guidestar.org/)
+  * [National Center for Charitable Statistics] (https://nccs.urban.org/)
+  * [Foundation Center] (https://fconline.foundationcenter.org/).
+
 
 #### Related academic study
-- T., Jiang, N., Grana, R., Ling, P. M., & Glantz, S. A. (2016). "A content analysis of electronic cigarette manufacturer websites in China". *Tobacco control*, 25(2), 188-194.
-- The paper used Alibaba to study the websites of electronic cigarette (e-cigarette) manufacturers in China and describe how they market their products. From March to April 2013, researchers used two search keywords ‘electronic cigarette’ (Dian Zi Xiang Yan in Chinese) and ‘manufacturer’ (Sheng Chan Chang Jia in Chinese) to search e-cigarette manufacturers in China on Alibaba. A total of 18 websites of 12 e-cigarette manufacturers in China were analysed by using a coding guide which includes 14 marketing claims. The coding guide consisted of seven sections with 90 total items, including: (1) basic information about the site, (2) regulatory language, (3) contact information, (4) products, (5) claims, (6) messaging and (7) promotion. 
-- The paper finds that health-related benefits were claimed most frequently (89%), followed by the claims of no secondhand smoke (SHS) exposure (78%), and utility for smoking cessation (67%). A wide variety of flavours, celebrity endorsements and e-cigarettes specifically for women were presented. None of the websites had any age restriction on access, references to government regulation or lawsuits. Instruction on how to use e-cigarettes was on 17% of the websites.
-- The paper concludes that betterregulationofe-cigarettemarketing messages on manufacturers’ websites is needed in China. The frequent claims of health benefits, smoking cessation, strategies appealing to youth and women are concerning, especially targeting women. Regulators should prohibit marketing claims of health benefits, no SHS exposure and value for smoking cessation in China until health-related, quality and safety issues have been adequately addressed. To avoid e-cigarette use for initiation to nicotine addiction, messages targeting youth and women should be prohibited.
+* Farrell, J. (2018). The growth of climate change misinformation in US philanthropy: evidence from natural language processing. * Environmental Research Letters* .
+  * This paper examines the links between two of the most consequential developments affecting US politics: (1) the growing influence of private philanthropy, and (2) the large-scale production and diffusion of misinformation. 
+  * Methods: the study employs a sophisticated research design on a large collection of new data, utilizing natural language processing and approximate string matching to examine the relationship between the large-scale climate misinformation movement and US philanthropy. 
+  * Results: the study finds that over a twenty year period, networks of actors promulgating scientific misinformation about climate change were increasingly integrated into the institution of US philanthropy. The degree of integration is predicted by funding ties to prominent corporate donors. These findings reveal new knowledge about large-scale efforts to distort public understanding of science and sow polarization. The study also contributes a unique computational approach to be applied at this increasingly important, yet methodologically fraught, area of research.
 
 ---
 ### <a name="d9a">Week 9 Nov 4: [T. Oladimeji's Topic: U.S. Securities and Exchange Commission EDGAR](https://www.sec.gov/edgar.shtml)</a>
