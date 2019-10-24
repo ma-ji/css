@@ -6,8 +6,7 @@
 We will solve real-world civic issues by analyzing open government data and building computer programs or models. You can assemble team with students from or outside of the class. Your team can choose from the following problems:
 
 - [Classifying Nonprofits Using 990 Forms](/assets/problem_description_CDH_990forms.pdf).
-- [Profiling Environmental Nonprofits in the State of Texas](/assets/problem_description_ENGO.pdf).
-- [Affordable Housing in Austin (in preparation)](#)
+- [Profiling Environmental Nonprofits in the State of Texas (updated)](/assets/problem_description_ENGO.pdf).
 
 ### Eligibility and requirements: 
 
@@ -27,7 +26,7 @@ Depending on the University's operating procedures, final rewards may be distrib
 - October 1st - 14th: Outreach, receiving applications.
 - October 15th - 31st: Team preparation and working with domain experts.
 - November 2nd: Hackathon day.
-	- 9am-12pm: Team work and feedback from domain experts.
+	- 10am-12pm: Team work and feedback from domain experts.
 	- 12pm-1:30pm: Break.
 	- 1:30pm-4pm: Finalize work and presentation.
 	- 4pm-5:30pm: Team presentations.
