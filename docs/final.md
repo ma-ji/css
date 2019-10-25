@@ -7,6 +7,7 @@ We will solve real-world civic issues by analyzing open government data and buil
 
 - [Classifying Nonprofits Using 990 Forms](/assets/problem_description_CDH_990forms.pdf).
 - [Profiling Environmental Nonprofits in the State of Texas (updated)](/assets/problem_description_ENGO.pdf).
+	- [Organization list: Environmental NGOs in Texas](/assets/eNGO_TX_ein_name_list.csv)
 
 ### Eligibility and requirements: 
 
