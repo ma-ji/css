@@ -18,7 +18,7 @@ Text analysis in social sciences
 - [Week 7 Oct 21: Text analysis - Preprocessing and vectorization](#w7)
 - [Week 8 Oct 28: Text analysis - Classification](#w8)
 - [Week 9 Nov 4: Text analysis - Relation extraction](#w9)
-- [Week 10 Nov 11: Text analysis - Example studies in social sciences (TBD)](#w10)
+- [Week 10 Nov 11: Text analysis - Application in social science studies](#w10)
 
 Network analysis in social sciences
 
@@ -205,7 +205,7 @@ Network analysis in social sciences
 
 #### In class
 - [Data topic week 9](/open_data/data_topic/#d9a)
-- Hands-on practice.
+- Review [Assignment 4](/open_data/assignments/#a4)
 
 #### After class
 - [Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python):
@@ -213,7 +213,7 @@ Network analysis in social sciences
 
 
 ---
-### <a name="w10"> Week 10 Nov 11: Text analysis - Example social science studies </a>	[_Back2Top_](#)
+### <a name="w10"> Week 10 Nov 11: Text analysis - Application in social science studies </a>	[_Back2Top_](#)
 #### Before class
 - Readings:
 	- Grimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21 (3): 267–97. https://doi.org/10.1093/pan/mps028.
