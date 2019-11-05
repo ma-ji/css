@@ -1,3 +1,5 @@
+*The special events are open to public, and students in the class are prioritized.*
+
 ## [Special Event 1 - Workshop: Digital Technologies for Chinese History](/assets/workshop.pdf) (Nov 20th, [RSVP HERE](https://forms.gle/K8iTeQaFyQ1jjFiD8))
 
 This workshop will introduce the use of the [China Biographical Database (CBDB)](https://projects.iq.harvard.edu/cbdb/home), mapping data using GIS, and graphing social networks. CBDB is a relational database of 427,000 men and women, mainly from the 6th through 19th centuries. Participants will be given a copy of the complete database.
@@ -11,7 +13,6 @@ Every Chinese dynasty has experienced a localist turn in which the centralizing 
 
 Presenter: Dr. Peter K. Bol, Charles H. Carswell Professor of East Asian Languages and Civilizations, Harvard University
 
-The special events are **not required**, but students in the class are prioritized.
 
 ---
 *The special events are supported by UT Austin Graduate School's [Academic Enrichment Fund](https://gradschool.utexas.edu/finances/academic-enrichment) and [RGK Center Special Funds for Data Science Speaker Series](https://rgkcenter.org/) at the [LBJ School of Public Affairs](https://lbj.utexas.edu/). Co-sponsors also include [Center for East Asian Studies](https://liberalarts.utexas.edu/asianstudies/), [UT Library Research Data Services](https://www.lib.utexas.edu/research-help-support/research-data-services).*
