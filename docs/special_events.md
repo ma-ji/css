@@ -1,5 +1,6 @@
 *The special events are open to public, and students in the class are prioritized.*
 
+---
 ## [Special Event 1 - Workshop: Digital Technologies for Chinese History](/assets/workshop.pdf) (Nov 20th, [RSVP HERE](https://forms.gle/K8iTeQaFyQ1jjFiD8))
 
 This workshop will introduce the use of the [China Biographical Database (CBDB)](https://projects.iq.harvard.edu/cbdb/home), mapping data using GIS, and graphing social networks. CBDB is a relational database of 427,000 men and women, mainly from the 6th through 19th centuries. Participants will be given a copy of the complete database.
