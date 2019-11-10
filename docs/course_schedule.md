@@ -217,7 +217,7 @@ Network analysis in social sciences
 #### Before class
 - Readings:
 	- Grimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21 (3): 267–97. https://doi.org/10.1093/pan/mps028.
-	- Hollibaugh, Gary E. 2018. “The Use of Text as Data Methods in Public Administration: A Review and an Application to Agency Priorities.” Journal of Public Administration Research and Theory. https://doi.org/10.1093/jopart/muy045.
+	- Anastasopoulos, L. Jason, and Andrew B. Whitford. 2019. “Machine Learning for Public Administration Research, With Application to Organizational Reputation.” Journal of Public Administration Research and Theory 29 (3): 491–510. https://doi.org/10.1093/jopart/muy060.
 
 #### In class
 - [Data topic week 10](/open_data/data_topic/#d10)
