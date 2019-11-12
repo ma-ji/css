@@ -25,7 +25,7 @@ Students are expected to have a one-hour presentation on the following topics:
 - Week 9 Nov 4: [X. Han's Topic: ShangHai Data Portal](#d9b)
 - Week 10 Nov 11: [E. Tenison's Topic: The Atlas of Economic Complexity](#d10)
 - Week 11 Nov 18: [L. Sepulveda's Topic: National Center for Charitable Statistics](#d11)
-- Week 12 Nov 25: [R. Anderson's Topic: U.S. Bureau of Labor Statistics](#d12)
+- Week 12 Nov 25 (postponed to Week 13): [R. Anderson's Topic: U.S. Bureau of Labor Statistics](#d12)
 - Week 13 Dec 2: [W. Li's Topic: H-1B VISA Data](#d13)
 - Week 14 Dec 9: [M. Warner's Topic: World Inequality Database](#d14a)
 - Week 14 Dec 9: [L. YE's Topic: Social Twitter Data](#d14b)
@@ -152,7 +152,7 @@ The National Center for Charitable Statistics derives data from information that
 * Data from the National Center for Charitable Statistics (NCCS) and other secondary sources was used to examine the nonprofit sectors of nine metropolitan regions. The results indicate that nonprofit sectors vary widely in terms of the numbers of organizations in them and the proportions of different types of providers. Moreover, the findings showed complex and intriguing relationships between nonprofit sectors and political culture, generosity, wealth, poverty, and heterogeneity. Traditionalistic sites had sectors with the opposite characteristics. The sectors in individualistic sites lay between these two patterns. Wealthier sites had larger, better-supported and secure sectors. Sites with higher poverty had less well supported sectors with smaller human service components. The most and least heterogeneous sites had the largest and smallest nonprofit sectors respectively. These findings bolster confidence in the use of NCCS data.
 
 ---
-### <a name="d12">Week 12 Nov 25: [R. Anderson's Topic: U.S. Bureau of Labor Statistics](https://www.bls.gov).</a>
+### <a name="d12">Week 12 Nov 25 (postponed to Week 13): [R. Anderson's Topic: U.S. Bureau of Labor Statistics](https://www.bls.gov).</a>
 
 #### Dataset Introduction
 
