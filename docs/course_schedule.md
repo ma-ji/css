@@ -239,7 +239,7 @@ Network analysis in social sciences
 #### In class
 - Discussion and lecture on readings.
 - [Data topic week 11](/open_data/data_topic/#d11)
-- Hands-on practice.
+- Review [Assignment 5](/open_data/assignments/#a5).
 
 #### After class
 - Further readings:
