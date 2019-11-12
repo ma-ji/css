@@ -23,8 +23,8 @@ Text analysis in social sciences
 Network analysis in social sciences
 
 - [Week 11 Nov 18: Network analysis - basic concepts](#w11)
-- [Week 12 Nov 25: Network analysis - analysis of nodes (TBD)](#w12)
-- [Week 13 Dec 2: Network analysis - analysis of communities (TBD)](#w13)
+- [Week 12 Nov 25: Thanksgiving week, no class](#w12)
+- [Week 13 Dec 2: Network analysis - analysis of nodes and communities (TBD)](#w13)
 - [Week 14 Dec 9: Network analysis - Example studies in social sciences (TBD)](#w14)
 
 ---
@@ -248,37 +248,28 @@ Network analysis in social sciences
 - Recommended course: [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 
 ---
-### <a name="w12"> Week 12 Nov 25: Network analysis - analysis of nodes </a>	[_Back2Top_](#)
+### <a name="w12"> Week 12 Nov 25: Thanksgiving week, no class </a>	[_Back2Top_](#)
+
+- Recommended course: [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
+- [Data topic week 12 (postponed to Week 13)](/open_data/data_topic/#d12)
+
+---
+### <a name="w13"> Week 13 Dec 2: Network analysis - analysis of nodes and communities </a>	[_Back2Top_](#)
 
 #### Before class
 - Readings:
 	- Scott, John. 2017. “Popularity Mediation and Exclusion.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
-
-#### In class
-- Discussion and lecture on readings.
-- [Data topic week 12](/open_data/data_topic/#d12)
-- Hands-on practice.
-
-#### After class
-- Recommended course: [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
-
-
----
-### <a name="w13"> Week 13 Dec 2: Network analysis - analysis of communities </a>	[_Back2Top_](#)
-
-#### Before class
-- Readings:
 	- Colizza, V., A. Flammini, M. A. Serrano, and A. Vespignani. 2006. “Detecting Rich-Club Ordering in Complex Networks.” Nature Physics 2 (2): 110–15. https://doi.org/10.1038/nphys209.
 
 #### In class
 - Discussion and lecture on readings.
+- [Data topic week 12](/open_data/data_topic/#d12)
 - [Data topic week 13](/open_data/data_topic/#d13)
 - Hands-on practice.
 
 #### After class
 - [<span style="color:red">**Assignment 5 due this week's Sunday.**</span>](/open_data/assignments/#a5)
 - Recommended course: [Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
-
 
 ---
 ### <a name="w14"> Week 14 Dec 9: Network analysis - Example social science studies </a>	[_Back2Top_](#)
