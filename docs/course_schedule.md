@@ -245,12 +245,14 @@ Network analysis in social sciences
 - Further readings:
 	- Scott, John. 2017. “Data Collection for Social Network Analysis.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
 	- Scott, John. 2017. “The History of Social Network Analysis.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
-- Recommended course: [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
+- [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
+	- "Introduction to networks"
 
 ---
 ### <a name="w12"> Week 12 Nov 25: Thanksgiving week, no class </a>	[_Back2Top_](#)
 
-- Recommended course: [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
+- [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
+	- "Important nodes"
 - [Data topic week 12 (postponed to Week 13)](/open_data/data_topic/#d12)
 
 ---
@@ -269,7 +271,8 @@ Network analysis in social sciences
 
 #### After class
 - [<span style="color:red">**Assignment 5 due this week's Sunday.**</span>](/open_data/assignments/#a5)
-- Recommended course: [Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
+- [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
+	- "Structures"
 
 ---
 ### <a name="w14"> Week 14 Dec 9: Network analysis - Example social science studies </a>	[_Back2Top_](#)
@@ -283,7 +286,8 @@ Network analysis in social sciences
 - [Data topic week 14](/open_data/data_topic/#d14a)
 
 #### After class
-- Recommended course: [Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
+- [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
+	- "Bringing it all together"
 
 
 
