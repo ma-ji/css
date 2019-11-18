@@ -4,7 +4,7 @@
 - [Assignment 2: Create your own cloud computing server (individual, 5% points)](#a2)
 - [Assignment 3: Parallel computing (individual, 5% points)](#a3)
 - [Assignment 4: Disambiguation using algorithm (individual/group, 15% points)](#a4)
-- [Assignment 5: Network analysis (individual/group, 10% points; TBD)](#a5)
+- [Assignment 5: Network analysis (individual/group, 10% points)](#a5)
 
 Late submissions are not accepted.
 
@@ -73,4 +73,9 @@ Example studies using this dataset:
 ---
 ### <a name="a5"> Assignment 5: Network analysis (individual/group, 10% points) </a>
 
+Review the dataset for Assignment 4, prepare two sets of questions:
 
+- Descriptive. For example, who is the most connected scholar/institution?
+- Inferential. For example, are scholars from wealthier countries/institutions more likely to be “structural holes”?
+
+After instructor’s approval, these will be the questions you need to answer as Assignment 5. You are expected to submit a detailed report.
