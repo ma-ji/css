@@ -21,14 +21,14 @@ Students are expected to have a one-hour presentation on the following topics:
 - Week 6 Oct 14: [A. Messamore's Topic: Chicago Data Portal](#d6)
 - Week 7 Oct 21: [H. Zalke's Topic: IMF Data](#d7)
 - Week 8 Oct 28: [M. Xu's Topic: Philanthropy Roundtable](#d8)
-- Week 9 Nov 4: [T. Oladimeji's Topic: U.S. Securities and Exchange Commission EDGAR](#d9a)
-- Week 9 Nov 4: [X. Han's Topic: ShangHai Data Portal](#d9b)
+- Week 9 Nov 4: [T. Oladimeji's Topic: U.S. Securities and Exchange Commission EDGAR](#d9)
 - Week 10 Nov 11: [E. Tenison's Topic: The Atlas of Economic Complexity](#d10)
 - Week 11 Nov 18: [L. Sepulveda's Topic: National Center for Charitable Statistics](#d11)
 - Week 12 Nov 25 (postponed to Week 13): [R. Anderson's Topic: U.S. Bureau of Labor Statistics](#d12)
 - Week 13 Dec 2: [W. Li's Topic: H-1B VISA Data](#d13)
 - Week 14 Dec 9: [M. Warner's Topic: World Inequality Database](#d14a)
 - Week 14 Dec 9: [L. YE's Topic: Social Twitter Data](#d14b)
+- Week 14 Dec 9: [X. Han's Topic: ShangHai Data Portal](#d14b)
 
 <!-- ---
 ### <a name="d3">Week 3 Sep 23: [Y. Gutiérrez's Topic: Occupation and employment in Mexico](https://inegi.org.mx/programas/enoe/15ymas/default.html#Datos_abiertos).</a>
@@ -106,7 +106,7 @@ Supplementary materials:
   * Results: the study finds that over a twenty year period, networks of actors promulgating scientific misinformation about climate change were increasingly integrated into the institution of US philanthropy. The degree of integration is predicted by funding ties to prominent corporate donors. These findings reveal new knowledge about large-scale efforts to distort public understanding of science and sow polarization. The study also contributes a unique computational approach to be applied at this increasingly important, yet methodologically fraught, area of research.
 
 ---
-### <a name="d9a">Week 9 Nov 4: [T. Oladimeji's Topic: U.S. Securities and Exchange Commission EDGAR](https://www.sec.gov/edgar.shtml)</a>
+### <a name="d9">Week 9 Nov 4: [T. Oladimeji's Topic: U.S. Securities and Exchange Commission EDGAR](https://www.sec.gov/edgar.shtml)</a>
 
 #### Dataset background
 This is the U.S. Securities and Exchange Commission's data portal. My goal is to use it to study how CEO beliefs predict firm actions and performance.
@@ -115,15 +115,6 @@ This is the U.S. Securities and Exchange Commission's data portal. My goal is to
 * Koch‐Bayram, Irmela F., and Georg Wernicke. "Drilled to obey? Ex‐military CEOs and financial misconduct." Strategic Management Journal 39.11 (2018): 2943-2964.
 * Abstract: We examine the influence of CEOs' military background on financial misconduct using two distinctive datasets. First, we make use of accounting and auditing enforcement releases (AAER) issued by the U.S. Securities and Exchange Commission (SEC), which contain intentional and substantial cases of financial fraud. Second, we use a dataset of “lucky grants,” which provide a measure of the likelihood of grant dates of CEOs' stock options having been manipulated. Results for both datasets indicate that CEOs who served in the military are less inclined to be involved in fraudulent financial reporting and to backdate stock options. In addition, we find that these relationships are moderated by board oversight (CEO duality and independent directors in the board).
 
----
-### <a name="d9b">Week 9 Nov 4: [X. Han's Topic: ShangHai Data Portal](http://data.sh.gov.cn/home!toHomePage.action)</a>
-
-#### Dataset background
-
-ShangHai Data Portal.
-
-#### Related academic study
-* Di Wang,Chuanfu Chen,Deborah Richards. ""A prioritization-based analysis of local open government data portals: A case study of Chinese province-level governments"". Government Information Quarterly 35, no.4(2018):644-646.
 
 ---
 ### <a name="d10">Week 10 Nov 11: [E. Tenison's Topic: The Atlas of Economic Complexity](http://atlas.cid.harvard.edu/)</a>
@@ -196,3 +187,14 @@ Social Twitter Data.
 
 #### Related Academic Study
 * J. McAuley and J. Leskovec. Learning to Discover Social Circles in Ego Networks. NIPS, 2012.
+
+
+---
+### <a name="d14c">Week 14 Dec 9: [X. Han's Topic: ShangHai Data Portal](http://data.sh.gov.cn/home!toHomePage.action)</a>
+
+#### Dataset background
+
+ShangHai Data Portal.
+
+#### Related academic study
+* Di Wang,Chuanfu Chen,Deborah Richards. ""A prioritization-based analysis of local open government data portals: A case study of Chinese province-level governments"". Government Information Quarterly 35, no.4(2018):644-646.

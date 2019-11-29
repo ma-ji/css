@@ -24,7 +24,7 @@ Network analysis in social sciences
 
 - [Week 11 Nov 18: Network analysis - basic concepts](#w11)
 - [Week 12 Nov 25: Thanksgiving week, no class](#w12)
-- [Week 13 Dec 2: Network analysis - analysis of nodes and communities (TBD)](#w13)
+- [Week 13 Dec 2: Network analysis - analysis of nodes and communities](#w13)
 - [Week 14 Dec 9: Network analysis - Example studies in social sciences (TBD)](#w14)
 
 ---
@@ -283,7 +283,7 @@ Network analysis in social sciences
 
 #### In class
 - Discussion and lecture on readings.
-- [Data topic week 14](/open_data/data_topic/#d14a)
+- [Data topic week 14 (_three presentations_)](/open_data/data_topic/#d14a)
 
 #### After class
 - [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
