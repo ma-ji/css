@@ -25,7 +25,7 @@ Network analysis in social sciences
 - [Week 11 Nov 18: Network analysis - basic concepts](#w11)
 - [Week 12 Nov 25: Thanksgiving week, no class](#w12)
 - [Week 13 Dec 2: Network analysis - analysis of nodes and communities](#w13)
-- [Week 14 Dec 9: Network analysis - Example studies in social sciences (TBD)](#w14)
+- [Week 14 Dec 9: Network analysis - Example studies in social sciences](#w14)
 
 ---
 ### <a name="w0"> Week 0 Pre-course </a>	[_Back2Top_](#)
@@ -279,7 +279,7 @@ Network analysis in social sciences
 
 #### Before class
 - Readings:
-	- Heemskerk, Eelke M., and Frank W. Takes. 2016. “The Corporate Elite Community Structure of Global Capitalism.” New Political Economy 21 (1): 90–118. https://doi.org/10.1080/13563467.2015.1041483.
+	- Watts, Duncan J. 2004. “The ‘New’ Science of Networks.” Annual Review of Sociology 30 (1): 243–70. https://doi.org/10.1146/annurev.soc.30.020404.104342.
 
 #### In class
 - Discussion and lecture on readings.
