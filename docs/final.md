@@ -23,7 +23,7 @@ We will solve real-world civic issues by analyzing open government data and buil
 
 Depending on the University's operating procedures, final rewards may be distributed as cash or credits for student loan or course.
 
-### Timeline (tentative)
+### Timeline
 - October 1st - 14th: Outreach, receiving applications.
 - October 15th - 31st: Team preparation and working with domain experts.
 - November 2nd: Hackathon day.
