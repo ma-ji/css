@@ -40,6 +40,10 @@ Although programming is an essential part of this course, the course schedule an
 - C+ >= 77%, C >= 73%, C- >= 70%
 - D+ >= 67%, D >= 63%, D- >= 60%
 
+### Resources
+
+- Past presentations: [2019 fall](https://drive.google.com/drive/folders/1GXDiy4dFq1i00U0qNhTtKM0YJMCOGsvd?usp=sharing)
+
 ---
 ### Class profile
 
