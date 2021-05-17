@@ -6,7 +6,7 @@
     <meta name="keywords" content="blog, {{ site.author }}, {{ site.title }}, jekyll">
     <meta name="author" content="{{ site.author }}">
     {% if page.url == "/404.html" %}
-        <meta http-equiv="refresh" content="5; url=/open_data">
+        <meta http-equiv="refresh" content="5; url=/">
     {% endif %}
     {% if page.snippet %}
         {% assign desc = page.snippet %}
@@ -35,4 +35,17 @@
     <meta name="twitter:title" content="{{ title }}" />
     <meta name="twitter:description" content="{{ desc }}" />
     <meta name="twitter:image" content="{{site.url}}{{ site.baseurl }}/{{site.favicon_location}}" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-12508156-5"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-12508156-5');
+    </script>
+
+    <script data-ad-client="ca-pub-4549867842769904" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 </head>
