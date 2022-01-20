@@ -1,18 +1,22 @@
 ## Course Schedule
 
-<span style="color:red"><span style="font-size:10em;">Course is being revised for 2023 spring</span></span>.
+<span style="color:red"><span style="font-size:6em;">Revising for 2023 spring, check back in 2022 fall or contact instructor</span></span>.
 
 [Reading Materials by Week](https://utexas.instructure.com/courses/1261330/files)
 
 - [Week 0 Pre-course](#w0)
 
+---
 Computational fundamentals (3 weeks)
+---
 
 - [Week 1 Sep 9: Course introduction](#w1); [Week 2 Sep 16: Knowledge graph, computation, and social science](#w2)
 - [Week 3 Sep 23: Data management: Good enough practices for social scientists](#w3)
 - [Week 4 Sep 30: Efficient computing: High-performance, cloud, and parallel computing](#w4)
 
+---
 Text and relation as data (9 weeks)
+---
 
 - [Week 6 Oct 14: Text analysis - Fundamentals and lexical resources](#w6)
 - [Week 7 Oct 21: Text analysis - Preprocessing and vectorization](#w7)
@@ -24,7 +28,9 @@ Text and relation as data (9 weeks)
 - [Week 13 Dec 2: Network analysis - analysis of nodes and communities](#w13)
 - [Week 14 Dec 9: Network analysis - Example studies in social sciences](#w14)
 
+---
 From concepts to numbers: Computational methods and research design in social science (3 weeks)
+---
 
 - [Week 5 Oct 7: Algorithms and workflow](#w5)
 
