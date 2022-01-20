@@ -10,6 +10,10 @@
 Computational fundamentals (3 weeks)
 ---
 
+- Course introduction
+- Data management
+- Efficient and algorithmic computing
+
 <!-- 
 - [Week 1 Sep 9: Course introduction](#w1); [Week 2 Sep 16: Knowledge graph, computation, and social science](#w2)
 - [Week 3 Sep 23: Data management: Good enough practices for social scientists](#w3)
@@ -21,9 +25,9 @@ Text and relation as data (9 weeks)
 
 ---
 
-NLP topics: fundamentals and preprocessing / feature extraction and vectorization / analysis: multilingual topic modeling, classification, NER
+- NLP topics: fundamentals and preprocessing / feature extraction and vectorization / analysis: multilingual topic modeling, classification, NER
 
-Network analysis topics: fundamentals / analysis of nodes / analysis of communities
+- Network analysis topics: fundamentals / analysis of nodes / analysis of communities
 
 <!-- 
 - [Week 6 Oct 14: Text analysis - Fundamentals and lexical resources](#w6)
@@ -42,7 +46,8 @@ From concepts to numbers: Computational methods and research design in social sc
 
 ---
 
-Algorithms and research design
+- Research design
+- Validity
 
 <!-- 
 - [Week 5 Oct 7: Algorithms and workflow](#w5)
