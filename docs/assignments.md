@@ -1,5 +1,8 @@
 ## Assignments
 
+<span style="color:red"><span style="font-size:6em;">Revising for 2023 spring, check back in 2022 fall or [contact instructor](mailto:maji@austin.utexas.edu)</span></span>.
+
+
 - [Assignment 1: Complete data topic page (individual, 5% points)](#a1)
 - [Assignment 2: Create your own cloud computing server (individual, 5% points)](#a2)
 - [Assignment 3: Parallel computing (individual, 5% points)](#a3)
