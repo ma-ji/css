@@ -9,11 +9,13 @@
 ---
 Computational fundamentals (3 weeks)
 ---
+
 <!-- 
 - [Week 1 Sep 9: Course introduction](#w1); [Week 2 Sep 16: Knowledge graph, computation, and social science](#w2)
 - [Week 3 Sep 23: Data management: Good enough practices for social scientists](#w3)
 - [Week 4 Sep 30: Efficient computing: High-performance, cloud, and parallel computing](#w4)
  -->
+
 ---
 Text and relation as data (9 weeks)
 ---
