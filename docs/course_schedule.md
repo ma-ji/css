@@ -18,6 +18,7 @@ Computational fundamentals (3 weeks)
 
 ---
 Text and relation as data (9 weeks)
+
 ---
 
 NLP topics: fundamentals and preprocessing / feature extraction and vectorization / analysis: multilingual topic modeling, classification, NER
@@ -35,8 +36,10 @@ Network analysis topics: fundamentals / analysis of nodes / analysis of communit
 - [Week 13 Dec 2: Network analysis - analysis of nodes and communities](#w13)
 - [Week 14 Dec 9: Network analysis - Example studies in social sciences](#w14)
  -->
+
 ---
 From concepts to numbers: Computational methods and research design in social science (3 weeks)
+
 ---
 
 Algorithms and research design
