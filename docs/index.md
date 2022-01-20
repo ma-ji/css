@@ -1,5 +1,7 @@
 ## Course Description
 
+<span style="color:red"><span style="font-size:10em;">Course is being revised for 2023 spring</span></span>.
+
 - Instructor: [Prof. Ji Ma](http://jima.me)
 - Monday 2:00PM to 5:00PM, SRH 3.316/3.350
 - "Lite" TA section: Friday 2-4pm, SRH 3.318.

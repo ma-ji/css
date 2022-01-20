@@ -1,31 +1,33 @@
 ## Course Schedule
 
+<span style="color:red"><span style="font-size:10em;">Course is being revised for 2023 spring</span></span>.
+
 [Reading Materials by Week](https://utexas.instructure.com/courses/1261330/files)
 
 - [Week 0 Pre-course](#w0)
 
-Knowledge and hands-on fundamentals
+Computational fundamentals (3 weeks)
 
-- [Week 1 Sep 9: Why this course?](#w1)
-- [Week 2 Sep 16: Knowledge graph, computation, and social science](#w2)
-- [Week 3 Sep 23: Good enough research practices in scientific computing](#w3)
-- [Week 4 Sep 30: High-performance cloud computing and parallel computing](#w4)
-- [Week 5 Oct 7: Algorithm and workflow for social scientists](#w5)
+- [Week 1 Sep 9: Course introduction](#w1); [Week 2 Sep 16: Knowledge graph, computation, and social science](#w2)
+- [Week 3 Sep 23: Data management: Good enough practices for social scientists](#w3)
+- [Week 4 Sep 30: Efficient computing: High-performance, cloud, and parallel computing](#w4)
 
-Text analysis in social sciences
+Text and relation as data (9 weeks)
 
 - [Week 6 Oct 14: Text analysis - Fundamentals and lexical resources](#w6)
 - [Week 7 Oct 21: Text analysis - Preprocessing and vectorization](#w7)
 - [Week 8 Oct 28: Text analysis - Classification](#w8)
 - [Week 9 Nov 4: Text analysis - Relation extraction](#w9)
 - [Week 10 Nov 11: Text analysis - Application in social science studies](#w10)
-
-Network analysis in social sciences
-
 - [Week 11 Nov 18: Network analysis - basic concepts](#w11)
 - [Week 12 Nov 25: Thanksgiving week, no class](#w12)
 - [Week 13 Dec 2: Network analysis - analysis of nodes and communities](#w13)
 - [Week 14 Dec 9: Network analysis - Example studies in social sciences](#w14)
+
+From concepts to numbers: Computational methods and research design in social science (3 weeks)
+
+- [Week 5 Oct 7: Algorithms and workflow](#w5)
+
 
 ---
 ### <a name="w0"> Week 0 Pre-course </a>	[_Back2Top_](#)
