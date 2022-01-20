@@ -1,4 +1,4 @@
-### [Linked Open Data and Computational Social Science Methods (PA 397C / INF 385T)](https://ma-ji.github.io/open_data/)
+### [Linked Open Data and Computational Social Science Methods (PA 397C / INF 385T)](https://css.jima.me/)
 
 
 <!-- # Parchment
