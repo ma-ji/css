@@ -1,6 +1,9 @@
 # Prerequisites
 
+---
 ## Good with numbers
+
+---
 
 The way to happiness is simple, you just "Be good with numbers, and be good with people." -- The Pursuit of Happyness (2006)
 
@@ -8,7 +11,9 @@ The way to happiness is simple, you just "Be good with numbers, and be good with
 
 College level statistics. For example, be confident to test the difference between means, run hypothesis testing with probability theories, understand OLS and fixed effect models.
 
+---
 ## Intermediate to advanced programming skills
+---
 
 Programming may be intimidating, but remember you are coding for social good and "Sometimes it's the people no one imagines anything of who do the things that no one can imagine." -- The Imitation Game (2014)
 
