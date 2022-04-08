@@ -17,16 +17,14 @@ sass:
     sass_dir: css
 
 navbar:
+ - name: "Prerequisites"
+   link: "prerequisites"
  - name: "Schedule"
    link: "course_schedule"
  - name: "Assignments"
    link: "assignments"
- - name: "Data Topic"
-   link: "data_topic"
  - name: "Final"
    link: "final"
- - name: "Special Events"
-   link: "special_events"
  - name: "Introduction"
    link: "index"
 theme: jekyll-theme-midnight
