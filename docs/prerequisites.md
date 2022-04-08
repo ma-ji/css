@@ -2,7 +2,6 @@
 
 ---
 ## Good with numbers
-
 ---
 
 The way to happiness is simple, you just "Be good with numbers, and be good with people." -- The Pursuit of Happyness (2006)
