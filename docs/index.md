@@ -78,7 +78,7 @@ After completing the below modules, you should be familiar with all the topics l
 
 - Past presentations: [2019 fall](https://drive.google.com/drive/folders/1GXDiy4dFq1i00U0qNhTtKM0YJMCOGsvd?usp=sharing)
 
----
+<!-- ---
 # Class profile
 
 *Please briefly describe your previous experience of ''computational social science.''*
@@ -92,3 +92,4 @@ After completing the below modules, you should be familiar with all the topics l
 *Do you have any other suggestions or expectations?*
 
 ![hope to develop](/assets/expectations.png)
+ -->
