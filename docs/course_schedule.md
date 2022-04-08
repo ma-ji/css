@@ -25,9 +25,9 @@ Text and relation as data (9 weeks)
 
 ---
 
-- NLP topics: fundamentals and preprocessing / feature extraction and vectorization / analysis: multilingual topic modeling, classification, NER
+- NLP topics (5 weeks): fundamentals and preprocessing / feature extraction and vectorization / analysis: multilingual topic modeling, classification, NER
 
-- Network analysis topics: fundamentals / analysis of nodes / analysis of communities
+- Network analysis topics (4 weeks): fundamentals / analysis of nodes / analysis of communities
 
 <!-- 
 - [Week 6 Oct 14: Text analysis - Fundamentals and lexical resources](#w6)
@@ -48,6 +48,7 @@ From concepts to numbers: Computational methods and research design in social sc
 
 - Research design
 - Validity
+- Work on final project
 
 <!-- 
 - [Week 5 Oct 7: Algorithms and workflow](#w5)
