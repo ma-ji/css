@@ -23,13 +23,19 @@ Although programming is an essential part of this course, the course schedule an
 
 ## Good with numbers
 
-"Be good with numbers, and be good with people." -- The Pursuit of Happyness (2006)
+The way to happiness is simple, you just "Be good with numbers, and be good with people." -- The Pursuit of Happyness (2006)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0rJKqe2dJkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 College level statistics. For example, be confident to test the difference between means, run hypothesis testing with probability theories, understand OLS and fixed effect models.
 
 ## Intermediate to advanced programming skills
+
+Programming may be intimidating, but remember you are coding for the social good and "Sometimes it's the people no one imagines anything of who do the things that no one can imagine." -- The Imitation Game (2014)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nuPZUUED5uk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Start coding today.
 
 The class is Python based, but you can use R or any other programming language as long as you can complete the assignments and final challenge. If you haven't used Python for a while or not familiar with it, please complete an online tutorial before taking this class. Example Python packages used in this course: Pandas, Requests, regular expression, NetworkX, NLTK, TensorFlow, Keras, etc. We will introduce these packages in class, but you should be familiar with Python programming in general before class.
 
