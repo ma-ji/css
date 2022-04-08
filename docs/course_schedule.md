@@ -7,7 +7,7 @@
 - [Week 0 Pre-course](#w0)
 
 ---
-## Computational fundamentals (3 weeks)
+### Computational fundamentals (3 weeks)
 ---
 
 - Course introduction
@@ -21,8 +21,7 @@
  -->
 
 ---
-Text and relation as data (9 weeks)
-
+### Text and relation as data (9 weeks)
 ---
 
 - NLP topics (5 weeks): fundamentals and preprocessing / feature extraction and vectorization / analysis: multilingual topic modeling, classification, NER
@@ -42,8 +41,7 @@ Text and relation as data (9 weeks)
  -->
 
 ---
-From concepts to numbers: Computational methods and research design in social science (3 weeks)
-
+### From concepts to numbers: CSS and social science research design (3 weeks)
 ---
 
 - Research design
