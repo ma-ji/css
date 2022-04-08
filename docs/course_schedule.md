@@ -21,12 +21,16 @@
  -->
 
 ---
-### Text and relation as data (9 weeks)
+### Text as data (5 weeks)
 ---
 
-- NLP topics (5 weeks): fundamentals and preprocessing / feature extraction and vectorization / analysis: multilingual topic modeling, classification, NER
+- Topics: fundamentals and preprocessing / feature extraction and vectorization / analysis: multilingual topic modeling, classification, NER.
 
-- Network analysis topics (4 weeks): fundamentals / analysis of nodes / analysis of communities
+---
+### Relation as data (4 weeks)
+---
+
+- Topics: fundamentals / analysis of nodes / analysis of communities
 
 <!-- 
 - [Week 6 Oct 14: Text analysis - Fundamentals and lexical resources](#w6)
@@ -54,6 +58,9 @@
  -->
 
 ---
+# Weekly Details (TBD)
+---
+
 ### <a name="w0"> Week 0 Pre-course </a>	[_Back2Top_](#)
 - [Complete course survey](https://utexas.instructure.com/courses/1261330/quizzes/1295833)
 - Register Accounts:
