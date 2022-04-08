@@ -19,19 +19,19 @@ This course introduces methodologies for linked open data and computational soci
 
 Although programming is an essential part of this course, the course schedule and reading materials are framed within a social science context. We will be coding for social good.
 
-### Prerequisites
+# Prerequisites
 
-#### Statistics
+## Statistics
 
 College level statistics. For example, you are confident to use probability for hypothesis testing, you can run and understand OLS and multivariate regression.
 
-#### Intermediate to advanced programming skills
+## Intermediate to advanced programming skills
 
 The class is Python based, but you can use R or any other programming language as long as you can complete the assignments and final challenge. If you haven't used Python for a while or not familiar with it, please complete an online tutorial before taking this class. Example Python packages used in this course: Pandas, Requests, regular expression, NetworkX, NLTK, TensorFlow, Keras, etc. We will introduce these packages in class, but you should be familiar with Python programming in general before class.
 
 You need to pass the following courses before registering this course (contact instructor for a free DataCamp license):
 
-##### Required fundamentals (no particular order)
+### Required fundamentals (no particular order)
 
 After completing the below modules, you should be familiar with all the topics listed in [this tutorial](https://www.learnpython.org/).
 
@@ -50,14 +50,15 @@ After completing the below modules, you should be familiar with all the topics l
 	- [Joining Data with pandas](https://app.datacamp.com/learn/courses/joining-data-with-pandas)
 	- [Data Manipulation with pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
 
-- Recommended modules:
-	- [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python)
-	- [Web Scraping in Python](https://www.datacamp.com/courses/web-scraping-with-python)
-	- [Regular Expressions in Python](https://www.datacamp.com/courses/regular-expressions-in-python)
-	- [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)
+### Recommended modules
+
+- [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python)
+- [Web Scraping in Python](https://www.datacamp.com/courses/web-scraping-with-python)
+- [Regular Expressions in Python](https://www.datacamp.com/courses/regular-expressions-in-python)
+- [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)
 
 
-### Grading
+# Grading
 40% [assignments](/assignments/), 20% [presentation of datasets](/data_topic/), and 40% [final project](/final/).
 
 - A >= 93%, A- >= 90
@@ -65,12 +66,12 @@ After completing the below modules, you should be familiar with all the topics l
 - C+ >= 77%, C >= 73%, C- >= 70%
 - D+ >= 67%, D >= 63%, D- >= 60%
 
-### Resources
+# Resources
 
 - Past presentations: [2019 fall](https://drive.google.com/drive/folders/1GXDiy4dFq1i00U0qNhTtKM0YJMCOGsvd?usp=sharing)
 
 ---
-### Class profile
+# Class profile
 
 *Please briefly describe your previous experience of ''computational social science.''*
 
