@@ -27,7 +27,7 @@ Although programming is an essential part of this course, the course schedule an
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0rJKqe2dJkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-College level statistics. For example, you are confident to use probability for hypothesis testing, you can run and understand OLS and multivariate regression.
+College level statistics. For example, be confident to test the difference between means, run hypothesis testing with probability theories, understand OLS and fixed effect models.
 
 ## Intermediate to advanced programming skills
 
