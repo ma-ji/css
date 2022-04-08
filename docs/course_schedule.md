@@ -1,4 +1,5 @@
 # Course Schedule
+---
 
 <!-- <span style="color:red"><span style="font-size:6em;">Revising for 2023 spring, check back in 2022 fall or [contact instructor](mailto:maji@austin.utexas.edu)</span></span>. -->
 
@@ -6,9 +7,7 @@
 
 - [Week 0 Pre-course](#w0)
 
----
 ### Computational fundamentals (3 weeks)
----
 
 - Course introduction
 - Data management
@@ -20,15 +19,11 @@
 - [Week 4 Sep 30: Efficient computing: High-performance, cloud, and parallel computing](#w4)
  -->
 
----
 ### Text as data (5 weeks)
----
 
 - Topics: fundamentals and preprocessing / feature extraction and vectorization / analysis: multilingual topic modeling, classification, NER.
 
----
 ### Relation as data (4 weeks)
----
 
 - Topics: fundamentals / analysis of nodes / analysis of communities
 
@@ -44,9 +39,7 @@
 - [Week 14 Dec 9: Network analysis - Example studies in social sciences](#w14)
  -->
 
----
 ### From concepts to numbers: CSS and social science research design (3 weeks)
----
 
 - Research design
 - Validity
