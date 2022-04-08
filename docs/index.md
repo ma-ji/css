@@ -1,6 +1,6 @@
 ## Course Description
 
-<span style="color:red"><span style="font-size:6em;">Revising for 2023 spring, check back in 2022 fall or contact instructor</span></span>.
+<!-- <span style="color:red"><span style="font-size:6em;">Revising for 2023 spring, check back in 2022 fall or contact instructor</span></span>. -->
 
 - Instructor: [Prof. Ji Ma](http://jima.me)
 - Monday 2:00PM to 5:00PM, SRH 3.316/3.350
@@ -33,6 +33,8 @@ You need to pass the following courses before registering this course (contact i
 
 ##### Required fundamentals (no particular order)
 
+After completing the below modules, you should be familiar with all the topics listed in [this tutorial](https://www.learnpython.org/).
+
 - Programming:
 	- [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) (4 hours)
 	- [Intermediate Python](https://app.datacamp.com/learn/courses/intermediate-python) (4 hours)
@@ -54,10 +56,6 @@ You need to pass the following courses before registering this course (contact i
 	- [Regular Expressions in Python](https://www.datacamp.com/courses/regular-expressions-in-python)
 	- [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)
 
-### Recommended online tutorials
-
-1. If you don't have any Python programming experience, [take this course first](https://www.coursera.org/learn/python) (you can audit this course for free). 
-2. You should be familiar with all the topics covered by [this tutorial](https://www.learnpython.org/) before class.
 
 ### Grading
 40% [assignments](/assignments/), 20% [presentation of datasets](/data_topic/), and 40% [final project](/final/).
