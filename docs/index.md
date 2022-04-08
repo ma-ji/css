@@ -8,13 +8,6 @@
 
 <!-- Monday 2:00PM to 5:00PM, SRH 3.316/3.350 -->
 
-- <html>
-		<!-- Calendly link widget begin -->
-		<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-		<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-		<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/maji/20min'});return false;">Office Hours</a>
-		<!-- Calendly link widget end -->
-  </html>
 
 ---
 This course introduces computational social science methods and contexualize these computational methods within social science research design. The first part of this course (w1--w3) gives you an overview and introduces programming fundamentals. You will also learn how to use [high-performance cloud computing resources](https://www.tacc.utexas.edu/systems/chameleon). The second part (w4--w12) is analysis-oriented and primarily covers text analysis (w4--w8; with an emphasis on multilingual language analysis) and network analysis (w9--w12). Bilingual or multilingual language ability is a plus. Programming is an essential part of this course but not the purpose. We will be coding for social good.
