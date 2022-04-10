@@ -24,6 +24,18 @@ This course introduces computational social science methods and contexualize the
 
 # Resources
 
+## _Recommended_ (not required) textbooks
+
+The two books give you a good theoretical understanding and are very useful in research design.
+
+- Grimmer, Justin, Margaret E. Roberts, and Brandon M. Stewart. 2022. Text as Data: A New Framework for Machine Learning and the Social Sciences. Princeton, New Jersey Oxford: Princeton University Press.
+- Scott, John. 2017. Social Network Analysis. Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd. (different versions are fine)
+
+The two books/sources introduce more technical and hands-on details.
+
+- Jurafsky, Daniel, and James H. Martin. 2022. Speech and Language Processing. 3rd draft. https://web.stanford.edu/~jurafsky/slp3/. (the authors generously made their book publicly available, check their website and use the latest version)
+- [NetworkX](https://networkx.org/) (the package's documentation and the references cited are the best place to start in terms of technical details)
+
 - Past presentations: [2019 fall](https://drive.google.com/drive/folders/1GXDiy4dFq1i00U0qNhTtKM0YJMCOGsvd?usp=sharing)
 
 <!-- ---
