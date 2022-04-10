@@ -8,7 +8,10 @@ The way to happiness is simple, you just "Be good with numbers, and be good with
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0rJKqe2dJkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-College level statistics. For example, be confident to test the difference between means, run hypothesis testing with probability theories, understand OLS and fixed effect models.
+**_College level statistics._** For example, be confident to test the difference between means, run hypothesis testing with probability theories, understand OLS and fixed effect models. Understanding how to flexibly use probability theories to do hypothesis testing is especially important.
+
+**_Working knowledge of linear algebra._** For example, you should know what is a vector and how to calculate the distance between two vectors.
+
 
 ---
 ## Intermediate to advanced programming skills
