@@ -21,9 +21,9 @@ Programming may be intimidating, but remember you are coding for social good and
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nuPZUUED5uk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Start coding today.
+**_Start coding today._**
 
-The class is Python based, but you can use R or any other programming language as long as you can complete the assignments and final challenge. If you haven't used Python for a while or not familiar with it, please complete an online tutorial before taking this class. Example Python packages used in this course: Pandas, Requests, regular expression, NetworkX, NLTK, TensorFlow, Keras, etc. We will introduce these packages in class, but you should be familiar with Python programming in general before class.
+The class is Python based, but you can use R or any other programming language as long as you can complete the assignments and final project. R has its own advantages for sure, but I personally recommend Python because most of the state-of-the-art NLP implementations are in Python. Example Python packages used in this course: Pandas, Requests, regular expression, NetworkX, NLTK, TensorFlow, Keras, Transformers, and Gensim, etc.
 
 You need to pass the following courses before registering this course (contact instructor for a free DataCamp license):
 
