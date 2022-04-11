@@ -15,7 +15,7 @@ This course introduces computational social science methods and contexualize the
 # [Prerequisites](/prerequisites)
 
 # Grading
-40% [assignments](/assignments/), 20% [presentation of datasets](/data_topic/), and 40% [final project](/final/).
+<!-- 40% [assignments](/assignments/), 20% [presentation of datasets](/data_topic/), and 40% [final project](/final/). -->
 
 - A >= 95%, A- >= 90
 - B+ >= 87%, B >= 83%, B- >= 80%
