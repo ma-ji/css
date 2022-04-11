@@ -3,7 +3,7 @@
 <!-- <span style="color:red"><span style="font-size:6em;">Revising for 2023 spring, check back in 2022 fall or contact instructor</span></span>. -->
 
 - Instructor: [Ji Ma](https://jima.me)
-- Time: 2013 spring
+- Time: 2023 spring
 <!-- - "Lite" TA section: Friday 2-4pm, SRH 3.318. -->
 
 <!-- Monday 2:00PM to 5:00PM, SRH 3.316/3.350 -->
