@@ -1,4 +1,4 @@
-# Course Description
+# Course description
 
 <!-- <span style="color:red"><span style="font-size:6em;">Revising for 2023 spring, check back in 2022 fall or contact instructor</span></span>. -->
 
@@ -10,7 +10,9 @@
 
 
 ---
-This course introduces computational social science methods and contexualize these computational methods within social science research design. The first part of this course (w1--w3) gives you an overview and introduces programming fundamentals. You will also learn how to use [high-performance cloud computing resources](https://www.tacc.utexas.edu/systems/chameleon). The second part (w4--w12) is analysis-oriented and primarily covers text analysis (w4--w8; with an emphasis on multilingual language analysis) and network analysis (w9--w12). Bilingual or multilingual language ability is a plus. Programming is an essential part of this course but not the purpose. We will be coding for social good.
+This course introduces computational social science methods and contexualize these methods within social science research design. The first part of this course (w1--w3) gives you an overview of this course, research design, and programming fundamentals. You will also learn how to use [high-performance cloud computing resources](https://www.tacc.utexas.edu/systems/chameleon). The second part (w4--w12) is analysis-oriented and primarily covers text analysis (w4--w8; with an emphasis on multilingual language analysis) and network analysis (w9--w12). Bilingual or multilingual language ability is a plus. Programming is an essential part of this course but not the purpose. We will be coding for social good.
+
+This course has demanding [prerequisites](/prerequisites); therefore, if you are highly motivated to register this course, you probably need to work on the [prerequisites](/prerequisites) in 2022 summer and fall. All registrations need to be approved by the instructor in late 2022 fall. You can [join the learning group here](/#).
 
 # [Prerequisites](/prerequisites)
 
