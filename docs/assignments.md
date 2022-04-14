@@ -1,28 +1,15 @@
 # Assignments (TBD)
 
-<!-- 
-<span style="color:red"><span style="font-size:6em;">Revising for 2023 spring, check back in 2022 fall or [contact instructor](mailto:maji@austin.utexas.edu)</span></span>.
- -->
-
-- [Assignment 1: Complete data topic page (individual, 5% points)](#a1)
+- [Assignment 0: Plagiarism test (individual, 5% points)](/#)
+- [Assignment 1: Documentation (individual, 5% points)](/#)
 - [Assignment 2: Create your own cloud computing server (individual, 5% points)](#a2)
 - [Assignment 3: Parallel computing (individual, 5% points)](#a3)
 - [Assignment 4: Disambiguation using algorithm (individual/group, 15% points)](#a4)
-- [Assignment 5: Network analysis (individual/group, 10% points)](#a5)
+- [Assignment 5: NLP/Network analysis (individual/group, 15% points)](#a5)
+- [Assignment 6: Analyze and present empirical paper(s) using computational social science methods (individual, 20% points)]
+- [Assignment 7: Final project (individual/group, 30% points)](/final)
 
 Late submissions are not accepted.
-
----
-### <a name="a1"> Assignment 1: Complete data topic page (individual, 5% points) </a>
-
-Tasks:
-1. Complete the sign-up sheet.
-2. Find a dataset of your interest and a related academic paper.
-3. [Folk the course website](https://github.com/ma-ji/open_data), edit the [data topic page](/open_data/data_topic/) accordingly, and create a pull request.
-
-Knowledge and skills practiced:
-- Using GitHub;
-- Markdown language.
 
 ---
 ### <a name="a2"> Assignment 2: Create your own cloud computing server (individual, 5% points) </a>
