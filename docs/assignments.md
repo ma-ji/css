@@ -11,6 +11,18 @@
 
 Late submissions are not accepted.
 
+
+---
+### <a name="a0"> Assignment 0: Plagiarisms test (individual, 5% points) </a>
+
+The first assignment of this course is to [pass the plagiarism test and obtain a certificate at the master and doctoral level](https://plagiarism.iu.edu/index.html). Plagiarism is a serious academic misconduct. You will receive zero grade on plagiarized work and there may be other consequences. We have been told not to do this maybe since primary school, and we are always assuming we know what plagiarism is. However, we may assume we know too much (e.g., [famous cases of plagiarism](https://www.google.com/search?q=famous+cases+of+plagiarism)).
+
+You do not need to take this test if you have a comparable certification or you took this test before, but the validity of your certification needs to be approved by the instructor.
+
+"All assignments in this course may be processed by TurnItIn, a tool that compares submitted material to an archived database of published work to check for potential plagiarism. Other methods may also be used to determine if a paper is the student's original work. Regardless of the results of any TurnItIn submission, the faculty member will make the final determination as to whether or not a paper has been plagiarized" (Statement from the _Faculty Writing Committee: Guidelines for Preventing Plagiarism_).
+
+For this assignment, please submit your certificate as a file to [Canvas](/#).
+
 ---
 ### <a name="a2"> Assignment 2: Create your own cloud computing server (individual, 5% points) </a>
 

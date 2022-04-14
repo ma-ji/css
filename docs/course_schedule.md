@@ -9,9 +9,9 @@
 
 ### Computational fundamentals (3 weeks)
 
-- Course introduction
-- Data management
-- Efficient and algorithmic computing
+- Week 1: Course introduction
+- Week 2: Data management
+- Week 3: Efficient and algorithmic computing
 
 <!-- 
 - [Week 1 Sep 9: Course introduction](#w1); [Week 2 Sep 16: Knowledge graph, computation, and social science](#w2)
@@ -21,7 +21,11 @@
 
 ### Text as data (5 weeks)
 
-- Topics: fundamentals and preprocessing / feature extraction and vectorization / analysis: multilingual topic modeling, classification, NER.
+- Week 4: Text analysis in social science research: typical process and applications
+- Week 5: Preprocessing and feature extraction
+- Week 6: Vector semantics and embeddings
+- Week 7: Text analysis: semantic similarity, clustering, and classification
+- Week 8: Text analysis: Multilingual topic modeling and named-entity recognition
 
 ### Relation as data (4 weeks)
 
