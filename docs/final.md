@@ -1,4 +1,6 @@
-# Analysis/Skills required
+# Required components
+
+The final project is a mini-research project. You need to clearly respond how the below components are covered in your project.
 
 1. Research design and data management:
     - Clear research questions and significance
