@@ -34,7 +34,7 @@
 
 
 ---
-# Weekly Details (TBD)
+# Weekly Details (TBD, from previous semesters, for reference only)
 ---
 
 ### <a name="w0"> Week 0 Pre-course </a>	[_Back2Top_](#)
