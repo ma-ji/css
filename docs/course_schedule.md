@@ -1,8 +1,6 @@
 # Course Schedule
 ---
 
-<!-- <span style="color:red"><span style="font-size:6em;">Revising for 2023 spring, check back in 2022 fall or [contact instructor](mailto:maji@austin.utexas.edu)</span></span>. -->
-
 [Reading Materials by Week](https://utexas.instructure.com/courses/1261330/files)
 
 - [Week 0 Pre-course](#w0)
@@ -12,12 +10,6 @@
 - Week 1: Course introduction
 - Week 2: Data management
 - Week 3: Efficient and algorithmic computing
-
-<!-- 
-- [Week 1 Sep 9: Course introduction](#w1); [Week 2 Sep 16: Knowledge graph, computation, and social science](#w2)
-- [Week 3 Sep 23: Data management: Good enough practices for social scientists](#w3)
-- [Week 4 Sep 30: Efficient computing: High-performance, cloud, and parallel computing](#w4)
- -->
 
 ### Text as data (5 weeks)
 
@@ -34,28 +26,12 @@
 - Week 11: Analysis of communities
 - Week 12: Network topology and hypothesis testing
 
-<!-- 
-- [Week 6 Oct 14: Text analysis - Fundamentals and lexical resources](#w6)
-- [Week 7 Oct 21: Text analysis - Preprocessing and vectorization](#w7)
-- [Week 8 Oct 28: Text analysis - Classification](#w8)
-- [Week 9 Nov 4: Text analysis - Relation extraction](#w9)
-- [Week 10 Nov 11: Text analysis - Application in social science studies](#w10)
-- [Week 11 Nov 18: Network analysis - basic concepts](#w11)
-- [Week 12 Nov 25: Thanksgiving week, no class](#w12)
-- [Week 13 Dec 2: Network analysis - analysis of nodes and communities](#w13)
-- [Week 14 Dec 9: Network analysis - Example studies in social sciences](#w14)
- -->
-
 ### From concepts to numbers: CSS and research design (3 weeks)
 
 - Week 13: Research design with CSS methods
 - Week 14: Data reduction and measure validation
 - Week 15: Work on final project
 
-<!-- 
-- [Week 5 Oct 7: Algorithms and workflow](#w5)
-
- -->
 
 ---
 # Weekly Details (TBD)
