@@ -29,7 +29,10 @@
 
 ### Relation as data (4 weeks)
 
-- Topics: fundamentals / analysis of nodes / analysis of communities
+- Week 9: Network analysis in social science research: Basic concepts and  applications
+- Week 10: Data collection and analysis of nodes
+- Week 11: Analysis of communities
+- Week 12: Network topology and hypothesis testing
 
 <!-- 
 - [Week 6 Oct 14: Text analysis - Fundamentals and lexical resources](#w6)
@@ -43,11 +46,11 @@
 - [Week 14 Dec 9: Network analysis - Example studies in social sciences](#w14)
  -->
 
-### From concepts to numbers: CSS and social science research design (3 weeks)
+### From concepts to numbers: CSS and research design (3 weeks)
 
-- Research design
-- Validity
-- Work on final project
+- Week 13: Research design with CSS methods
+- Week 14: Data reduction and measure validity
+- Week 15: Work on final project
 
 <!-- 
 - [Week 5 Oct 7: Algorithms and workflow](#w5)
