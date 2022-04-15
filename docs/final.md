@@ -21,7 +21,7 @@ The final project is a mini-research project. You need to clearly respond how th
 
 # Project options
 
-## Analyze scholarship in many languages (TBD)
+## Analyze civil society scholarship in many languages (TBD)
 
-## Classify texts in many languages (TBD)
+## Classify civil society texts in many languages (TBD)
 
