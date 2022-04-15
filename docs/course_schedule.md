@@ -49,7 +49,7 @@
 ### From concepts to numbers: CSS and research design (3 weeks)
 
 - Week 13: Research design with CSS methods
-- Week 14: Data reduction and measure validity
+- Week 14: Data reduction and measure validation
 - Week 15: Work on final project
 
 <!-- 
