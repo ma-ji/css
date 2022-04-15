@@ -1,11 +1,18 @@
 # Analysis/Skills required
 
-1. Data preprocessing, reduction, and documentation
-2. Descriptive analysis and visualization
-3. Inferential analysis and visualization
-4. Clustering analysis and visualization
-5. Multilingual topic modeling, network analysis of nodes/communities/topology
-6. Applying any of these skills will get 5% bonus points:
+1. Research design and data management:
+    - Clear research questions and significance
+    - Clear operationalization linkage
+    - Validation of measures
+    - Data preprocessing and reduction
+    - Documentation for reproducibility
+2. Analysis:
+    - Descriptive analysis and visualization
+    - Inferential analysis and visualization
+    - Clustering analysis and visualization
+    - Multilingual topic modeling
+    - Network analysis of nodes/communities/topology
+3. Bonus: Applying any of these skills will get 5% additional points
     - Machine learning
     - Named-entity recognition
     - Optical character recognition
