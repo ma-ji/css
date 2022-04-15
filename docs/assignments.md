@@ -6,8 +6,8 @@
 - [Assignment 3: Parallel computing (individual, 5% points)](#a3)
 - [Assignment 4: Disambiguation using algorithm (individual/group, 15% points)](#a4)
 - [Assignment 5: NLP/Network analysis (individual/group, 15% points)](#a5)
-- [Assignment 6: Analyze and present empirical paper(s) using computational social science methods (individual, 20% points)](#a6)
-- [Assignment 7: Final project (individual/group, 30% points)](/final)
+- [Assignment 6: Analysis and presentation of empirical paper(s) (individual, 15% points)](#a6)
+- [Assignment 7: Final project (individual/group, 35% points)](/final)
 
 Late submissions are not accepted.
 
@@ -90,6 +90,6 @@ After instructor's approval, these will be the questions you need to answer as A
  -->
 
 ---
-### <a name="a6"> Assignment 6: Analyze and present empirical paper(s) using computational social science methods (individual, 20% points) </a>
+### <a name="a6"> Assignment 6: Analysis and presentation of empirical paper(s) (individual, 15% points) </a>
 
-TBD.
+Analyze and present empirical paper(s) using computational social science methods. TBD.
