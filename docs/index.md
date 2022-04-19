@@ -40,6 +40,10 @@ The two books/sources introduce more technical and hands-on details.
 
 - Past presentations: [2019 fall](https://drive.google.com/drive/folders/1GXDiy4dFq1i00U0qNhTtKM0YJMCOGsvd?usp=sharing)
 
+
+---
+_Acknowledgement_: The course is partly supported by the [Teaching Innovation Grants 2022-23](https://ctl.utexas.edu/grants-fellowships/teaching-innovation-grants-2022-2023) from the [Center for Teaching and Learning](https://ctl.utexas.edu/).
+
 <!-- ---
 # Class profile
 
