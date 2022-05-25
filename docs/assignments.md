@@ -1,19 +1,19 @@
 # Assignments (TBD)
 
-- [Assignment 0: Plagiarism test (individual, 5% points)](/#)
-- [Assignment 1: Documentation (individual, 5% points)](/#)
-- [Assignment 2: Create your own cloud computing server (individual, 5% points)](#a2)
-- [Assignment 3: Parallel computing (individual, 5% points)](#a3)
-- [Assignment 4: Disambiguation using algorithm (individual/group, 15% points)](#a4)
-- [Assignment 5: NLP/Network analysis (individual/group, 15% points)](#a5)
-- [Assignment 6: Analysis and presentation of empirical paper(s) (individual, 15% points)](#a6)
-- [Assignment 7: Final project (individual/group, 35% points)](/final)
+- [Assignment 1: Plagiarism test (individual, 5% points)](/#a1)
+- [Assignment 2: Documentation (individual, 5% points)](/#a2)
+- [Assignment 3: Create your own cloud computing server (individual, 5% points)](#a3)
+- [Assignment 4: Parallel computing (individual, 5% points)](#a4)
+- [Assignment 5: Disambiguation using algorithm (individual/group, 15% points)](#a5)
+- [Assignment 6: NLP/Network analysis (individual/group, 15% points)](#a6)
+- [Assignment 7: Analysis and presentation of empirical paper(s) (individual, 15% points)](#a7)
+- [Assignment 8: Final project (individual/group, 35% points)](/final)
 
 Late submissions are not accepted.
 
 
 ---
-### <a name="a0"> Assignment 0: Plagiarisms test (individual, 5% points) </a>
+### <a name="a1"> Assignment 1: Plagiarisms test (individual, 5% points) </a>
 
 The first assignment of this course is to [pass the plagiarism test and obtain a certificate at the master and doctoral level](https://plagiarism.iu.edu/index.html). Plagiarism is a serious academic misconduct. You will receive zero grade on plagiarized work and there may be other consequences. We have been told not to do this maybe since primary school, and we are always assuming we know what plagiarism is. However, we may assume we know too much (e.g., [famous cases of plagiarism](https://www.google.com/search?q=famous+cases+of+plagiarism)).
 
@@ -25,7 +25,7 @@ For this assignment, please submit your certificate as a file to [Canvas](/#).
 
 
 ---
-### <a name="a1"> Assignment 1: Documentation (individual, 5% points) </a>
+### <a name="a2"> Assignment 2: Documentation (individual, 5% points) </a>
 
 TBD.
 

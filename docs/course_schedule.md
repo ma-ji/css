@@ -8,29 +8,29 @@
 ### Computational fundamentals (3 weeks)
 
 - Week 1: Course introduction
-- Week 2: Data management
-- Week 3: Efficient and algorithmic computing
+- Week 2: Data management and documentation
+- Week 3: Efficient and algorithmic computing (TBD)
 
 ### Text as data (5 weeks)
 
-- Week 4: Text analysis in social science research: typical process and applications
-- Week 5: Preprocessing and feature extraction
-- Week 6: Vector semantics and embeddings
-- Week 7: Text analysis: semantic similarity, clustering, and classification
-- Week 8: Text analysis: Multilingual topic modeling and named-entity recognition
+- Week 4: Text analysis in social science research: typical process and applications (TBD)
+- Week 5: Preprocessing and feature extraction (TBD)
+- Week 6: Vector semantics and embedding (TBD)
+- Week 7: Text analysis: semantic similarity, clustering, and classification (TBD)
+- Week 8: Text analysis: Multilingual topic modeling and named-entity recognition (TBD)
 
 ### Relation as data (4 weeks)
 
-- Week 9: Network analysis in social science research: Basic concepts and  applications
-- Week 10: Data collection and analysis of nodes
-- Week 11: Analysis of communities
-- Week 12: Network topology and hypothesis testing
+- Week 9: Network analysis in social science research: Basic concepts and  applications (TBD)
+- Week 10: Data collection and analysis of nodes (TBD)
+- Week 11: Analysis of communities (TBD)
+- Week 12: Network topology and hypothesis testing (TBD)
 
 ### From concepts to numbers: CSS and research design (3 weeks)
 
-- Week 13: Research design with CSS methods
-- Week 14: Data reduction and measure validation
-- Week 15: Work on final project
+- Week 13: Research design with CSS methods (TBD)
+- Week 14: Data reduction and measure validation (TBD)
+- Week 15: Work on final project (TBD)
 
 
 ---
@@ -38,19 +38,20 @@
 ---
 
 ### <a name="w0"> Week 0 Pre-course </a>	[_Back2Top_](#)
-- [Complete course survey](https://utexas.instructure.com/courses/1261330/quizzes/1295833)
+- [Complete course survey](#)
 - Register Accounts:
-	- [GitHub](https://github.com/) / [Education (Students)](https://education.github.com/students)
+	- [GitHub](https://github.com/) / [Free GitHub Pro (GitHub Education)](https://education.github.com/students)
 	- [Chameleon Cloud](https://www.chameleoncloud.org/)
 
 
 ---
-### <a name="w1"> Week 1 Sep 9: Why this course? </a>	[_Back2Top_](#)
+### <a name="w1"> Week 1: Course introduction </a>	[_Back2Top_](#)
 
 #### Before class
 - Readings:
-	- Lazer, David, Alex Pentland, Lada Adamic, Sinan Aral, Albert-László Barabási, Devon Brewer, Nicholas Christakis, et al. 2009. “Computational Social Science.” Science 323 (5915): 721–23. https://doi.org/10.1126/science.1167742.
-	- Cioffi-Revilla, Claudio. 2017. “Introduction.” In Introduction to Computational Social Science, 1–33. Texts in Computer Science. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-50131-4.
+	- Hofman, Jake M., Duncan J. Watts, Susan Athey, Filiz Garip, Thomas L. Griffiths, Jon Kleinberg, Helen Margetts, et al. 2021. “Integrating Explanation and Prediction in Computational Social Science.” Nature 595 (7866): 181–88. https://doi.org/10.1038/s41586-021-03659-0.
+	- Edelmann, Achim, Tom Wolff, Danielle Montagne, and Christopher A. Bail. 2020. “Computational Social Science and Sociology.” Annual Review of Sociology 46 (1): 61–81. https://doi.org/10.1146/annurev-soc-121919-054621.
+	- Lazer, David M. J., Alex Pentland, Duncan J. Watts, Sinan Aral, Susan Athey, Noshir Contractor, Deen Freelon, et al. 2020. “Computational Social Science: Obstacles and Opportunities.” Science 369 (6507): 1060–62. https://doi.org/10.1126/science.aaz8170.
 
 ### In class
 - Discussion and lecture on readings.
@@ -63,21 +64,24 @@
 
 
 ---
-### <a name="w2"> Week 2 Sep 16: Knowledge graph, computation, and social science </a>	[_Back2Top_](#)
+### <a name="w2"> Week 2: Data management and documentation </a>	[_Back2Top_](#)
+<!-- ### <a name="w2"> Week 2: Knowledge graph, computation, and social science </a>	[_Back2Top_](#) -->
 
 #### Before class
 - Readings:
-	- Miller, Eric J. 2001. “An Introduction to the Resource Description Framework.” Journal of Library Administration 34 (3–4): 245–55. https://doi.org/10.1300/J111v34n03_04.
+	- Gentzkow, Matthew, and Jesse M. Shapiro. 2014. Code and Data for the Social Sciences: A Practitioner’s Guide.
+	- Wilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510.
+<!-- 	- Miller, Eric J. 2001. “An Introduction to the Resource Description Framework.” Journal of Library Administration 34 (3–4): 245–55. https://doi.org/10.1300/J111v34n03_04.
 	- Cioffi-Revilla, Claudio. 2017. “Computation and Social Science.” In Introduction to Computational Social Science. Texts in Computer Science. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-50131-4.
 - Software packages:
 	- Yu, Shih Yuan, Sujit Rokka Chhetri, Arquimedes Canedo, Palash Goyal, and Mohammad Abdullah Al Faruque. 2019. “Pykg2vec: A Python Library for Knowledge Graph Embedding.” ArXiv:1906.04239 [Cs, Stat], June. http://arxiv.org/abs/1906.04239.
-	- Costabello, Luca, Sumit Pai, Chan Le Van, Rory McGrath, and Nick McCarthy. 2019. “AmpliGraph: A Library for Representation Learning on Knowledge Graphs,” March. https://doi.org/10.5281/zenodo.2595043.
+	- Costabello, Luca, Sumit Pai, Chan Le Van, Rory McGrath, and Nick McCarthy. 2019. “AmpliGraph: A Library for Representation Learning on Knowledge Graphs,” March. https://doi.org/10.5281/zenodo.2595043. -->
 
 #### In class
 - Discussion and lecture on readings.
-- Group discussion: How can you use knowledge graph and RDF to solve a social science problem?
-- Hands-on:
-	- Start an instance on [Chameleon Cloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html): 1) book a lease, 2) setup the [network and router](https://chameleoncloud.readthedocs.io/en/latest/technical/networks/networks_vlan.html) for remote access (instance->self-defined network->router->public network), 3) start an instance.
+- Hands-on: Setup a cloud computing server with Chameleon Cloud
+	- Start an instance on [Chameleon Cloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
+	<!-- 1) book a lease, 2) setup the [network and router](https://chameleoncloud.readthedocs.io/en/latest/technical/networks/networks_vlan.html) for remote access (instance->self-defined network->router->public network), 3) start an instance. -->
 	- Install [Anaconda Python](https://www.anaconda.com/distribution/) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
 	- Snapshot the instance [as an image](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html).
 
@@ -90,9 +94,6 @@
 
 #### Before class
 - Readings:
-	- Gentzkow, Matthew, and Jesse M. Shapiro. 2014. Code and Data for the Social Sciences: A Practitioner’s Guide.
-	- Wilson, Greg, D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt Davis, Richard T. Guy, Steven H. D. Haddock, et al. 2014. “Best Practices for Scientific Computing.” PLOS Biology 12 (1): e1001745. https://doi.org/10.1371/journal.pbio.1001745.
-	- Wilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510.
 
 #### In class
 - Discussion and lecture on readings.

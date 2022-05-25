@@ -21,7 +21,22 @@ The final project is a mini-research project. You need to clearly respond how th
 
 # Project options
 
-## Analyze civil society scholarship in many languages (TBD)
+## Analyze civil society scholarship in many languages
 
-## Classify civil society texts in many languages (TBD)
+Details TBD.
 
+## Classify civil society texts in many languages
+
+Details TBD.
+
+## Identify mis-/dis-information in many languages
+
+Details TBD.
+
+
+<!-- Summer project timeline:
+
+0. Team: until 6/3.
+1. Survey current platforms. 6/6-7/1.
+2. Designing the prototype of the new platform: structure, data source, and core methods. 6/20-7/22
+3. Develop core functions/components. 7/4-8/30. -->
