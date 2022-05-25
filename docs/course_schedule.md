@@ -7,13 +7,13 @@
 
 ### Computational fundamentals (3 weeks)
 
-- Week 1: Course introduction
-- Week 2: Data management and documentation
+- [Week 1: Course introduction](/#w1)
+- [Week 2: Data management and documentation](/#w2)
 - Week 3: Efficient and algorithmic computing (TBD)
 
 ### Text as data (5 weeks)
 
-- Week 4: Text analysis in social science research: typical process and applications (TBD)
+- [Week 4: Text analysis in social science research: typical process and applications](/#w4)
 - Week 5: Preprocessing and feature extraction (TBD)
 - Week 6: Vector semantics and embedding (TBD)
 - Week 7: Text analysis: semantic similarity, clustering, and classification (TBD)
@@ -34,7 +34,7 @@
 
 
 ---
-# Weekly Details (TBD, from previous semesters, for reference only)
+# Weekly Details
 ---
 
 ### <a name="w0"> Week 0 Pre-course </a>	[_Back2Top_](#)
@@ -90,10 +90,12 @@
 
 
 ---
-### <a name="w3"> Week 3 Sep 23: Good enough research practices in scientific computing </a>	[_Back2Top_](#)
+### <a name="w3"> Week 3: Efficient and algorithmic computing </a>	[_Back2Top_](#)
 
 #### Before class
 - Readings:
+	- Bird, Steven, Ewan Klein, and Edward Loper. 2009. “Writing Structured Programs.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
+	- Cioffi-Revilla, Claudio. 2017a. “Automated Information Extraction.” In Introduction to Computational Social Science. Texts in Computer Science. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-50131-4.
 
 #### In class
 - Discussion and lecture on readings.
@@ -117,11 +119,15 @@
 
 
 ---
-### <a name="w4"> Week 4 Sep 30: High-performance cloud computing and parallel computing </a>	[_Back2Top_](#)
+### <a name="w4"> Week 4: Text analysis in social science research: typical process and applications </a>	[_Back2Top_](#)
+<!-- ### <a name="w4"> Week 4 Sep 30: High-performance cloud computing and parallel computing </a>	[_Back2Top_](#) -->
+
 
 #### Before class
 - Readings:
-	- Czech, Zbigniew J. 2017. “Concurrent Processes.” In Introduction to Parallel Computing, 1–34. Cambridge University Press.
+	- GRS: Introduction, Social science research and text analysis (required)
+	- JM: Regular Expressions, Text Normalization, Edit Distance (recommended)
+	- Bird, Steven, Ewan Klein, and Edward Loper. 2009a. “Accessing Text Corpora and Lexical Resources.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly. (recommended)
 
 #### In class
 - Visit [Texas Advanced Computing Center](https://www.tacc.utexas.edu/).
@@ -133,16 +139,15 @@
 
 
 ---
-### <a name="w5"> Week 5 Oct 7: Algorithm and workflow for social scientists </a>	[_Back2Top_](#)
+### <a name="w5"> Week 5: Preprocessing and feature extraction </a>	[_Back2Top_](#)
 
 #### Before class
 - Readings:
-	- Bird, Steven, Ewan Klein, and Edward Loper. 2009. “Writing Structured Programs.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
-	- Cioffi-Revilla, Claudio. 2017a. “Automated Information Extraction.” In Introduction to Computational Social Science. Texts in Computer Science. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-50131-4.
+	- GRS: Selection and representation (required)
+	- JM: Vector semantics and embeddings (recommended)
 
 #### In class:
 - Discussion and lecture on readings.
-- [Data topic week 5](/open_data/data_topic/#d5)
 
 #### After class
 - Recommended course: [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2) (4 hours)
@@ -153,11 +158,7 @@
 #### Before class
 - [Complete all lessons on RegexOne](https://regexone.com/)
 - Readings:
-	- Jurafsky, Daniel, and James H. Martin. 2017. “Regular Expressions, Text Normalization, Edit Distance.” In Speech and Language Processing, 3rd draft. https://web.stanford.edu/~jurafsky/slp3/.
-	<!-- - Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018a. “Building a Custom Corpus.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media. -->
-	<!-- - ———. 2018b. “Language and Computation.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media. -->
-	- Bird, Steven, Ewan Klein, and Edward Loper. 2009a. “Accessing Text Corpora and Lexical Resources.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
-	<!-- - ———. 2009b. “Language Processing and Python.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly. http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=415520. -->
+
 
 
 #### In class
