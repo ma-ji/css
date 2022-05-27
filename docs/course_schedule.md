@@ -9,7 +9,7 @@
 
 - [Week 1: Course introduction](#w1)
 - [Week 2: Data management and documentation](#w2)
-- Week 3: Efficient algorithm and automated workflow (TBD)
+- [Week 3: Efficient algorithm and automated workflow](#w3)
 
 ### Text as data (5 weeks)
 
@@ -95,6 +95,7 @@
 #### Before class
 - Readings:
 	- Bird, Steven, Ewan Klein, and Edward Loper. 2009. “Writing Structured Programs.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
+	- GS: Automation.
 
 #### In class
 - Discussion and lecture on readings.
