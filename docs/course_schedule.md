@@ -69,19 +69,13 @@
 
 #### Before class
 - Readings:
-	- Gentzkow, Matthew, and Jesse M. Shapiro. 2014. Code and Data for the Social Sciences: A Practitioner’s Guide.
+	- GS: All chapters excluding "Automation."
 	- Wilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510.
-<!-- 	- Miller, Eric J. 2001. “An Introduction to the Resource Description Framework.” Journal of Library Administration 34 (3–4): 245–55. https://doi.org/10.1300/J111v34n03_04.
-	- Cioffi-Revilla, Claudio. 2017. “Computation and Social Science.” In Introduction to Computational Social Science. Texts in Computer Science. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-50131-4.
-- Software packages:
-	- Yu, Shih Yuan, Sujit Rokka Chhetri, Arquimedes Canedo, Palash Goyal, and Mohammad Abdullah Al Faruque. 2019. “Pykg2vec: A Python Library for Knowledge Graph Embedding.” ArXiv:1906.04239 [Cs, Stat], June. http://arxiv.org/abs/1906.04239.
-	- Costabello, Luca, Sumit Pai, Chan Le Van, Rory McGrath, and Nick McCarthy. 2019. “AmpliGraph: A Library for Representation Learning on Knowledge Graphs,” March. https://doi.org/10.5281/zenodo.2595043. -->
 
 #### In class
 - Discussion and lecture on readings.
 - Hands-on: Setup a cloud computing server with Chameleon Cloud
 	- Start an instance on [Chameleon Cloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
-	<!-- 1) book a lease, 2) setup the [network and router](https://chameleoncloud.readthedocs.io/en/latest/technical/networks/networks_vlan.html) for remote access (instance->self-defined network->router->public network), 3) start an instance. -->
 	- Install [Anaconda Python](https://www.anaconda.com/distribution/) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
 	- Snapshot the instance [as an image](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html).
 
@@ -90,7 +84,7 @@
 
 
 ---
-### <a name="w3"> Week 3: Efficient and algorithmic computing </a>	[_Back2Top_](#)
+### <a name="w3"> Week 3: Efficient algorithm and automated workflow </a>	[_Back2Top_](#)
 
 #### Before class
 - Readings:
