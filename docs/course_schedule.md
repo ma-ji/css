@@ -7,13 +7,13 @@
 
 ### Computational fundamentals (3 weeks)
 
-- [Week 1: Course introduction](/#w1)
-- [Week 2: Data management and documentation](/#w2)
-- Week 3: Efficient and algorithmic computing (TBD)
+- [Week 1: Course introduction](#w1)
+- [Week 2: Data management and documentation](#w2)
+- Week 3: Efficient algorithm and automated workflow (TBD)
 
 ### Text as data (5 weeks)
 
-- [Week 4: Text analysis in social science research: typical process and applications](/#w4)
+- [Week 4: Text analysis in social science research: typical process and applications](#w4)
 - Week 5: Preprocessing and feature extraction (TBD)
 - Week 6: Vector semantics and embedding (TBD)
 - Week 7: Text analysis: semantic similarity, clustering, and classification (TBD)
@@ -95,7 +95,6 @@
 #### Before class
 - Readings:
 	- Bird, Steven, Ewan Klein, and Edward Loper. 2009. “Writing Structured Programs.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
-	- Cioffi-Revilla, Claudio. 2017a. “Automated Information Extraction.” In Introduction to Computational Social Science. Texts in Computer Science. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-50131-4.
 
 #### In class
 - Discussion and lecture on readings.

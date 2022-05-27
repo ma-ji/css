@@ -26,23 +26,29 @@ The course has demanding [prerequisites](/prerequisites); therefore, you probabl
 
 # Resources
 
-## _Recommended_ (not required) textbooks
+## _Recommended_ (not required) textbooks / e-books
 
-The two books give you a good theoretical understanding and are very useful in research design.
+These books give you a good theoretical understanding and are very useful in research design.
 
 - [GRS] Grimmer, Justin, Margaret E. Roberts, and Brandon M. Stewart. 2022. Text as Data: A New Framework for Machine Learning and the Social Sciences. Princeton, New Jersey Oxford: Princeton University Press.
 - [SJ] Scott, John. 2017. Social Network Analysis. Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd. (different versions are fine)
 
-The two books/sources introduce more technical and hands-on details.
+These books/sources introduce more technical and hands-on details.
 
 - [JM] Jurafsky, Daniel, and James H. Martin. 2022. Speech and Language Processing. 3rd draft. https://web.stanford.edu/~jurafsky/slp3/. (the authors generously made their book publicly available, check their website and use the latest version)
 - [NetworkX](https://networkx.org/) (the package's documentation and the references cited are the best place to start in terms of technical details)
+- Gentzkow, Matthew, and Jesse M. Shapiro. 2014. Code and Data for the Social Sciences: A Practitioner’s Guide. https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf.
 
-- Past presentations: [2019 fall](https://drive.google.com/drive/folders/1GXDiy4dFq1i00U0qNhTtKM0YJMCOGsvd?usp=sharing)
+## Presentations from previous semesters
+
+[2019 fall](https://drive.google.com/drive/folders/1GXDiy4dFq1i00U0qNhTtKM0YJMCOGsvd?usp=sharing)
 
 
 ---
-_Acknowledgement_: The course is partly supported by the [Teaching Innovation Grants 2022-23](https://ctl.utexas.edu/grants-fellowships/teaching-innovation-grants-2022-2023) from the [Center for Teaching and Learning](https://ctl.utexas.edu/).
+# Acknowledgement
+
+- 2022: The course is partly supported by the [Teaching Innovation Grants 2022-23](https://ctl.utexas.edu/grants-fellowships/teaching-innovation-grants-2022-2023) from the [Center for Teaching and Learning](https://ctl.utexas.edu/).
+- 2019: The special events were supported by UT Austin Graduate School's [Academic Enrichment Fund](https://gradschool.utexas.edu/finances/academic-enrichment) and [RGK Center Special Funds for Data Science Speaker Series](https://rgkcenter.org/) at the [LBJ School of Public Affairs](https://lbj.utexas.edu/). Co-sponsors also include [Center for East Asian Studies](https://liberalarts.utexas.edu/asianstudies/), [UT Library Research Data Services](https://www.lib.utexas.edu/research-help-support/research-data-services). The computing resources for the one-day data hackathon was supported by the [XSEDE Educational Resources](https://portal.xsede.org/allocations/education). 
 
 <!-- ---
 # Class profile

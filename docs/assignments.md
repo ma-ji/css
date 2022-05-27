@@ -1,7 +1,7 @@
 # Assignments (TBD)
 
-- [Assignment 1: Plagiarism test (individual, 5% points)](/#a1)
-- [Assignment 2: Documentation (individual, 5% points)](/#a2)
+- [Assignment 1: Plagiarism test (individual, 5% points)](#a1)
+- [Assignment 2: Documentation (individual, 5% points)](#a2)
 - [Assignment 3: Create your own cloud computing server (individual, 5% points)](#a3)
 - [Assignment 4: Parallel computing (individual, 5% points)](#a4)
 - [Assignment 5: Disambiguation using algorithm (individual/group, 15% points)](#a5)

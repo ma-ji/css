@@ -23,15 +23,19 @@ The final project is a mini-research project. You need to clearly respond how th
 
 ## Analyze civil society scholarship in many languages
 
-Details TBD.
+Details TBD. Dataset provided by instructor.
 
 ## Classify civil society texts in many languages
 
-Details TBD.
+Details TBD. Dataset provided by instructor.
 
 ## Identify mis-/dis-information in many languages
 
-Details TBD.
+Details TBD. Dataset provided by instructor.
+
+## Government-nonprofit relation during crisis
+
+Details TBD. Dataset: [GDELT Project](https://www.gdeltproject.org/)
 
 
 <!-- Summer project timeline:
