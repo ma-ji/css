@@ -10,9 +10,9 @@
 
 
 ---
-This course introduces computational social science methods and contexualize these methods within social science research design. The first part of this course (w1--w3) gives you an overview of this course, research design, and programming fundamentals. You will also learn how to use [high-performance cloud computing resources](https://www.tacc.utexas.edu/systems/chameleon). The second part (w4--w12) is analysis-oriented and primarily covers text analysis (w4--w8; with an emphasis on multilingual language analysis) and network analysis (w9--w12). Bilingual or multilingual language ability is a plus. Programming is an essential part of this course but not the purpose. We will be coding for social good.
+This course introduces computational social science methods and contextualize these methods within social science research design. The first part of this course (w1--w3) gives you an overview of this course, programming fundamentals, and how to use [high-performance cloud computing resources](https://www.tacc.utexas.edu/systems/chameleon). The second part (w4--w12) is analysis-oriented and primarily covers text analysis (w4--w8; with an emphasis on multilingual language analysis) and network analysis (w9--w12). The last few weeks focus on research design with computational methods and final project. Bilingual or multilingual language ability is a plus. Programming is an essential part of this course but not the purpose. We will be coding for social good.
 
-The course has demanding [prerequisites](/prerequisites); therefore, you probably need to work on the [prerequisites](/prerequisites) in 2022 summer and fall if you are highly motivated. All registrations need to be approved by the instructor in late 2022 fall. You can [join the learning group here](https://uta-css.slack.com).
+The course has demanding [prerequisites](/prerequisites); therefore, you probably need to work on the [prerequisites](/prerequisites) in 2022 summer and fall if you are highly motivated. All registrations need to be approved by the instructor in late 2022 fall. You can [join the learning group](https://uta-css.slack.com) where more learning resources will be shared.
 
 # [Prerequisites](/prerequisites)
 
@@ -48,7 +48,7 @@ These books/sources introduce more technical and hands-on details.
 # Acknowledgements
 
 - 2022: The course is partly supported by the [Teaching Innovation Grants 2022-23](https://ctl.utexas.edu/grants-fellowships/teaching-innovation-grants-2022-2023) from the [Center for Teaching and Learning](https://ctl.utexas.edu/).
-- 2019: The special events were supported by UT Austin Graduate School's [Academic Enrichment Fund](https://gradschool.utexas.edu/finances/academic-enrichment) and [RGK Center Special Funds for Data Science Speaker Series](https://rgkcenter.org/) at the [LBJ School of Public Affairs](https://lbj.utexas.edu/). Co-sponsors also include [Center for East Asian Studies](https://liberalarts.utexas.edu/asianstudies/), [UT Library Research Data Services](https://www.lib.utexas.edu/research-help-support/research-data-services). The computing resources for the one-day data hackathon was supported by the [XSEDE Educational Resources](https://portal.xsede.org/allocations/education). 
+- 2019: The special events were supported by UT Austin Graduate School's [Academic Enrichment Fund](https://gradschool.utexas.edu/finances/academic-enrichment) and [RGK Center Special Funds for Data Science Speaker Series](https://rgkcenter.org/) at the [LBJ School of Public Affairs](https://lbj.utexas.edu/). Co-sponsors also include [Center for East Asian Studies](https://liberalarts.utexas.edu/asianstudies/), [UT Library Research Data Services](https://www.lib.utexas.edu/research-help-support/research-data-services). The computing resource for the one-day data hackathon was supported by the [XSEDE Educational Resources](https://portal.xsede.org/allocations/education). 
 
 <!-- ---
 # Class profile
