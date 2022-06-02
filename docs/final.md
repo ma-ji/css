@@ -35,7 +35,17 @@ Details TBD. Dataset provided by instructor.
 
 ## Government-nonprofit relation during crisis
 
-Details TBD. Dataset: [GDELT Project](https://www.gdeltproject.org/)
+Details TBD. 
+
+### Data source: [GDELT Project](https://www.gdeltproject.org/)
+
+Useful documentation:
+
+- [GDELT DOC 2.0 API Documentation](https://blog.gdeltproject.org/gdelt-doc-2-0-api-debuts/)
+- [GDELT Project Web Interface](https://gdelt.github.io/)
+- [Mapping The Media: A Geographic Lookup Of GDELT's Sources](https://blog.gdeltproject.org/mapping-the-media-a-geographic-lookup-of-gdelts-sources/)
+- [GDELT Source Lookup: Outlet Formal Names And Icons](https://blog.gdeltproject.org/gdelt-source-lookup-outlet-formal-names-and-icons/)
+- [GDELT Summary](https://blog.gdeltproject.org/announcing-gdelt-summary/)
 
 
 <!-- Summer project timeline:
