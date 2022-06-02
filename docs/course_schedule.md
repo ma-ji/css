@@ -14,7 +14,7 @@
 ### Text as data (5 weeks)
 
 - [Week 4: Text analysis in social science research: typical process and applications](#w4)
-- Week 5: Preprocessing and feature extraction (TBD)
+- [Week 5: Preprocessing and feature extraction](#w5)
 - Week 6: Vector semantics and embedding (TBD)
 - Week 7: Text analysis: semantic similarity, clustering, and classification (TBD)
 - Week 8: Text analysis: Multilingual topic modeling and named-entity recognition (TBD)
@@ -122,9 +122,10 @@
 	- GRS: Introduction, Social science research and text analysis (required)
 	- JM: Regular Expressions, Text Normalization, Edit Distance (recommended)
 	- Bird, Steven, Ewan Klein, and Edward Loper. 2009a. “Accessing Text Corpora and Lexical Resources.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly. (recommended)
+	- [Regular expression: Complete all lessons on RegexOne](https://regexone.com/)
 
 #### In class
-- Visit [Texas Advanced Computing Center](https://www.tacc.utexas.edu/).
+<!-- - Visit [Texas Advanced Computing Center](https://www.tacc.utexas.edu/). -->
 <!-- - [Data topic week 4](/open_data/data_topic/#d4) -->
 
 #### After class
@@ -148,9 +149,9 @@
 
 
 ---
-### <a name="w6"> Week 6 Oct 14: Text analysis - Fundamentals and lexical resources </a>	[_Back2Top_](#)
+### <a name="w6"> Week 6: Vector semantics and embedding </a>	[_Back2Top_](#)
+
 #### Before class
-- [Complete all lessons on RegexOne](https://regexone.com/)
 - Readings:
 
 
