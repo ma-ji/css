@@ -14,8 +14,8 @@
 ### Text as data (5 weeks)
 
 - [Week 4: Text analysis in social science research: typical process and applications](#w4)
-- [Week 5: Preprocessing and feature extraction](#w5)
-- Week 6: Vector semantics and embedding (TBD)
+- [Week 5: Preprocessing / Text representation and vectorization methods (1/2)](#w5)
+- Week 6: Text representation and vectorization methods (2/2) (TBD)
 - Week 7: Text analysis: semantic similarity, clustering, and classification (TBD)
 - Week 8: Text analysis: Multilingual topic modeling and named-entity recognition (TBD)
 
@@ -139,7 +139,6 @@
 #### Before class
 - Readings:
 	- GRS: Selection and representation (required)
-	- JM: Vector semantics and embeddings (recommended)
 
 #### In class:
 - Discussion and lecture on readings.
@@ -152,7 +151,10 @@
 ### <a name="w6"> Week 6: Vector semantics and embedding </a>	[_Back2Top_](#)
 
 #### Before class
+
 - Readings:
+	- JM: Vector semantics and embeddings (recommended)
+
 
 
 
