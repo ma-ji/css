@@ -17,7 +17,7 @@
 ### Text as data (5 weeks)
 
 - [Week 4: Text analysis in social science research: typical process and applications](#w4)
-	- Key points: Text analysis and research design, regular expression, text corpus resources
+	- Key points: Text analysis in social science studies, research design, regular expression, text corpus resources
 - [Week 5: Preprocessing](#w5)
 	- Key points: regular expression, tokenization, part-of-speech tagging, meaningful and meaningless words and stopwords
 - Week 6: Text representation and vectorization methods (TBD)
@@ -25,19 +25,23 @@
 - Week 7: Text analysis: Scaling (TBD)
 	- Key points: semantic similarity, sentiment analysis
 - Week 8: Text analysis: Identification (TBD)
-	- Key points: Classification, multilingual topic modeling, named-entity recognition (TBD)
+	- Key points: Classification, multilingual topic modeling, named-entity recognition
 
 ### Relation as data (4 weeks)
 
 - Week 9: Network analysis in social science research: Basic concepts and  applications (TBD)
+	- Key points: Network analysis in social science studies, research design, network components and levels of analysis
 - Week 10: Data collection and analysis of nodes (TBD)
+	- Key points: generate networks, measures of nodes
 - Week 11: Analysis of communities (TBD)
+	- Key points: measures of communities
 - Week 12: Network topology and hypothesis testing (TBD)
+	- Key points: measures of network topology, random graph and bootstrapping 
 
 ### From concepts to numbers: CSS and research design (3 weeks)
 
 - Week 13: Research design with CSS methods (TBD)
-- Week 14: Data reduction and measure validation (TBD)
+- Week 14: Data reduction, validation, and robustness (TBD)
 - Week 15: Work on final project (TBD)
 
 
