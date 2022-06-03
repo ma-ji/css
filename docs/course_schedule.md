@@ -17,7 +17,7 @@
 ### Text as data (5 weeks)
 
 - [Week 4: Text analysis in social science research: typical process and applications](#w4)
-	- Key points: Text analysis in social science studies, research design, regular expression, text corpus resources
+	- Key points: Text analysis in social science studies, research design, text corpus resources
 - [Week 5: Preprocessing](#w5)
 	- Key points: regular expression, tokenization, part-of-speech tagging, meaningful and meaningless words and stopwords
 - Week 6: Text representation and vectorization methods (TBD)
