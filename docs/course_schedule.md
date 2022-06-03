@@ -8,16 +8,24 @@
 ### Computational fundamentals (3 weeks)
 
 - [Week 1: Course introduction](#w1)
+	- Key points: course structure, assignments, syllabus
 - [Week 2: Data management and documentation](#w2)
+	- Key points: workflow, version control
 - [Week 3: Efficient algorithm and automated workflow](#w3)
+	- Key points: algorithm optimization, iteration, automation
 
 ### Text as data (5 weeks)
 
 - [Week 4: Text analysis in social science research: typical process and applications](#w4)
+	- Key points: Text analysis and research design, regular expression, text corpus resources
 - [Week 5: Preprocessing](#w5)
+	- Key points: regular expression, tokenization, part-of-speech tagging, meaningful and meaningless words and stopwords
 - Week 6: Text representation and vectorization methods (TBD)
-- Week 7: Text analysis: semantic similarity, clustering, and classification (TBD)
-- Week 8: Text analysis: Multilingual topic modeling and named-entity recognition (TBD)
+	- Key points: bag-of-words, count vector, word vector, distributed representation of words, word embedding, contextual word embedding
+- Week 7: Text analysis: Scaling (TBD)
+	- Key points: semantic similarity, sentiment analysis
+- Week 8: Text analysis: Identification (TBD)
+	- Key points: Classification, multilingual topic modeling, named-entity recognition (TBD)
 
 ### Relation as data (4 weeks)
 
