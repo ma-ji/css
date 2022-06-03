@@ -14,8 +14,8 @@
 ### Text as data (5 weeks)
 
 - [Week 4: Text analysis in social science research: typical process and applications](#w4)
-- [Week 5: Preprocessing / Text representation and vectorization methods (1/2)](#w5)
-- Week 6: Text representation and vectorization methods (2/2) (TBD)
+- [Week 5: Preprocessing](#w5)
+- Week 6: Text representation and vectorization methods (TBD)
 - Week 7: Text analysis: semantic similarity, clustering, and classification (TBD)
 - Week 8: Text analysis: Multilingual topic modeling and named-entity recognition (TBD)
 
@@ -116,13 +116,13 @@
 ### <a name="w4"> Week 4: Text analysis in social science research: typical process and applications </a>	[_Back2Top_](#)
 <!-- ### <a name="w4"> Week 4 Sep 30: High-performance cloud computing and parallel computing </a>	[_Back2Top_](#) -->
 
+Key points: Text analysis and research design, regular expression, text corpus resources
 
 #### Before class
 - Readings:
 	- GRS: Introduction, Social science research and text analysis (required)
 	- JM: Regular Expressions, Text Normalization, Edit Distance (recommended)
 	- Bird, Steven, Ewan Klein, and Edward Loper. 2009a. “Accessing Text Corpora and Lexical Resources.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly. (recommended)
-	- [Regular expression: Complete all lessons on RegexOne](https://regexone.com/)
 
 #### In class
 <!-- - Visit [Texas Advanced Computing Center](https://www.tacc.utexas.edu/). -->
@@ -134,11 +134,16 @@
 
 
 ---
-### <a name="w5"> Week 5: Preprocessing and feature extraction </a>	[_Back2Top_](#)
+### <a name="w5"> Week 5: Preprocessing </a>	[_Back2Top_](#)
+
+Key points: regular expression, tokenization, part-of-speech tagging, meaningful and meaningless words and stopwords
 
 #### Before class
 - Readings:
 	- GRS: Selection and representation (required)
+
+- Exercise:
+	- [Regular expression: Complete all lessons on RegexOne](https://regexone.com/)
 
 #### In class:
 - Discussion and lecture on readings.
