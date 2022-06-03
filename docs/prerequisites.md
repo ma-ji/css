@@ -25,7 +25,7 @@ Programming may be intimidating, but remember you are coding for social good and
 
 The class is Python based, but you can use R or any other programming language as long as you can complete the assignments and final project. R has its own advantages for sure, but I personally recommend Python because most of the state-of-the-art NLP implementations are in Python. Example Python packages used in this course: Pandas, Requests, regular expression, NetworkX, NLTK, TensorFlow, Keras, Transformers, and Gensim, etc.
 
-<ins>Programming is an essential part of this course but not the purpose and will not be taught in this class.</ins> You are expected to have an intermediate to advanced level of programming skills before entering the class. At the minimum, you need to pass the following courses before registering this course (or you are confident that these modules are too easy; contact instructor for a free DataCamp license):
+<ins>Programming is an essential part of this course but not the purpose and will not be taught in this class.</ins> You are expected to have an intermediate to advanced level of programming skills before entering the class. At the minimum, you need to pass the following courses before registering this course (or you are confident that these modules are too easy; [join the learning group](https://uta-css.slack.com) to obtain a free DataCamp license):
 
 ### Required fundamentals (no particular order)
 
