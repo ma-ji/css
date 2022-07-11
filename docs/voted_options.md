@@ -1,5 +1,7 @@
 # Options for voted sessions
 
+[*Vote by xxx here*](#)
+
 ### Text as data
 
 - [Text analysis in social science research: typical process and applications](#w4)

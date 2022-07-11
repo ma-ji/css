@@ -21,14 +21,14 @@
 - Week 6: Presentation of empirical studies (2 groups)
 - Week 7: Presentation of empirical studies (2 groups)
 
-### Customized sessions (instructor-lead): Choose from [these options](/voted_options) (3 weeks)
+### Instructor-lead sessions: Choose from [these options](/voted_options) (3 weeks)
 
 - Week 8: Voted module 1
 - Week 9: Voted module 2
 - Week 10: Voted module 3
 - Week 11: no class; week for assignments; group meeting with instructor.
 
-### Customized sessions (student-lead): Decided before Week 8 (3 weeks)
+### Student-lead sessions: Decided before Week 8 (3 weeks)
 
 - Week 12: Student-lead module 1
 - Week 13: Student-lead module 2
