@@ -9,7 +9,7 @@
 
 - [Week 1: Course introduction](#w1)
 	- Key points: course structure, assignments, syllabus
-- Week 2: Research design with CSS methods
+- Week 2: Research design with CSS methods (core)
 - [Week 3: Efficient algorithm, data management and documentation, automated workflow](#w3)
 	- Key points: algorithm optimization, iteration, automation, workflow, version control
 - Week 4: Data reduction, validation, and robustness (TBD)

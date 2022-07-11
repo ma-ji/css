@@ -1,6 +1,7 @@
 # Options for voted sessions
-
 [*Vote by xxx here*](#)
+---
+
 
 ### Text as data
 
