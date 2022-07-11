@@ -1,13 +1,18 @@
 # Assignments (TBD)
 
 - [Assignment 1: Plagiarism test (individual, 5% points)](#a1)
-- [Assignment 2: Documentation (individual, 5% points)](#a2)
-- [Assignment 3: Create your own cloud computing server (individual, 5% points)](#a3)
+- [Assignment 2: Create your own cloud computing server (individual, 5% points)](#a3)
+- Assignment 3: Customized learning (individual, 30% points)
+- Assignment 4: Analysis of empirical studies (group or individual, 20% points)
+- Assignment 5: Student-lead learning module (group or individual, 10% points)
+- [Assignment 6: Final project (group or individual, 30% points)](/final)
+
+<!-- - [Assignment 2: Documentation (individual, 5% points)](#a2)
 - [Assignment 4: Parallel computing (individual, 5% points)](#a4)
 - [Assignment 5: Disambiguation using algorithm (individual/group, 15% points)](#a5)
 - [Assignment 6: NLP/Network analysis (individual/group, 15% points)](#a6)
 - [Assignment 7: Analysis and presentation of empirical paper(s) (individual, 15% points)](#a7)
-- [Assignment 8: Final project (individual/group, 35% points)](/final)
+- [Assignment 8: Final project (individual/group, 35% points)](/final) -->
 
 Late submissions are not accepted.
 
