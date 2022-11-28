@@ -1,6 +1,8 @@
 # Assignments (TBD)
 ---
 
+<!-- %%%%%%Open source community / pedagogy as an assignment%%%%%-->
+
 - [Assignment 1: Plagiarism test (individual, 5% points)](#a1)
 - [Assignment 2: Create your own cloud computing server (individual, 5% points)](#a3)
 - Assignment 3: Customized learning (individual, 30% points)

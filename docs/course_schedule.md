@@ -9,35 +9,37 @@
 
 - [Week 1: Course introduction](#w1)
 	- Key points: course structure, assignments, syllabus
-- Week 2: Research design with CSS methods (core)
+- Week 2: Computational methods for social sciences: Overview
+	- Key points: philosophical and epistemological fundamentals, research design overview, comparison between CSS and conventional approaches
+- Week 3: Analyzing computational methods from a research design perspective
+	- Key points: data management, concept representation, data analysis, and visualization
+
+<!-- 
 - [Week 3: Efficient algorithm, data management and documentation, automated workflow](#w3)
 	- Key points: algorithm optimization, iteration, automation, workflow, version control
 - Week 4: Data reduction, validation, and robustness (TBD)
-- Week 5: no class; week for assignments; group meeting with instructor.
+ -->
 
-### Student-lead seminar (2 weeks)
+### Analyzing computational social science methods (8 + 2 weeks)
 
-- Week 6: Presentation of empirical studies (2 groups)
-- Week 7: Presentation of empirical studies (2 groups)
+Instructor-lead sessions are voted by the class from [these options](/voted_options)
 
-### Instructor-lead sessions: Choose from [these options](/voted_options) (3 weeks)
-
-- Week 8: Voted module 1
-- Week 9: Voted module 2
-- Week 10: Voted module 3
-- Week 11: no class; week for assignments; group meeting with instructor.
-
-### Student-lead sessions: Decided before Week 8 (3 weeks)
-
-- Week 12: Student-lead module 1
-- Week 13: Student-lead module 2
-- Week 14: Student-lead module 3
+- Week 4: Instructor-lead seminar on computational methods: Voted module 1
+- Week 5: Student-lead seminar on research design: Data management
+- Week 6: Instructor-lead seminar on computational methods: Voted module 2
+- Week 7: Student-lead seminar on research design: Concept representation
+- _Week 8: Group consultation on final project (no class)_
+- Week 9: Instructor-lead seminar on computational methods: Voted module 3
+- Week 10: Student-lead seminar on research design: Data analysis
+- Week 11: Instructor-lead seminar on computational methods: Voted module 4
+- _Week 12: Group consultation on final project (no class)_
+- Week 13: Student-lead seminar on research design: Visualization
 
 ### Final project
-- Week 15: Final project
+- Week 14: Final project presentations
 
 ---
-# Weekly Details
+# Weekly Details (TBD)
 ---
 
 ### <a name="w0"> Week 0 Pre-course </a>	[_Back2Top_](#)
