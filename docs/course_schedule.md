@@ -64,13 +64,12 @@ Instructor-lead sessions are voted by the class from [these options](/voted_opti
 
 ### After class
 - [<span style="color:red">**Assignment 1 due this week's Sunday.**</span>](/open_data/assignments/#a1)
-- [Be familiar with "Getting started with Chameleon Cloud"](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
-- Recommended course: [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science) (4 hours)
+- [Review "Getting started with Chameleon Cloud"](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
+<!-- - Recommended course: [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science) (4 hours) -->
 
-
+<!-- 
 ---
 ### <a name="w2"> Week 2: Data management and documentation </a>	[_Back2Top_](#)
-<!-- ### <a name="w2"> Week 2: Knowledge graph, computation, and social science </a>	[_Back2Top_](#) -->
 
 #### Before class
 - Readings:
@@ -98,7 +97,6 @@ Instructor-lead sessions are voted by the class from [these options](/voted_opti
 
 #### In class
 - Discussion and lecture on readings.
-<!-- - [Data topic week 3](/open_data/data_topic/#d3) -->
 - Hands-on:
 	- Let's use [JupyterHub Server](https://chameleoncloud.readthedocs.io/en/latest/technical/jupyter.html) on Chameleon Cloud.
 	- Install [`htop`](https://hisham.hm/htop/) (not easy):
@@ -118,3 +116,4 @@ Instructor-lead sessions are voted by the class from [these options](/voted_opti
 
 
 
+ -->
