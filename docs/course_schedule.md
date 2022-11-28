@@ -28,11 +28,11 @@ Instructor-lead sessions are voted by the class from [these options](/voted_opti
 - Week 5: Student-lead seminar on research design: Data management
 - Week 6: Instructor-lead seminar on computational methods: Voted module 2
 - Week 7: Student-lead seminar on research design: Concept representation
-- <u>_Week 8: Group consultation on final project (no class)_</u>
+- _<u>Week 8: Group consultation on final project (no class)</u>_
 - Week 9: Instructor-lead seminar on computational methods: Voted module 3
 - Week 10: Student-lead seminar on research design: Data analysis
 - Week 11: Instructor-lead seminar on computational methods: Voted module 4
-- <u>_Week 12: Group consultation on final project (no class)_</u>
+- _<u>Week 12: Group consultation on final project (no class)</u>_
 - Week 13: Student-lead seminar on research design: Visualization
 
 ### Final project
