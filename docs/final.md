@@ -12,45 +12,34 @@ The final project is a mini-research project. You need to clearly respond how th
     - Descriptive analysis and visualization
     - Inferential analysis and visualization
     - Clustering analysis and visualization
-    - Multilingual topic modeling
     - Network analysis of nodes/communities/topology
 3. Bonus: Applying any of these skills will get 5% additional points
     - Machine learning
     - Named-entity recognition
     - Optical character recognition
 
-# Project options
+# Possible data sources for final project
 
-## Analyze civil society scholarship in many languages
+## Civil society scholarship in English and Chinese
 
-Details TBD. Dataset provided by instructor.
+[Data dictionary](#)
 
-## Classify civil society texts in many languages
+## Mission statement of nonprofit organizations in English, French, and Korean
 
-Details TBD. Dataset provided by instructor.
+[Data dictionary](#)
 
-## Identify mis-/dis-information in many languages
+## Website texts of US nonprofit organizations
 
-Details TBD. Dataset provided by instructor.
+[Data dictionary](#)
 
-## Government-nonprofit relation during crisis
+## Google Places of US Congregations
 
-Details TBD. 
+[Data dictionary](#)
 
-### Data source: [GDELT Project](https://www.gdeltproject.org/)
-
-Useful documentation:
+## [GDELT Project](https://www.gdeltproject.org/)
 
 - [GDELT DOC 2.0 API Documentation](https://blog.gdeltproject.org/gdelt-doc-2-0-api-debuts/)
 - [GDELT Project Web Interface](https://gdelt.github.io/)
 - [Mapping The Media: A Geographic Lookup Of GDELT's Sources](https://blog.gdeltproject.org/mapping-the-media-a-geographic-lookup-of-gdelts-sources/)
 - [GDELT Source Lookup: Outlet Formal Names And Icons](https://blog.gdeltproject.org/gdelt-source-lookup-outlet-formal-names-and-icons/)
 - [GDELT Summary](https://blog.gdeltproject.org/announcing-gdelt-summary/)
-
-
-<!-- Summer project timeline:
-
-0. Team: until 6/3.
-1. Survey current platforms. 6/6-7/1.
-2. Designing the prototype of the new platform: structure, data source, and core methods. 6/20-7/22
-3. Develop core functions/components. 7/4-8/30. -->
