@@ -28,7 +28,7 @@ The final project is a mini-research project. You need to clearly respond how th
 
 [Data dictionary](#)
 
-## Website texts of US nonprofit organizations
+## Website texts of US nonprofit organizations (late 1990s--2021)
 
 [Data dictionary](#)
 
