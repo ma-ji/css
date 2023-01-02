@@ -30,6 +30,7 @@ This dataset contains detailed bibliography data of peer-reviewed journal articl
 - Ma, Ji. 2022. “How Does an Authoritarian State Co-Opt Its Social Scientists Studying Civil Society?” VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations, July. https://doi.org/10.1007/s11266-022-00510-6.
 - Ma, Ji, Islam Akef Ebeid, Arjen de Wit, Meiying Xu, Yongzheng Yang, René Bekkers, and Pamala Wiepking. 2021. “Computational Social Science for Nonprofit Studies: Developing a Toolbox and Knowledge Base for the Field.” VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations, October. https://doi.org/10.1007/s11266-021-00414-x.
 - Ma, Ji, and Sara Konrath. 2018. “A Century of Nonprofit Studies: Scaling the Knowledge of the Field.” VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations 29 (6): 1139–58. https://doi.org/10.1007/s11266-018-00057-5.
+- A working paper analyzing the relationship between English and Chinese scholarship can be shared upon request.
 
 ## Mission statements of nonprofit organizations in English, French, and Korean
 
