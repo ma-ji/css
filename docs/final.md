@@ -51,7 +51,7 @@ A dump of place information from [Google Places API](https://developers.google.c
 
 ## Policy impact of public administration scholarship
 
-This dataset consists of three parts: 1) Bibliography data of over 44,000 policy documents that cite public administration scholarship, these documents are compiled from more than a thousand different sources from 180+ different countries. 2) Full texts of these policy documents. 3) Bibliography data of articles from nearly 200 peer-reviewed journals cited by the policy documents. 4) Full texts of these journals articles.
+This dataset consists of four parts: 1) Bibliography data of over 44,000 policy documents that cite public administration scholarship, these documents are compiled from more than a thousand different sources from 180+ different countries. 2) Full texts of these policy documents. 3) Bibliography data of articles from nearly 200 peer-reviewed journals cited by the policy documents. 4) Full texts of these journals articles.
 
 ## [GDELT Project](https://www.gdeltproject.org/)
 
