@@ -20,21 +20,37 @@ The final project is a mini-research project. You need to clearly respond how th
 
 # Possible data sources for final project
 
+Most of these datasets are from my own research projects, some of them are generously shared by my colleagues. Non-disclosure agreement or license agreement may need to be signed with me, my colleagues, or any other third-parties.
+
 ## Civil society scholarship in English and Chinese
 
-[Data dictionary](#)
+This dataset contains detailed bibliography data of peer-reviewed journal articles that are wrote in English and Chinese and study nonprofits, philanthropy, and civil society. Example studies using this dataset:
 
-## Mission statement of nonprofit organizations in English, French, and Korean
+- Ma, Ji, and Rene Bekkers. 2022. “Consensus Formation in Nonprofit and Philanthropic Studies: Networks, Reputation, and Gender.” OSF Preprints. https://doi.org/10.31219/osf.io/6b7qg.
+- Ma, Ji. 2022. “How Does an Authoritarian State Co-Opt Its Social Scientists Studying Civil Society?” VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations, July. https://doi.org/10.1007/s11266-022-00510-6.
+- Ma, Ji, Islam Akef Ebeid, Arjen de Wit, Meiying Xu, Yongzheng Yang, René Bekkers, and Pamala Wiepking. 2021. “Computational Social Science for Nonprofit Studies: Developing a Toolbox and Knowledge Base for the Field.” VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations, October. https://doi.org/10.1007/s11266-021-00414-x.
+- Ma, Ji, and Sara Konrath. 2018. “A Century of Nonprofit Studies: Scaling the Knowledge of the Field.” VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations 29 (6): 1139–58. https://doi.org/10.1007/s11266-018-00057-5.
 
-[Data dictionary](#)
+## Mission statements of nonprofit organizations in English, French, and Korean
+
+This dataset contains texts from nonprofits' mission statements. The data of US nonprofits are the most comprehensive and developed and are from [the IRS 990 Forms](https://www.irs.gov/charities-non-profits/form-990-resources-and-tools#:~:text=Form%20990%20is%20the%20IRS,the%20public%20about%20their%20programs.). Other possible sources: [Charity Navigator Data API](https://charity.3scale.net/docs/data-api/reference), [Nonprofit Explorer by ProPublica](https://projects.propublica.org/nonprofits/), [Candid API](https://candid.org/use-our-data/apis). Example studies:
+
+- Paxton, Pamela, Kristopher Velasco, and Robert W. Ressler. 2020. “Does Use of Emotion Increase Donations and Volunteers for Nonprofits?” American Sociological Review, November, 0003122420960104. https://doi.org/10.1177/0003122420960104.
+- Ma, Ji. 2021. “Automated Coding Using Machine Learning and Remapping the U.S. Nonprofit Sector: A Guide and Benchmark.” Nonprofit and Voluntary Sector Quarterly 50 (3): 662–87. https://doi.org/10.1177/0899764020968153.
+
+Data in French and Korean are less developed, and they are about Canadian and Korean nonprofits. The Canadian data is shared by [Prof. Elizabeth Searing](https://profiles.utdallas.edu/elizabeth.searing) and [Prof. Nathan Grasse](https://carleton.ca/sppa/nathan-grasse/). The Korean data is shared by [the Beautiful Foundation](https://www.beautifulfund.org/eng/index.php) and Shinyoung Park.
 
 ## Website texts of US nonprofit organizations (late 1990s--2021)
 
-[Data dictionary](#)
+Website texts of over 4,000 (?) US nonprofits that date back to the late 1990s. Scraped from the [Wayback Machine](https://archive.org/web/).
 
 ## Google Places of US Congregations
 
-[Data dictionary](#)
+A dump of place information from [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview), all about US congregations. Methodological paper authored by [Prof. Brad R. Fulton](https://blogs.iu.edu/fulton/) is available upon request and Prof. Fulton's discretion.
+
+## Policy impact of public administration scholarship
+
+This dataset consists of three parts: 1) Bibliography data of over 44,000 policy documents that cite public administration scholarship, these documents are compiled from more than a thousand different sources from 180+ different countries. 2) Full texts of these policy documents. 3) Bibliography data of articles from nearly 200 peer-reviewed journals cited by the policy documents. 4) Full texts of these journals articles.
 
 ## [GDELT Project](https://www.gdeltproject.org/)
 
