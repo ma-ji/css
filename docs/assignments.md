@@ -27,7 +27,7 @@ You do not need to take this test if you have a comparable certification or you 
 
 "All assignments in this course may be processed by TurnItIn, a tool that compares submitted material to an archived database of published work to check for potential plagiarism. Other methods may also be used to determine if a paper is the student's original work. Regardless of the results of any TurnItIn submission, the faculty member will make the final determination as to whether or not a paper has been plagiarized" (Statement from the _Faculty Writing Committee: Guidelines for Preventing Plagiarism_).
 
-For this assignment, please submit your certificate as a file to [Canvas](/#).
+For this assignment, please submit your certificate as a file to [Canvas](https://utexas.instructure.com/courses/1360223/assignments/6166215).
 
 
 ---
