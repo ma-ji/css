@@ -1,32 +1,31 @@
 # Options for voted sessions
-[*Vote by xxx here*](#)
+
+[*Vote by 1/27 here*](https://forms.gle/6wLF7Qv8yeGtMc8G6)
 
 ---
 
 
 ### Text as data
 
-- [Text analysis in social science research: typical process and applications](#w4)
-	- Key points: Text analysis in social science studies, research design, text corpus resources
-- [Preprocessing](#w5)
+- Text analysis in social science research: Overview
+	- Key points: typical process and applications, research design, text corpus resources
+- Preprocessing
 	- Key points: regular expression, tokenization, part-of-speech tagging, meaningful and meaningless words and stopwords
-- Text representation and vectorization methods (TBD)
+- Text representation and vectorization methods
 	- Key points: bag-of-words, count vector, word vector, distributed representation of words, word embedding, contextual word embedding
-- Text analysis: Scaling (TBD)
+- Text analysis: Scaling
 	- Key points: semantic similarity, sentiment analysis
-- Text analysis: Identification (TBD)
+- Text analysis: Identification
 	- Key points: Classification, multilingual topic modeling, named-entity recognition
 
 ### Relation as data
 
-- Network analysis in social science research: Basic concepts and  applications (TBD)
-	- Key points: Network analysis in social science studies, research design, network components and levels of analysis
-- Data collection and analysis of nodes (TBD)
-	- Key points: generate networks, measures of nodes
-- Analysis of communities (TBD)
-	- Key points: measures of communities
-- Network topology and hypothesis testing (TBD)
-	- Key points: measures of network topology, random graph and bootstrapping 
+- Network analysis in social science research: Overview
+	- Key points: Basic concepts and applications, research design, network components and levels of analysis
+- Data collection: How to generate networks
+- Analysis of nodes
+- Analysis of communities
+- Network topology and hypothesis testing
 
 <!-- 
 ---

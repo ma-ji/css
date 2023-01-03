@@ -24,7 +24,7 @@
 
 ### Analyzing computational social science methods (8 + 1 weeks)
 
-Instructor-lead sessions are voted by the class from [these options](/voted_options)
+Instructor-lead sessions are voted by the class before 1/27 from [these options](/voted_options)
 
 - Week 5: Instructor-lead seminar on computational methods: Voted module 1
 - Week 6: Student-lead seminar on research design: Data management
