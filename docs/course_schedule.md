@@ -5,7 +5,7 @@
 
 - [Week 0 Pre-course](#w0)
 
-### Computational methods and research design fundamentals (3 weeks)
+### Computational methods and research design fundamentals (4 weeks)
 
 - [Week 1: Course introduction](#w1)
 	- Key points: course structure, assignments, syllabus
@@ -13,6 +13,8 @@
 	- Key points: philosophical and epistemological fundamentals, research design overview, comparison between CSS and conventional approaches
 - Week 3: Analyzing computational methods from a research design perspective
 	- Key points: data management, concept representation, data analysis, and visualization
+- Week 4: Field visit: Texas Advanced Computing Center
+	- Visit TACC; Discussion on [final project options](/final/)
 
 <!-- 
 - [Week 3: Efficient algorithm, data management and documentation, automated workflow](#w3)
@@ -20,15 +22,14 @@
 - Week 4: Data reduction, validation, and robustness (TBD)
  -->
 
-### Analyzing computational social science methods (8 + 2 weeks)
+### Analyzing computational social science methods (8 + 1 weeks)
 
 Instructor-lead sessions are voted by the class from [these options](/voted_options)
 
-- Week 4: Instructor-lead seminar on computational methods: Voted module 1
-- Week 5: Student-lead seminar on research design: Data management
-- Week 6: Instructor-lead seminar on computational methods: Voted module 2
-- Week 7: Student-lead seminar on research design: Concept representation
-- _<u>Week 8: Group consultation on final project (no class)</u>_
+- Week 5: Instructor-lead seminar on computational methods: Voted module 1
+- Week 6: Student-lead seminar on research design: Data management
+- Week 7: Instructor-lead seminar on computational methods: Voted module 2
+- Week 8: Student-lead seminar on research design: Concept representation
 - Week 9: Instructor-lead seminar on computational methods: Voted module 3
 - Week 10: Student-lead seminar on research design: Data analysis
 - Week 11: Instructor-lead seminar on computational methods: Voted module 4
