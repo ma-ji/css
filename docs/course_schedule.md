@@ -41,10 +41,6 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 
 ---
 # Weekly Details (TBD)
----
-
-<!-- ### <a name="w0"> Week 0 Pre-course </a>	[_Back2Top_](#) -->
-
 
 ---
 ### <a name="w1"> Week 1: Course introduction </a>	[_Back2Top_](#)
