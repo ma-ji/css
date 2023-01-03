@@ -28,10 +28,9 @@
 - Network topology and hypothesis testing (TBD)
 	- Key points: measures of network topology, random graph and bootstrapping 
 
-
+<!-- 
 ---
 ### <a name="w4"> Week 4: Text analysis in social science research: typical process and applications </a>	[_Back2Top_](#)
-<!-- ### <a name="w4"> Week 4 Sep 30: High-performance cloud computing and parallel computing </a>	[_Back2Top_](#) -->
 
 Key points: Text analysis and research design, regular expression, text corpus resources
 
@@ -42,8 +41,6 @@ Key points: Text analysis and research design, regular expression, text corpus r
 	- Bird, Steven, Ewan Klein, and Edward Loper. 2009a. “Accessing Text Corpora and Lexical Resources.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly. (recommended)
 
 #### In class
-<!-- - Visit [Texas Advanced Computing Center](https://www.tacc.utexas.edu/). -->
-<!-- - [Data topic week 4](/open_data/data_topic/#d4) -->
 
 #### After class
 - [<span style="color:red">**Assignment 3 due this week's Sunday.**</span>](/open_data/assignments/#a3)
@@ -76,9 +73,6 @@ Key points: regular expression, tokenization, part-of-speech tagging, meaningful
 
 - Readings:
 	- JM: Vector semantics and embeddings (recommended)
-
-
-
 
 #### In class
 - Discussion and lecture on readings.
@@ -220,3 +214,4 @@ Key points: regular expression, tokenization, part-of-speech tagging, meaningful
 	- "Bringing it all together"
 
 
+ -->

@@ -77,7 +77,7 @@ Instructor-lead sessions are voted by the class from [these options](/voted_opti
 - Discussion on final project options.
 
 ### After class
-- [<span style="color:red">**Assignment 1 due this Friday**</span>](/open_data/assignments/#a1)
+- [<span style="color:red">**Assignment 1 due this Friday**</span>](/assignments/#a1)
 
 
 <!-- 
