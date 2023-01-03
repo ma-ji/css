@@ -3,7 +3,7 @@
 
 [Reading Materials by Week](https://utexas.instructure.com/courses/1261330/files)
 
-- [Week 0 Pre-course](#w0)
+<!-- - [Week 0 Pre-course](#w0) -->
 
 ### Computational methods and research design fundamentals (4 weeks)
 
@@ -43,11 +43,7 @@ Instructor-lead sessions are voted by the class from [these options](/voted_opti
 # Weekly Details (TBD)
 ---
 
-### <a name="w0"> Week 0 Pre-course </a>	[_Back2Top_](#)
-- [Complete course survey](#)
-- Register Accounts:
-	- [GitHub](https://github.com/) / [Free GitHub Pro (GitHub Education)](https://education.github.com/students)
-	- [Chameleon Cloud](https://www.chameleoncloud.org/)
+<!-- ### <a name="w0"> Week 0 Pre-course </a>	[_Back2Top_](#) -->
 
 
 ---
@@ -62,6 +58,9 @@ Instructor-lead sessions are voted by the class from [these options](/voted_opti
 ### In class
 - Discussion and lecture on readings.
 - Course review: Syllabus, assignments, final project.
+- Register Accounts:
+	- [GitHub](https://github.com/) / [Free GitHub Pro (GitHub Education)](https://education.github.com/students)
+	- [Chameleon Cloud](https://www.chameleoncloud.org/)
 
 ### After class
 - [<span style="color:red">**Assignment 1 due this week's Sunday.**</span>](/open_data/assignments/#a1)
