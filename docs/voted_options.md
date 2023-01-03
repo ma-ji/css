@@ -1,6 +1,6 @@
 # Options for voted sessions
 
-[*Vote by 1/27 here*](https://forms.gle/6wLF7Qv8yeGtMc8G6)
+[*Please vote by 1/27 here*](https://forms.gle/6wLF7Qv8yeGtMc8G6)
 
 ---
 
