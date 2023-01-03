@@ -9,7 +9,7 @@
 
 - [Week 1: Course introduction](#w1)
 	- Key points: course structure, assignments, syllabus
-- Week 2: Computational methods for social sciences: Overview
+- [Week 2: Computational methods for social sciences: Overview](#w2)
 	- Key points: philosophical and epistemological fundamentals, research design overview, comparison between CSS and conventional approaches
 - Week 3: Analyzing computational methods from a research design perspective
 	- Key points: data management, concept representation, data analysis, and visualization
@@ -63,9 +63,22 @@ Instructor-lead sessions are voted by the class from [these options](/voted_opti
 	- [Chameleon Cloud](https://www.chameleoncloud.org/)
 
 ### After class
-- [<span style="color:red">**Assignment 1 due this week's Sunday.**</span>](/open_data/assignments/#a1)
 - [Review "Getting started with Chameleon Cloud"](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
-<!-- - Recommended course: [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science) (4 hours) -->
+
+---
+### <a name="w2"> Week 2: Computational methods for social sciences: Overview </a>	[_Back2Top_](#)
+
+#### Before class
+- Readings (TBD)
+
+### In class
+- Discussion and lecture on readings.
+- Hands-on: High-performance cloud computing with [Chameleon](https://www.chameleoncloud.org/)
+- Discussion on final project options.
+
+### After class
+- [<span style="color:red">**Assignment 1 due this Friday**</span>](/open_data/assignments/#a1)
+
 
 <!-- 
 ---
