@@ -52,13 +52,13 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 	- Lazer, David M. J., Alex Pentland, Duncan J. Watts, Sinan Aral, Susan Athey, Noshir Contractor, Deen Freelon, et al. 2020. “Computational Social Science: Obstacles and Opportunities.” Science 369 (6507): 1060–62. https://doi.org/10.1126/science.aaz8170.
 
 ### In class
-- Discussion and lecture on readings.
 - Course review: Syllabus, assignments, final project.
+- Discussion and lecture on readings.
+
+### After class
 - Register Accounts:
 	- [GitHub](https://github.com/) / [Free GitHub Pro (GitHub Education)](https://education.github.com/students)
 	- [Chameleon Cloud](https://www.chameleoncloud.org/)
-
-### After class
 - [Review "Getting started with Chameleon Cloud"](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
 
 ---
