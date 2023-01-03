@@ -1,12 +1,12 @@
-# Assignments (TBD)
+# Assignments
 ---
 
 <!-- %%%%%%Open source community / pedagogy as an assignment%%%%%-->
 
 - [Assignment 1: Plagiarism test (individual, 5 points)](#a1)
-- [Assignment 2: Create your own cloud computing server (individual, 5 points)](#a3)
-- [Assignment 3: Student-lead seminar on research design (group, 20 points)](#a4)
-- [Assignment 4: Research proposal (group or individual, 30 points)](#a5)
+- [Assignment 2: Create your own cloud computing server (individual, 5 points)](#a2)
+- [Assignment 3: Student-lead seminar on research design (group, 20 points)](#a3)
+- [Assignment 4: Research proposal (group or individual, 30 points)](#a4)
 - [Assignment 5: Final project (group or individual, 40 points)](/final)
 
 <!-- - [Assignment 2: Documentation (individual, 5% points)](#a2)
@@ -31,11 +31,6 @@ For this assignment, please submit your certificate as a file to [Canvas](/#).
 
 
 ---
-### <a name="a2"> Assignment 2: Documentation (individual, 5% points) </a>
-
-TBD.
-
----
 ### <a name="a2"> Assignment 2: Create your own cloud computing server (individual, 5% points) </a>
 
 Tasks:
@@ -52,7 +47,7 @@ Knowledge and skills practiced:
 - Using cloud computing platform;
 - Using command line terminal and Linux system.
 
----
+<!-- ---
 ### <a name="a3"> Assignment 3: Parallel computing (individual, 5% points) </a>
 
 Tasks:
@@ -86,7 +81,7 @@ Tasks:
 ### <a name="a5"> Assignment 5: NLP/Network analysis (individual/group, 15% points) </a>
 
 TBD.
-
+ -->
 <!-- Review the dataset for Assignment 4, prepare two sets of questions:
 
 - Descriptive. For example, who is the most connected scholar/institution?
@@ -94,8 +89,9 @@ TBD.
 
 After instructor's approval, these will be the questions you need to answer as Assignment 5. You are expected to submit a detailed report.
  -->
-
+<!-- 
 ---
 ### <a name="a6"> Assignment 6: Analysis and presentation of empirical paper(s) (individual, 15% points) </a>
 
 Analyze and present empirical paper(s) using computational social science methods. TBD.
+ -->
