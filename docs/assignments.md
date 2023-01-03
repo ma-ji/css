@@ -16,7 +16,7 @@
 - [Assignment 7: Analysis and presentation of empirical paper(s) (individual, 15% points)](#a7)
 - [Assignment 8: Final project (individual/group, 35% points)](/final) -->
 
-Late submissions are not accepted. Check due dates on Canvas.
+Late submissions are not accepted. Check due dates on [Canvas](https://utexas.instructure.com/courses/1360223).
 
 ---
 ### <a name="a1"> Assignment 1: Plagiarisms test (individual, 5% points) </a>
