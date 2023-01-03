@@ -19,7 +19,7 @@
 Late submissions are not accepted. Check due dates on [Canvas](https://utexas.instructure.com/courses/1360223).
 
 ---
-### <a name="a1"> Assignment 1: Plagiarisms test (individual, 5% points) </a>
+### <a name="a1"> Assignment 1: Plagiarisms test</a>
 
 The first assignment of this course is to [pass the plagiarism test and obtain a certificate at the master and doctoral level](https://plagiarism.iu.edu/index.html). Plagiarism is a serious academic misconduct. You will receive zero grade on plagiarized work and there may be other consequences. We have been told not to do this maybe since primary school, and we are always assuming we know what plagiarism is. However, we may assume we know too much (e.g., [famous cases of plagiarism](https://www.google.com/search?q=famous+cases+of+plagiarism)).
 
@@ -31,7 +31,7 @@ For this assignment, please submit your certificate as a file to [Canvas](https:
 
 
 ---
-### <a name="a2"> Assignment 2: Create your own cloud computing server (individual, 5% points) </a>
+### <a name="a2"> Assignment 2: Create your own cloud computing server</a>
 
 Tasks:
 1. Create a 48-core VM on [ChameleonCloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html);
