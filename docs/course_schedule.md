@@ -12,7 +12,7 @@
 - [Week 2: Computational methods for social sciences: Overview](#w2)
 	- Key points: philosophical and epistemological fundamentals, research design overview, comparison between CSS and conventional approaches
 - Week 3: Analyzing computational methods from a research design perspective
-	- Key points: data management, concept representation, data analysis, and visualization
+	- Key points: data management, concept representation, data analysis, and scientific communication
 - Week 4: Field visit: Texas Advanced Computing Center
 	- Visit TACC; Discussion on [final project options](/final/)
 
@@ -40,7 +40,7 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 - Week 14: Final project presentations
 
 ---
-# Weekly Details (TBD)
+# Weekly Details
 
 ---
 ### <a name="w1"> Week 1: Course introduction </a>	[_Back2Top_](#)
@@ -62,10 +62,11 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 - [Review "Getting started with Chameleon Cloud"](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
 
 ---
-### <a name="w2"> Week 2: Computational methods for social sciences: Overview </a>	[_Back2Top_](#)
+### <a name="w2"> Week 2: Computational methods for social sciences: Overview (TBD) </a>	[_Back2Top_](#)
 
 #### Before class
-- Readings (TBD)
+- Leonelli, Sabina. 2020. “Scientific Research and Big Data.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Summer 2020. Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/sum2020/entries/science-big-data/.
+
 
 ### In class
 - Discussion and lecture on readings.
@@ -74,6 +75,20 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 
 ### After class
 - [<span style="color:red">**Assignment 1 due this Friday**</span>](/assignments/#a1)
+
+
+---
+### <a name="w3"> Week 3: Analyzing computational methods from a research design perspective (TBD) </a>	[_Back2Top_](#)
+
+#### Before class
+- Ma, Ji, Islam Akef Ebeid, Arjen de Wit, Meiying Xu, Yongzheng Yang, René Bekkers, and Pamala Wiepking. 2021. “Computational Social Science for Nonprofit Studies: Developing a Toolbox and Knowledge Base for the Field.” VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations, October. https://doi.org/10.1007/s11266-021-00414-x.
+
+
+### In class
+- Discussion and lecture on readings.
+- Discussion on final project options.
+
+### After class
 
 
 <!-- 
