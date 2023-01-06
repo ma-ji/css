@@ -53,7 +53,7 @@ Knowledge and skills practiced:
 
 Students will lead four seminar sessions on four topics: data management, concept representation, data analysis, and visualization.
 
-Using the definitions and frameworks of research design introduced at the beginning of the semester, students are expected to select and analyze empirical studies from [this list of empirical studies](https://docs.google.com/spreadsheets/d/1cUY_K26x2UDabwX9XEAh7jlKQQFxTWz80WycTSQJAkM/edit?usp=sharing). 
+Using the definitions and frameworks of research design introduced at the beginning of the semester, students are expected to select and analyze empirical studies from the [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1360223). 
 
 
 ---
@@ -65,7 +65,7 @@ Research proposal.
 ---
 ### <a name="a5">Assignment 5: Final project</a>
 
-Research proposal.
+Final project.
 
 <!-- ---
 ### <a name="a3"> Assignment 3: Parallel computing (individual, 5% points) </a>
