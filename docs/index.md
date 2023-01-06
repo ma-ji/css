@@ -42,6 +42,15 @@ These books/sources introduce more technical and hands-on details.
 
 
 ---
+# Policies
+
+- Mental health: The instructor urge students who are struggling for any reason and who believe that it might impact their performance in the course to reach out if they feel comfortable. This will allow the instructor to provide any possible resources or accommodations. If immediate mental health assistance is needed, call the Counseling and Mental Health Center (CMHC) at 512-471-3515. You may also contact Bryce Moffett, LCSW (LBJ CARE counselor) at 512-232-4449 or stop by her office hours-Wednesday 1-2 pm SRH 3.119. Outside CMHC business hours (8a.m.-5p.m., Monday-Friday), contact the CMHC 24/7 Crisis Line at 512-471-2255.
+- [University Policies](https://amgps.jima.me/policies/)
+- By taking this course (either for credit or auditing), you automatically authorize the instructor to use or cite the contents created by you for this course in the instructor's working book project. Appropriate academic principles of attribution and integrity will be followed.
+- License for Open Education: This syllabus and all course content on this website created by the instructor, TA, and students are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+
+---
 # Acknowledgements
 
 - 2022: The course is partly supported by the [Teaching Innovation Grants 2022-23](https://ctl.utexas.edu/grants-fellowships/teaching-innovation-grants-2022-2023) from the [Center for Teaching and Learning](https://ctl.utexas.edu/).
