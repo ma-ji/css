@@ -9,13 +9,6 @@
 - [Assignment 4: Research proposal (group or individual, 30 points)](#a4)
 - [Assignment 5: Final project (group or individual, 40 points)](/final)
 
-<!-- - [Assignment 2: Documentation (individual, 5% points)](#a2)
-- [Assignment 4: Parallel computing (individual, 5% points)](#a4)
-- [Assignment 5: Disambiguation using algorithm (individual/group, 15% points)](#a5)
-- [Assignment 6: NLP/Network analysis (individual/group, 15% points)](#a6)
-- [Assignment 7: Analysis and presentation of empirical paper(s) (individual, 15% points)](#a7)
-- [Assignment 8: Final project (individual/group, 35% points)](/final) -->
-
 Late submissions are not accepted. Check due dates on [Canvas](https://utexas.instructure.com/courses/1360223).
 
 ---
@@ -61,52 +54,3 @@ Using the definitions and frameworks of research design introduced at the beginn
 
 Research proposal.
 
-
-<!-- ---
-### <a name="a3"> Assignment 3: Parallel computing (individual, 5% points) </a>
-
-Tasks:
-1. Start a Jupyter server as you did in Assignment#2;
-2. Install [`htop`](https://hisham.hm/htop/);
-3. Define a function to clean, process, or analyze a large dataset of your interest;
-4. Compare the efficiency of serial computing to that of parallel computing;
-5. Submit a screenshot of `htop` showing all cores are crunching numbers.
-
-Knowledge and skills practiced:
-- Using cloud computing platform;
-- Using command line terminal and Linux system;
-- Python programming: parallel computing.
-
----
-### <a name="a4"> Assignment 4: Disambiguation using algorithm (individual/group, 15% points) </a>
-
-Disambiguating entity is a common task in data preprocessing. For example, the University of Texas at Austin can be written as "UT Austin," "UT-Austin," or even "UTA." How can we recognize these records and give them a unique ID? This assignment will practice this ability.
-
-Tasks:
-[The dataset](https://utexas.instructure.com/files/50261524/download?download_frd=1) provided to you is retrieved from [Scopus](https://dev.elsevier.com/index.html), one of the largest bibliographical databases in the world. Each line is a record of a published paper on civil society studies. You are expected to:
-1. Generate a codebook of this dataset;
-2. Create criteria for disambiguating authors and affiliations.
-3. Explain why the criteria can generate valid results.
-4. Compile a function according to the criteria, run the function on records, and give unique IDs to these entities.
-5. Verify accuracy: choose a random sample and manually check the false positive and false negative rates.
-6. Describe: 1) who are the most productive authors in civil society studies? 2) Which are the most productive institutions in civil society studies? 3) How you define "productive."
-7. Remember to document everything.
-
----
-### <a name="a5"> Assignment 5: NLP/Network analysis (individual/group, 15% points) </a>
-
-TBD.
- -->
-<!-- Review the dataset for Assignment 4, prepare two sets of questions:
-
-- Descriptive. For example, who is the most connected scholar/institution?
-- Inferential. For example, are scholars from wealthier countries/institutions more likely to be “structural holes”?
-
-After instructor's approval, these will be the questions you need to answer as Assignment 5. You are expected to submit a detailed report.
- -->
-<!-- 
----
-### <a name="a6"> Assignment 6: Analysis and presentation of empirical paper(s) (individual, 15% points) </a>
-
-Analyze and present empirical paper(s) using computational social science methods. TBD.
- -->
