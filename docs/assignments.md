@@ -62,11 +62,6 @@ Using the definitions and frameworks of research design introduced at the beginn
 Research proposal.
 
 
----
-### <a name="a5">Assignment 5: Final project</a>
-
-Final project.
-
 <!-- ---
 ### <a name="a3"> Assignment 3: Parallel computing (individual, 5% points) </a>
 
