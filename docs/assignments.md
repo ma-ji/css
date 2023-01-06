@@ -44,7 +44,7 @@ Knowledge and skills practiced:
 ---
 ### <a name="a3"> Assignment 3: Student-lead seminar on research design</a>
 
-Students will lead four seminar sessions on four topics: data management, concept representation, data analysis, and visualization.
+Students will lead four seminar sessions on four topics: data management, concept representation, data analysis, and scientific communication.
 
 Using the definitions and frameworks of research design introduced at the beginning of the semester, students are expected to select and analyze empirical studies from the [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1360223). 
 
