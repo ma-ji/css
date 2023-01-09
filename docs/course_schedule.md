@@ -52,8 +52,10 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 	- Lazer, David M. J., Alex Pentland, Duncan J. Watts, Sinan Aral, Susan Athey, Noshir Contractor, Deen Freelon, et al. 2020. “Computational Social Science: Obstacles and Opportunities.” Science 369 (6507): 1060–62. https://doi.org/10.1126/science.aaz8170.
 
 #### In class
-- Course review: Syllabus, assignments, final project.
-- Discussion and lecture on readings.
+- Course review: Course website, Canvas, and how to use them.
+- Review final project options.
+- Review [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1360223).
+- And discussion readings: Analytical capacity of CSS methods
 
 #### After class
 - Register Accounts:
