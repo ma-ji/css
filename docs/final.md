@@ -35,7 +35,7 @@ This dataset contains detailed bibliography data of peer-reviewed journal articl
 
 ## Mission statements of nonprofit organizations in English, French, and Korean
 
-This dataset contains texts of nonprofits' mission statements. The data of US nonprofits are the most comprehensive and developed and are extracted from [the IRS 990 Forms](https://www.irs.gov/charities-non-profits/form-990-resources-and-tools#:~:text=Form%20990%20is%20the%20IRS,the%20public%20about%20their%20programs.). 
+This dataset contains texts of nonprofits' mission statements. The [data of US nonprofits](https://github.com/ma-ji/npo_classifier/tree/master/dataset/UCF) are the most comprehensive and developed and are extracted from [the IRS 990 Forms](https://www.irs.gov/charities-non-profits/form-990-resources-and-tools#:~:text=Form%20990%20is%20the%20IRS,the%20public%20about%20their%20programs.). 
 
 A few other sources that can complement this dataset: 
 
