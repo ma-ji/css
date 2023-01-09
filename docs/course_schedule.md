@@ -51,11 +51,11 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 	- Edelmann, Achim, Tom Wolff, Danielle Montagne, and Christopher A. Bail. 2020. “Computational Social Science and Sociology.” Annual Review of Sociology 46 (1): 61–81. https://doi.org/10.1146/annurev-soc-121919-054621.
 	- Lazer, David M. J., Alex Pentland, Duncan J. Watts, Sinan Aral, Susan Athey, Noshir Contractor, Deen Freelon, et al. 2020. “Computational Social Science: Obstacles and Opportunities.” Science 369 (6507): 1060–62. https://doi.org/10.1126/science.aaz8170.
 
-### In class
+#### In class
 - Course review: Syllabus, assignments, final project.
 - Discussion and lecture on readings.
 
-### After class
+#### After class
 - Register Accounts:
 	- [GitHub](https://github.com/) / [Free GitHub Pro (GitHub Education)](https://education.github.com/students)
 	- [Chameleon Cloud](https://www.chameleoncloud.org/)
@@ -68,13 +68,12 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 - Ragin, Charles C., and Lisa M. Amoroso. 2011. “The Goals of Social Research.” In Constructing Social Research: The Unity and Diversity of Method, 135–62. Pine Forge Press.
 - Leonelli, Sabina. 2020. “Scientific Research and Big Data.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Summer 2020. Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/sum2020/entries/science-big-data/.
 
-
-### In class
+#### In class
 - Discussion and lecture on readings.
 - Hands-on: High-performance cloud computing with [Chameleon](https://www.chameleoncloud.org/)
 - Discussion on final project options.
 
-### After class
+#### After class
 - [<span style="color:red">**Assignment 1 due this Friday**</span>](/assignments/#a1)
 
 
@@ -86,11 +85,34 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 - Ma, Ji, Islam Akef Ebeid, Arjen de Wit, Meiying Xu, Yongzheng Yang, René Bekkers, and Pamala Wiepking. 2021. “Computational Social Science for Nonprofit Studies: Developing a Toolbox and Knowledge Base for the Field.” VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations, October. https://doi.org/10.1007/s11266-021-00414-x.
 
 
-### In class
+#### In class
 - Discussion and lecture on readings.
 - Discussion on final project options.
 
-### After class
+#### After class
+
+
+---
+### <a name="w4"> Week 4: Field visit: Texas Advanced Computing Center (TBD) </a>	[_Back2Top_](#)
+
+#### Before class
+
+
+#### In class
+- Visit TACC.
+- Discussion on final project options.
+
+#### After class
+
+---
+### <a name="w5"> Week 5: Computational methods: Voted module 1 (instructor-lead) (TBD) </a>	[_Back2Top_](#)
+
+#### Before class
+
+#### In class
+
+#### After class
+
 
 
 ---
@@ -100,11 +122,11 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 - 
 
 
-### In class
+#### In class
 - Discussion and lecture on readings.
 - Discussion on final project options.
 
-### After class
+#### After class
 
 
 
