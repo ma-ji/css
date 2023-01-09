@@ -54,8 +54,8 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 #### In class
 - Course review: Course website, Canvas, and how to use them.
 - Review final project options.
-- Review [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1360223).
 - Discussion on readings: [Analytical capacity of CSS methods](https://docs.google.com/document/d/1WrhHiB2KpLG3emceGYHvQE8C8DaoBB1ZfKGnH-aF0t4/edit?usp=sharing)
+- Review [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1360223).
 
 #### After class
 - Register Accounts:
