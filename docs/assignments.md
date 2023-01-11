@@ -46,9 +46,14 @@ Knowledge and skills practiced:
 
 Students will lead four seminar sessions on four topics: data management, concept representation, data analysis, and scientific communication.
 
-Using the definitions and frameworks of research design introduced at the beginning of the semester, students are expected to select and analyze empirical studies from the [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1360223). 
+Using the definitions and frameworks of research design introduced at the beginning of the semester, students are expected to select and analyze empirical studies from the [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1360223). Expected deliverables for this assignment are (1) Group lecture in class, (2) presentation slides, (3) a written report.
 
-Deliverables: (1) Group lecture in class, (2) presentation slides, (3) a written report.
+The deliverables should respond to the following points:
+
+	1. How to define this function of CSS methods from a research design perspective, and why it is necessary?
+	2. What are the technical methods and practices, how they complement existing research approaches, and how they are unique?
+	3. How do existing studies applied specific methods, and how can these applications be improved?
+	4. What are the general patterns and rationales you can extract from your analysis?
 
 ---
 ### <a name="a4">Assignment 4: Research proposal</a>
