@@ -2,21 +2,8 @@
 
 [*Please vote by 1/27 here*](https://forms.gle/6wLF7Qv8yeGtMc8G6)
 
+
 ---
-
-Here I recommend some Python packages based on my own research experience. Neither the list nor my description is comprehensive. As a social science researcher, I usually define my goals of analysis first, then look for appropriate packages or functions. The technical documentations often enlighten (or empower) me to respond to more novel questions. 
-
-- [NLTK](https://www.nltk.org/): Preprocessing.
-- [Stanza](https://stanfordnlp.github.io/stanza/): Preprocessing, POS, NER, sentiment analysis.
-- [Gensim](https://radimrehurek.com/gensim/): Preprocessing, vectorization, topic modeling (fixed word-embedding).
-- [BERTopic](https://maartengr.github.io/BERTopic/index.html): Topic modeling (fixed and contextualized word-embedding, multilingual support, visualization).
-- [Top2Vec](https://github.com/ddangelov/Top2Vec): Topic modeling (fixed and contextualized word-embedding, multilingual support). I recently used it for a multilingual topic modeling task.
-- [SentenceTransformers](https://www.sbert.net/#): Vectorize sentences or documents. Used by many proceeding packages. I sometime use it to obtain the raw vector values if analysis requires (e.g., calculating text similarity in [this](https://osf.io/6b7qg/) and [this](https://osf.io/jrqyu/) article, visualizing semantic spaces, etc.)
-- [Transformers](https://huggingface.co/docs/transformers/index): Train or fine-tune pretrained BERT models. Used by many proceeding packages. I used it to fine-tune a BERT model for [classifying nonprofits according to their mission statements](https://github.com/ma-ji/npo_classifier).
-- [NetworkX](https://networkx.org/): Network analysis.
-- [igraph](https://igraph.org/): Network analysis, more efficient than NetworkX, but I primarily used it for visualization or functions that NetworkX does not have.
-- [Gephi](https://gephi.org/): Network visualization (calculation on large networks is very very slow).
-
 ### Text as data
 
 - Text analysis in social science research: Overview
@@ -45,6 +32,7 @@ Here I recommend some Python packages based on my own research experience. Neith
 	- Readings (TBD):
 		- Grimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21 (3): 267–97. https://doi.org/10.1093/pan/mps028.
 
+---
 ### Relation as data
 
 - Network analysis in social science research: Overview
@@ -70,3 +58,20 @@ Here I recommend some Python packages based on my own research experience. Neith
 - Network topology and hypothesis testing
 	- Key concepts: modularity, random graph.
 	- Readings (TBD):
+
+
+---
+### Recommended packages
+
+Here I recommend some Python packages based on my own research experience. Neither the list nor my description is comprehensive. As a social science researcher, I usually define my goals of analysis first, then look for appropriate packages or functions. The technical documentations often enlighten (or empower) me to respond to more novel questions. 
+
+- [NLTK](https://www.nltk.org/): Preprocessing.
+- [Stanza](https://stanfordnlp.github.io/stanza/): Preprocessing, POS, NER, sentiment analysis.
+- [Gensim](https://radimrehurek.com/gensim/): Preprocessing, vectorization, topic modeling (fixed word-embedding).
+- [BERTopic](https://maartengr.github.io/BERTopic/index.html): Topic modeling (fixed and contextualized word-embedding, multilingual support, visualization).
+- [Top2Vec](https://github.com/ddangelov/Top2Vec): Topic modeling (fixed and contextualized word-embedding, multilingual support). I recently used it for a multilingual topic modeling task.
+- [SentenceTransformers](https://www.sbert.net/#): Vectorize sentences or documents. Used by many proceeding packages. I sometime use it to obtain the raw vector values if analysis requires (e.g., calculating text similarity in [this](https://osf.io/6b7qg/) and [this](https://osf.io/jrqyu/) article, visualizing semantic spaces, etc.)
+- [Transformers](https://huggingface.co/docs/transformers/index): Train or fine-tune pretrained BERT models. Used by many proceeding packages. I used it to fine-tune a BERT model for [classifying nonprofits according to their mission statements](https://github.com/ma-ji/npo_classifier).
+- [NetworkX](https://networkx.org/): Network analysis.
+- [igraph](https://igraph.org/): Network analysis, more efficient than NetworkX, but I primarily used it for visualization or functions that NetworkX does not have.
+- [Gephi](https://gephi.org/): Network visualization (calculation on large networks is very very slow).
