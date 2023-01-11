@@ -76,6 +76,9 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 #### In class
 - Discussion and lecture on readings.
 - Hands-on: High-performance cloud computing with [Chameleon](https://www.chameleoncloud.org/)
+	- Start an instance on [Chameleon Cloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
+	- Install [Anaconda Python](https://www.anaconda.com/distribution/) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
+	- Snapshot the instance [as an image](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html).
 - Discussion on final project options.
 
 #### After class
@@ -89,7 +92,6 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 - Ragin, Charles C., and Lisa M. Amoroso. 2011. “What Is (and Is Not) Social Research?” In Constructing Social Research: The Unity and Diversity of Method, 5–32. Pine Forge Press.
 - Ma, Ji, Islam Akef Ebeid, Arjen de Wit, Meiying Xu, Yongzheng Yang, René Bekkers, and Pamala Wiepking. 2021. “Computational Social Science for Nonprofit Studies: Developing a Toolbox and Knowledge Base for the Field.” VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations, October. https://doi.org/10.1007/s11266-021-00414-x.
 
-
 #### In class
 - Discussion and lecture on readings.
 - Discussion on final project options.
@@ -99,9 +101,6 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 
 ---
 ### <a name="w4"> Week 4: Field visit: Texas Advanced Computing Center (TBD) </a>	[_Back2Top_](#)
-
-#### Before class
-
 
 #### In class
 - Visit TACC.
@@ -124,8 +123,11 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 ### <a name="w6"> Week 6: Research design: Data management (student-lead) (TBD) </a>	[_Back2Top_](#)
 
 #### Before class
-- 
-
+- Theoretical and conceptual readings:
+	- Baker, M. (2016). 1,500 scientists lift the lid on reproducibility. Nature News, 533(7604), 452. https://doi.org/10.1038/533452a
+	- Wilson, Greg, D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt Davis, Richard T. Guy, Steven H. D. Haddock, et al. 2014. “Best Practices for Scientific Computing.” PLOS Biology 12 (1): e1001745. https://doi.org/10.1371/journal.pbio.1001745.
+	- Gentzkow, Matthew, and Jesse M. Shapiro. 2014. Code and Data for the Social Sciences: A Practitioner’s Guide. https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf.
+- Empirical readings (TBD by student group)
 
 #### In class
 - Discussion and lecture on readings.
@@ -133,6 +135,7 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 
 #### After class
 
+Provide feedback to group report.
 
 
 <!-- 
@@ -146,10 +149,7 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 
 #### In class
 - Discussion and lecture on readings.
-- Hands-on: Setup a cloud computing server with Chameleon Cloud
-	- Start an instance on [Chameleon Cloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
-	- Install [Anaconda Python](https://www.anaconda.com/distribution/) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
-	- Snapshot the instance [as an image](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html).
+
 
 #### After class
 - [<span style="color:red">**Assignment 2 due this week's Sunday.**</span>](/open_data/assignments/#a2)

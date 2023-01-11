@@ -48,6 +48,7 @@ Students will lead four seminar sessions on four topics: data management, concep
 
 Using the definitions and frameworks of research design introduced at the beginning of the semester, students are expected to select and analyze empirical studies from the [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1360223). 
 
+Deliverables: (1) Group lecture in class, (2) presentation slides, (3) a written report.
 
 ---
 ### <a name="a4">Assignment 4: Research proposal</a>
