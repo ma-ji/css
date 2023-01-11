@@ -7,7 +7,7 @@
 - [Assignment 2: Create your own cloud computing server (individual, 5 points)](#a2)
 - [Assignment 3: Student-lead seminar on research design (group, 20 points)](#a3)
 - [Assignment 4: Research proposal (group or individual, 30 points)](#a4)
-- [Assignment 5: Final project (group or individual, 40 points)](/final)
+- [Assignment 5: Final project (group or individual, 40 points)](#a5)
 
 Late submissions are not accepted. Check due dates on [Canvas](https://utexas.instructure.com/courses/1360223).
 
@@ -55,8 +55,46 @@ The deliverables should respond to the following points:
 	3. How do existing studies applied specific methods, and how can these applications be improved?
 	4. What are the general patterns and rationales you can extract from your analysis?
 
+
 ---
 ### <a name="a4">Assignment 4: Research proposal</a>
 
-Research proposal.
+1. Research profile.
+2. One-page research abstract.
+3. Research proposal draft.
+4. Research proposal final (with preliminary descriptive results).
+5. Peer-review of research proposal.
 
+
+---
+### <a name="a5">Assignment 5: Final project</a>
+
+[Dataset options](/final)
+
+# Required components
+
+The final project is a mini-research project. You need to clearly respond how the below components are covered in your project.
+
+1. Research design and data management:
+    - Clear research questions and significance
+    - Clear operationalization linkage
+    - Validation of measures
+    - Data preprocessing and reduction
+    - Documentation for reproducibility
+2. Analysis:
+    - Descriptive analysis and visualization
+    - Hypothesis testing and visualization
+    - Any or all of the following:
+        - Clustering analysis and visualization (e.g., topic modeling)
+        - Network analysis of nodes/communities/topology
+3. Bonus: Applying any of these skills will get 5% additional points
+    - Machine learning
+    - Named-entity recognition
+    - Optical character recognition
+
+Expected deliverables:
+
+1. Research report draft.
+2. Research presentation.
+3. Research report final.
+4. Peer-evaluation of group members.

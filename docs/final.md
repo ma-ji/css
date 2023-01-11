@@ -1,24 +1,3 @@
-# Required components
-
-The final project is a mini-research project. You need to clearly respond how the below components are covered in your project.
-
-1. Research design and data management:
-    - Clear research questions and significance
-    - Clear operationalization linkage
-    - Validation of measures
-    - Data preprocessing and reduction
-    - Documentation for reproducibility
-2. Analysis:
-    - Descriptive analysis and visualization
-    - Hypothesis testing and visualization
-    - Any or all of the following:
-        - Clustering analysis and visualization (e.g., topic modeling)
-        - Network analysis of nodes/communities/topology
-3. Bonus: Applying any of these skills will get 5% additional points
-    - Machine learning
-    - Named-entity recognition
-    - Optical character recognition
-
 # Possible data sources for final project
 
 Most of these datasets are from my own research projects, some of them are generously shared by my colleagues. Non-disclosure agreement or license agreement may need to be signed with me, my colleagues, or any other third-parties.
