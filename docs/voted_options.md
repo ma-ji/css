@@ -63,7 +63,7 @@
 ---
 ### Recommended packages
 
-Here I recommend some Python packages based on my own research experience. Neither the list nor my description is comprehensive. As a social science researcher, I usually define my goals of analysis first, then look for appropriate packages or functions. The technical documentations often enlighten (or empower) me to respond to more novel questions. 
+Here I recommend some Python packages based on my own research experience (I may cover some of them in class). Neither the list nor my description is comprehensive. As a social science researcher, I usually define my goals of analysis first, then look for appropriate packages or functions. The technical documentations often enlighten (or empower) me to respond to more novel questions. 
 
 - [NLTK](https://www.nltk.org/): Preprocessing.
 - [Stanza](https://stanfordnlp.github.io/stanza/): Preprocessing, POS, NER, sentiment analysis.
