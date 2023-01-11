@@ -4,186 +4,78 @@
 
 ---
 
+Here I recommend some Python packages based on my own research experience. Neither the list nor my description is comprehensive. As a social science researcher, I usually define my goals of analysis first, then look for appropriate packages or functions. The technical documentations often enlighten (or empower) me to respond to more novel questions. 
+
+- [NLTK](https://www.nltk.org/): Preprocessing.
+- [Stanza](https://stanfordnlp.github.io/stanza/): Preprocessing, POS, NER, sentiment analysis.
+- [Gensim](https://radimrehurek.com/gensim/): Preprocessing, vectorization, topic modeling (fixed word-embedding).
+- [BERTopic](https://maartengr.github.io/BERTopic/index.html): Topic modeling (fixed and contextualized word-embedding, multilingual support, visualization).
+- [Top2Vec](https://github.com/ddangelov/Top2Vec): Topic modeling (fixed and contextualized word-embedding, multilingual support). I recently used it for a multilingual topic modeling task.
+- [SentenceTransformers](https://www.sbert.net/#): Vectorize sentences or documents. Used by many proceeding packages. I sometime use it to obtain the raw vector values if analysis requires (e.g., calculating text similarity in [this](https://osf.io/6b7qg/) and [this](https://osf.io/jrqyu/) article, visualizing semantic spaces, etc.)
+- [Transformers](https://huggingface.co/docs/transformers/index): Train or fine-tune pretrained BERT models. Used by many proceeding packages. I used it to fine-tune a BERT model for [classifying nonprofits according to their mission statements](https://github.com/ma-ji/npo_classifier).
+- [NetworkX](https://networkx.org/): Network analysis.
+- [igraph](https://igraph.org/): Network analysis, more efficient than NetworkX, but I primarily used it for visualization or functions that NetworkX does not have.
+- [Gephi](https://gephi.org/): Network visualization (calculation on large networks is very very slow).
 
 ### Text as data
 
 - Text analysis in social science research: Overview
 	- Key points: typical process and applications, research design, text corpus resources
+	- Readings (TBD):
+		- GRS: Introduction, Social science research and text analysis
+
 - Preprocessing
 	- Key points: regular expression, tokenization, part-of-speech tagging, meaningful and meaningless words and stopwords
+	- Readings (TBD):
+		- GRS: Selection and representation
+		- JM: Regular Expressions, Text Normalization, Edit Distance
+
 - Text representation and vectorization methods
 	- Key points: bag-of-words, count vector, word vector, distributed representation of words, word embedding, contextual word embedding
+	- Readings (TBD):
+		- JM: Vector semantics and embeddings
+
 - Text analysis: Scaling
 	- Key points: semantic similarity, sentiment analysis
+	- Readings (TBD):
+		- Grimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21 (3): 267–97. https://doi.org/10.1093/pan/mps028.
+
 - Text analysis: Identification
 	- Key points: Classification, multilingual topic modeling, named-entity recognition
+	- Readings (TBD):
+		- Grimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21 (3): 267–97. https://doi.org/10.1093/pan/mps028.
 
 ### Relation as data
 
 - Network analysis in social science research: Overview
 	- Key points: Basic concepts and applications, research design, network components and levels of analysis
+	- Readings (TBD):
+		- Scott, John. 2017. “What Is Social Network Analysis?” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
+		- Watts, Duncan J. 2004. “The ‘New’ Science of Networks.” Annual Review of Sociology 30 (1): 243–70. https://doi.org/10.1146/annurev.soc.30.020404.104342.
+		- Scott, John. 2017. “Terminology for Network Analysis.” In Social Network Analysis, Fourth edition, 73–94. Thousand Oaks, CA: SAGE Publications Ltd.
 - Data collection: How to generate networks
+	- Readings (TBD):
+		- Scott, John. 2017. “Organising and Analysing Network Data.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
+		- Scott, John. 2017. “Data Collection for Social Network Analysis.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
 - Analysis of nodes
+	- Key concepts: degree, betweenness, eigenvector centrality, etc.
+	- Readings (TBD):
+		- Scott, John. 2017. “Popularity Mediation and Exclusion.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
 - Analysis of communities
+	- Key concepts: community detection (louvain clustering, "rich club")
 - Network topology and hypothesis testing
+	- Key concepts: modularity, random graph.
+	- Readings (TBD):
 
 <!-- 
----
-### <a name="w4"> Week 4: Text analysis in social science research: typical process and applications </a>	[_Back2Top_](#)
-
-Key points: Text analysis and research design, regular expression, text corpus resources
-
-#### Before class
-- Readings:
-	- GRS: Introduction, Social science research and text analysis (required)
-	- JM: Regular Expressions, Text Normalization, Edit Distance (recommended)
-	- Bird, Steven, Ewan Klein, and Edward Loper. 2009a. “Accessing Text Corpora and Lexical Resources.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly. (recommended)
-
-#### In class
-
-#### After class
-- [<span style="color:red">**Assignment 3 due this week's Sunday.**</span>](/open_data/assignments/#a3)
-- Recommended course: [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2) (4 hours)
 
 
----
-### <a name="w5"> Week 5: Preprocessing </a>	[_Back2Top_](#)
-
-Key points: regular expression, tokenization, part-of-speech tagging, meaningful and meaningless words and stopwords
-
-#### Before class
-- Readings:
-	- GRS: Selection and representation (required)
-
-- Exercise:
-	- [Regular expression: Complete all lessons on RegexOne](https://regexone.com/)
-
-#### In class:
-- Discussion and lecture on readings.
-
-#### After class
-- Recommended course: [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2) (4 hours)
-
-
----
-### <a name="w6"> Week 6: Vector semantics and embedding </a>	[_Back2Top_](#)
-
-#### Before class
-
-- Readings:
-	- JM: Vector semantics and embeddings (recommended)
-
-#### In class
-- Discussion and lecture on readings.
-- [Data topic week 6](/open_data/data_topic/#d6)
-- Hands-on practice.
-
-#### After class
-- [Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python):
-	- "Regular expressions & word tokenization"
-
-
----
-### <a name="w7"> Week 7 Oct 21: Text analysis - Preprocessing and vectorization </a>	[_Back2Top_](#)
-
-#### Before class
-- Readings:
-	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018a. “Corpus Preprocessing and Wrangling.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
-	- ———. 2018b. “Text Vectorization and Transformation Pipelines.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
-
-#### In class
-- Discussion and lecture on readings.
-- [Data topic week 7](/open_data/data_topic/#d7)
-- Hands-on practice.
-
-#### After class
-- [Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python):
-	- "Building a 'fake news' classifier"
-- Further readings:
-	- Bird, Steven, Ewan Klein, and Edward Loper. 2009a. “Categorizing and Tagging Words.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
-	- ———. 2009b. “Preprocessing Raw Text.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
-
-
----
-### <a name="w8"> Week 8 Oct 28: Text analysis - Classification </a>	[_Back2Top_](#)
-#### Before class
-- Readings:
-	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018. “Classification for Text Analysis.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
-	- Bird, Steven, Ewan Klein, and Edward Loper. 2009. “Learning to Classify Text.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
-
-#### In class
-- [Data topic week 8](/open_data/data_topic/#d8)
-
-#### After class
-- [Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python):
-	- "Simple topic identification"
-
-
----
-### <a name="w9"> Week 9 Nov 4: Text analysis - Relation extraction </a>	[_Back2Top_](#)
-
-#### Before class
-- Readings:
-	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018. “Graph Analysis of Text.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
-
-#### In class
-- [Data topic week 9](/open_data/data_topic/#d9a)
-- Review [Assignment 4](/open_data/assignments/#a4)
-
-#### After class
-- [Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python):
-	- "Named-entity recognition"
-
-
----
-### <a name="w10"> Week 10 Nov 11: Text analysis - Application in social science studies </a>	[_Back2Top_](#)
-#### Before class
-- Readings:
-	- Grimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21 (3): 267–97. https://doi.org/10.1093/pan/mps028.
-	- Anastasopoulos, L. Jason, and Andrew B. Whitford. 2019. “Machine Learning for Public Administration Research, With Application to Organizational Reputation.” Journal of Public Administration Research and Theory 29 (3): 491–510. https://doi.org/10.1093/jopart/muy060.
-
-#### In class
-- [Data topic week 10](/open_data/data_topic/#d10)
-- Hands-on practice.
-
-#### After class
-- [<span style="color:red">**Assignment 4 due this week's Sunday.**</span>](/open_data/assignments/#a4)
-
-
----
-### <a name="w11"> Week 11 Nov 18: Network analysis - basic concepts </a>	[_Back2Top_](#)
-
-#### Before class
-- Readings:
-	- Scott, John. 2017. “What Is Social Network Analysis?” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
-	- Scott, John. 2017. “Terminology for Network Analysis.” In Social Network Analysis, Fourth edition, 73–94. Thousand Oaks, CA: SAGE Publications Ltd.
-	- Scott, John. 2017. “Organising and Analysing Network Data.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
-
-#### In class
-- Discussion and lecture on readings.
-- [Data topic week 11](/open_data/data_topic/#d11)
-- Review [Assignment 5](/open_data/assignments/#a5).
-
-#### After class
-- Further readings:
-	- Scott, John. 2017. “Data Collection for Social Network Analysis.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
-	- Scott, John. 2017. “The History of Social Network Analysis.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
-- [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
-	- "Introduction to networks"
-
----
-### <a name="w12"> Week 12 Nov 25: Thanksgiving week, no class </a>	[_Back2Top_](#)
-
-- [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
-	- "Important nodes"
-- [Data topic week 12 (postponed to Week 13)](/open_data/data_topic/#d12)
 
 ---
 ### <a name="w13"> Week 13 Dec 2: Network analysis - analysis of nodes and communities </a>	[_Back2Top_](#)
 
 #### Before class
-- Readings:
-	- Scott, John. 2017. “Popularity Mediation and Exclusion.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
+- Readings (TBD):
 	- Colizza, V., A. Flammini, M. A. Serrano, and A. Vespignani. 2006. “Detecting Rich-Club Ordering in Complex Networks.” Nature Physics 2 (2): 110–15. https://doi.org/10.1038/nphys209.
 
 #### In class
@@ -201,8 +93,8 @@ Key points: regular expression, tokenization, part-of-speech tagging, meaningful
 ### <a name="w14"> Week 14 Dec 9: Network analysis - Example social science studies </a>	[_Back2Top_](#)
 
 #### Before class
-- Readings:
-	- Watts, Duncan J. 2004. “The ‘New’ Science of Networks.” Annual Review of Sociology 30 (1): 243–70. https://doi.org/10.1146/annurev.soc.30.020404.104342.
+- Readings (TBD):
+	
 
 #### In class
 - Discussion and lecture on readings.
