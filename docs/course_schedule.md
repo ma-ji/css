@@ -111,12 +111,7 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 ---
 ### <a name="w5"> Week 5: Computational methods: Voted module 1 (instructor-lead) (TBD) </a>	[_Back2Top_](#)
 
-#### Before class
-
-#### In class
-
-#### After class
-
+TBD.
 
 
 ---
