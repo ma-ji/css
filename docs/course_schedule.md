@@ -13,7 +13,7 @@
 	- Key points: philosophical and epistemological fundamentals, research design overview, comparison between CSS and conventional approaches
 - [Week 3: Analyzing computational methods from a research design perspective](#w3)
 	- Key points: data management, concept representation, data analysis, and scientific communication
-- Week 4: Field visit: Texas Advanced Computing Center
+- [Week 4: Field visit: Texas Advanced Computing Center](#w4)
 	- Visit TACC; Discussion on [final project options](/final/)
 
 <!-- 
@@ -26,8 +26,8 @@
 
 Instructor-lead sessions are voted by the class before 1/27 from [these options](/voted_options)
 
-- Week 5: Computational methods: Voted module 1 (instructor-lead)
-- Week 6: Research design: Data management (student-lead)
+- [Week 5: Computational methods: Voted module 1 (instructor-lead)](#w5)
+- [Week 6: Research design: Data management (student-lead)](#w6)
 - Week 7: Instructor-lead seminar on computational methods: Voted module 2
 - Week 8: Student-lead seminar on research design: Concept representation
 - Week 9: Instructor-lead seminar on computational methods: Voted module 3
