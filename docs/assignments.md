@@ -94,7 +94,7 @@ The final project is a mini-research project. You need to clearly respond how th
 
 Expected deliverables:
 
-1. Research report draft.
+1. Research paper draft.
 2. Research presentation.
-3. Research report final.
+3. Research paper final.
 4. Peer-evaluation of group members.
