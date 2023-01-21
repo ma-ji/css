@@ -34,7 +34,7 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 - Week 10: Student-lead seminar on research design: Data analysis
 - Week 11: Instructor-lead seminar on computational methods: Voted module 4
 - _<u>Week 12: Group consultation on final project (no class)</u>_
-- Week 13: Student-lead seminar on research design: Visualization
+- Week 13: Student-lead seminar on research design: Scientific communication
 
 ### Final project
 - Week 14: Final project presentations
