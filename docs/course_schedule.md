@@ -67,13 +67,14 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 - [Review "Getting started with Chameleon Cloud"](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
 
 ---
-### <a name="w2"> Week 2: Computational methods for social sciences: Overview (TBD) </a>	[_Back2Top_](#)
+### <a name="w2"> Week 2: Computational methods for social sciences: Overview</a>	[_Back2Top_](#)
 
 #### Before class
 - Ragin, Charles C., and Lisa M. Amoroso. 2011. “The Goals of Social Research.” In Constructing Social Research: The Unity and Diversity of Method, 135–62. Pine Forge Press.
 - Leonelli, Sabina. 2020. “Scientific Research and Big Data.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Summer 2020. Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/sum2020/entries/science-big-data/.
 
 #### In class
+- Review upcoming assignments.
 - Discussion and lecture on readings.
 - Hands-on: High-performance cloud computing with [Chameleon](https://www.chameleoncloud.org/)
 	- Start an instance on [Chameleon Cloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
