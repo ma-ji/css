@@ -59,11 +59,11 @@ The deliverables should respond to the following points:
 ---
 ### <a name="a4">Assignment 4: Research proposal</a>
 
-1. Research profile.
+**Research profile.**
 
 Complete research profile so that your classmates will know more about you and your research interests.
 
-2. One-page research abstract.
+**One-page research abstract**
 
 This is a very brief introduction about your research idea. It usually includes: (1) Research questions and their importance; (2) major concepts and variables, and your hypotheses about the relations between these variables; (3) your primary data sources and analysis methods; (4) any challenges and how you plan to handle them; (5) a few key references that you identify at this stage, usually these articles are the "idols" of your proposed project.
 
