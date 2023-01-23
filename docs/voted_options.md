@@ -54,10 +54,12 @@
 
 - Analysis of communities
 	- Key concepts: community detection (louvain clustering, "rich club")
+	- Readings (TBD):
+		- Scott, John. 2017. “Groups, Factions and Social Divisions.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
 
 - Network topology and hypothesis testing
-	- Key concepts: modularity, random graph.
-	- Readings (TBD):
+	- Key concepts: modularity, clustering coefficients, random graph.
+	- Readings (TBD).
 
 
 ---
@@ -74,4 +76,4 @@ Here I recommend some Python packages based on my own research experience (I may
 - [Transformers](https://huggingface.co/docs/transformers/index): Train or fine-tune pretrained BERT models. Used by many proceeding packages. I used it to fine-tune a BERT model for [classifying nonprofits according to their mission statements](https://github.com/ma-ji/npo_classifier).
 - [NetworkX](https://networkx.org/): Network analysis.
 - [igraph](https://igraph.org/): Network analysis, more efficient than NetworkX, but I primarily used it for visualization or functions that NetworkX does not have.
-- [Gephi](https://gephi.org/): Network visualization (calculation on large networks is very very slow).
+- [Gephi](https://gephi.org/): Network visualization. Calculating large networks is very very slow, strongly discoursed. Usually I use NetworkX for crunching numbers then Gephi for visualization. 
