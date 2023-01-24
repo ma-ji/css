@@ -27,11 +27,13 @@ For this assignment, please submit your certificate as a file to [Canvas](https:
 ### <a name="a2"> Assignment 2: Create your own cloud computing server</a>
 
 Tasks:
-1. Create a 48-core VM on [ChameleonCloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html);
-2. Install [Anaconda Python](https://www.anaconda.com/distribution/);
-3. Run a [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html) server with password and SSL for encrypted communication;
-4. Login your Jupyter Notebook server through web-browser;
-5. [Save an image of your instance](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html), submit screenshots through Canvas showing: 1) instance image is saved successfully, and 2) Jupyter server is started successfully;
+1. Create a running instance on [ChameleonCloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html).
+2. Install [Anaconda Python](https://www.anaconda.com/distribution/).
+3. Run a [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html) server with:
+    1. Password, so that only you can access the Jupyter interface.
+    2. SSL (i.e., "https" instead of "http"), so that the communication between you and the server is encrypted.
+4. Login your Jupyter Notebook server through web-browser.
+5. [Save an image of your instance](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html), submit screenshots through Canvas showing: 1) instance image is saved successfully, and 2) Jupyter server is started successfully.
 6. After submission, release your IP and server to other users (if you don't plan to use the instance).
 
 ** _Special attention: ChameleonCloud often has technical glitches, so please DON'T procrastinate this assignment to the last minute. If you have technical issue, submit a ticket through [Help Desk](https://www.chameleoncloud.org/user/help/). They almost only work on weekdays and will reply you in one or two business days. Again, don't procrastinate this assignment._ **
