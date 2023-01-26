@@ -87,7 +87,7 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 
 
 ---
-### <a name="w3"> Week 3: Analyzing computational methods from a research design perspective (TBD) </a>	[_Back2Top_](#)
+### <a name="w3"> Week 3: Analyzing computational methods from a research design perspective </a>	[_Back2Top_](#)
 
 #### Before class
 - Ragin, Charles C., and Lisa M. Amoroso. 2011. “What Is (and Is Not) Social Research?” In Constructing Social Research: The Unity and Diversity of Method, 5–32. Pine Forge Press.
