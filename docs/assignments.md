@@ -46,6 +46,8 @@ Knowledge and skills practiced:
 ---
 ### <a name="a3"> Assignment 3: Student-lead seminar on research design</a>
 
+[Sign up your session here.](https://docs.google.com/spreadsheets/d/1TK8sDskwuuqSYCc484UdTftC_VW9d9Oap_LF7A0gPeY/edit#gid=1658895974)
+
 Students will lead four seminar sessions on four topics: data management, concept representation, data analysis, and scientific communication.
 
 Using the definitions and frameworks of research design introduced at the beginning of the semester, students are expected to select and analyze empirical studies from the [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1360223). Expected deliverables for this assignment are (1) Group lecture in class, (2) presentation slides, (3) a written report.
