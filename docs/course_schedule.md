@@ -168,6 +168,23 @@ Provide feedback to group report.
 Provide feedback to group report.
 
 
+---
+### <a name="w13"> Week 13: Research design: Scientific communication (student-lead) (TBD) </a>	[_Back2Top_](#)
+
+#### Before class
+- Theoretical and conceptual readings:
+	- Kirk, Andy. 2019. Data Visualisation: A Handbook for Data Driven Design. 2nd edition. S.l.: SAGE Publications Ltd.
+- Empirical readings (TBD by student group)
+
+#### In class
+- Discussion and lecture on readings.
+- Discussion on final project options.
+
+#### After class
+
+Provide feedback to group report.
+
+
 
 <!-- 
 ---
