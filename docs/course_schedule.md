@@ -119,10 +119,12 @@ TBD.
 ### <a name="w6"> Week 6: Research design: Data management (student-lead) (TBD) </a>	[_Back2Top_](#)
 
 #### Before class
-- Theoretical and conceptual readings:
+- Recommended readings:
 	- Baker, M. (2016). 1,500 scientists lift the lid on reproducibility. Nature News, 533(7604), 452. https://doi.org/10.1038/533452a
 	- Wilson, Greg, D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt Davis, Richard T. Guy, Steven H. D. Haddock, et al. 2014. “Best Practices for Scientific Computing.” PLOS Biology 12 (1): e1001745. https://doi.org/10.1371/journal.pbio.1001745.
 	- Gentzkow, Matthew, and Jesse M. Shapiro. 2014. Code and Data for the Social Sciences: A Practitioner’s Guide. https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf.
+	- Boyd, Nora Mills. 2018. “Evidence Enriched.” Philosophy of Science 85 (3): 403–21. https://doi.org/10.1086/697747.
+	- Leonelli, Sabina. 2020. “Scientific Research and Big Data.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Summer 2020. Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/sum2020/entries/science-big-data/.
 - Empirical readings (TBD by student group)
 
 #### In class
@@ -139,7 +141,7 @@ Provide feedback to group report.
 ### <a name="w8"> Week 8: Research design: Concept representation (student-lead) (TBD) </a>	[_Back2Top_](#)
 
 #### Before class
-- Theoretical and conceptual readings:
+- Recommended readings:
 - Empirical readings (TBD by student group)
 
 #### In class
@@ -156,7 +158,7 @@ Provide feedback to group report.
 ### <a name="w10"> Week 10: Research design: Concept representation (student-lead) (TBD) </a>	[_Back2Top_](#)
 
 #### Before class
-- Theoretical and conceptual readings:
+- Recommended readings:
 	- Gerring, John. 2012. “Mere Description.” British Journal of Political Science 42 (4): 721–46. https://doi.org/10.1017/S0007123412000130.
 	- Grimmer, J., &Stewart, B. M. (2013). Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts. Political Analysis, 21(3), 267–297. doi:10.1093/pan/mps028.
 
@@ -175,7 +177,7 @@ Provide feedback to group report.
 ### <a name="w13"> Week 13: Research design: Scientific communication (student-lead) (TBD) </a>	[_Back2Top_](#)
 
 #### Before class
-- Theoretical and conceptual readings:
+- Recommended readings:
 	- Kirk, Andy. 2019. Data Visualisation: A Handbook for Data Driven Design. 2nd edition. S.l.: SAGE Publications Ltd.
 - Empirical readings (TBD by student group)
 
