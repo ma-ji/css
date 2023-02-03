@@ -142,6 +142,8 @@ Provide feedback to group report.
 
 #### Before class
 - Recommended readings:
+	- Gerring, John. 2012. “Mere Description.” British Journal of Political Science 42 (4): 721–46. https://doi.org/10.1017/S0007123412000130.
+	- Grimmer, J., &Stewart, B. M. (2013). Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts. Political Analysis, 21(3), 267–297. doi:10.1093/pan/mps028.
 - Empirical readings (TBD by student group)
 
 #### In class
@@ -155,13 +157,10 @@ Provide feedback to group report.
 
 
 ---
-### <a name="w10"> Week 10: Research design: Concept representation (student-lead) (TBD) </a>	[_Back2Top_](#)
+### <a name="w10"> Week 10: Research design: Data analysis (student-lead) (TBD) </a>	[_Back2Top_](#)
 
 #### Before class
 - Recommended readings:
-	- Gerring, John. 2012. “Mere Description.” British Journal of Political Science 42 (4): 721–46. https://doi.org/10.1017/S0007123412000130.
-	- Grimmer, J., &Stewart, B. M. (2013). Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts. Political Analysis, 21(3), 267–297. doi:10.1093/pan/mps028.
-
 - Empirical readings (TBD by student group)
 
 #### In class
