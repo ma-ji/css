@@ -27,7 +27,7 @@
 Instructor-lead sessions are voted by the class before 1/27 from [these options](/voted_options)
 
 - [Week 5: Computational methods: NLP algorithms and models as concept representation tools (instructor-lead)](#w5)
-	- Key points: methodological background and overview, word embeddings, semantic similarity
+	- Key points: methodological background and overview, vector semantics and embeddings, Word2Vec, Doc2Vec, semantic similarity
 - [Week 6: Research design: Data management (student-lead)](#w6)
 - Week 7: Computational methods: classification and topic modeling (instructor-lead)
 	- Key points: NLP+ML classification, topic modeling fine-tuning, multilingual topic modeling
