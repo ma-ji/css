@@ -116,7 +116,7 @@ TBD.
 
 
 ---
-### <a name="w6"> Week 6: Research design: Data management (student-lead) (TBD) </a>	[_Back2Top_](#)
+### <a name="w6"> Week 6: Research design: Data management (student-lead) </a>	[_Back2Top_](#)
 
 #### Before class
 - Recommended readings:
