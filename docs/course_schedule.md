@@ -29,12 +29,12 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 - [Week 5: Computational methods: Voted module 1 (instructor-lead)](#w5)
 - [Week 6: Research design: Data management (student-lead)](#w6)
 - Week 7: Instructor-lead seminar on computational methods: Voted module 2
-- Week 8: Student-lead seminar on research design: Concept representation
+- [Week 8: Research design: Concept representation (student-lead)](#w8)
 - Week 9: Instructor-lead seminar on computational methods: Voted module 3
-- Week 10: Student-lead seminar on research design: Data analysis
+- [Week 10: Research design: Data analysis (student-lead)](#w10)
 - Week 11: Instructor-lead seminar on computational methods: Voted module 4
 - _<u>Week 12: Group consultation on final project (no class)</u>_
-- Week 13: Student-lead seminar on research design: Scientific communication
+- [Week 13: Research design: Scientific communication (student-lead)](#w13)
 
 ### Final project
 - Week 14: Final project presentations
@@ -132,6 +132,41 @@ TBD.
 #### After class
 
 Provide feedback to group report.
+
+
+
+---
+### <a name="w8"> Week 8: Research design: Concept representation (student-lead) (TBD) </a>	[_Back2Top_](#)
+
+#### Before class
+- Theoretical and conceptual readings:
+- Empirical readings (TBD by student group)
+
+#### In class
+- Discussion and lecture on readings.
+- Discussion on final project options.
+
+#### After class
+
+Provide feedback to group report.
+
+
+
+---
+### <a name="w10"> Week 10: Research design: Concept representation (student-lead) (TBD) </a>	[_Back2Top_](#)
+
+#### Before class
+- Theoretical and conceptual readings:
+- Empirical readings (TBD by student group)
+
+#### In class
+- Discussion and lecture on readings.
+- Discussion on final project options.
+
+#### After class
+
+Provide feedback to group report.
+
 
 
 <!-- 
