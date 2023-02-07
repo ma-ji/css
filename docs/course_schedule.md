@@ -113,12 +113,13 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 
 
 ---
-### <a name="w5"> Week 5: Computational methods: NLP algorithms and models as concept representation tools (TBD) </a>	[_Back2Top_](#)
+### <a name="w5"> Week 5: Computational methods: NLP algorithms and models as concept representation tools </a>	[_Back2Top_](#)
 
 #### Before class
-- Required readings (copies of these chapters are on [course's Canvas site](https://utexas.instructure.com/courses/1360223/files/folder/w5))
+- Required readings (copies of GRS chapters are on [course's Canvas site](https://utexas.instructure.com/courses/1360223/files/folder/w5) because of copyright)
 	- Grimmer, Justin, Margaret E. Roberts, and Brandon M. Stewart. 2022. “Social Science Research and Text Analysis.” In Text as Data: A New Framework for Machine Learning and the Social Sciences. Princeton, New Jersey Oxford: Princeton University Press.
 	- Grimmer, Justin, Margaret E. Roberts, and Brandon M. Stewart. 2022. “Principles of Measurement.” In Text as Data: A New Framework for Machine Learning and the Social Sciences. Princeton, New Jersey Oxford: Princeton University Press.
+	- Jurafsky, Daniel, and James H. Martin. 2022. “Vector Semantics and Embeddings.” In Speech and Language Processing, 3rd draft. https://web.stanford.edu/~jurafsky/slp3/.
 - Prepare your computational environment, make sure that your Jupyter Lab server has these packages installed:
 	- [NLTK](https://www.nltk.org/): Preprocessing.
 	- [Stanza](https://stanfordnlp.github.io/stanza/): Preprocessing, POS, NER, sentiment analysis.
