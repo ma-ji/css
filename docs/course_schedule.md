@@ -99,8 +99,6 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 - Discussion and lecture on readings.
 - Discussion on final project options.
 
-#### After class
-
 
 ---
 ### <a name="w4"> Week 4: Field visit: Texas Advanced Computing Center (TBD) </a>	[_Back2Top_](#)
@@ -111,11 +109,24 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 
 #### After class
 
+- [<span style="color:red">**One-page research abstract [Research proposal] due this Friday**</span>](/assignments/#a4)
+
+
 ---
 ### <a name="w5"> Week 5: Computational methods: NLP algorithms and models as concept representation tools (TBD) </a>	[_Back2Top_](#)
 
-TBD.
-
+#### Before class
+- Required readings (copies of these chapters are on [course's Canvas site](https://utexas.instructure.com/courses/1360223/files/folder/w5))
+	- Grimmer, Justin, Margaret E. Roberts, and Brandon M. Stewart. 2022. “Social Science Research and Text Analysis.” In Text as Data: A New Framework for Machine Learning and the Social Sciences. Princeton, New Jersey Oxford: Princeton University Press.
+	- Grimmer, Justin, Margaret E. Roberts, and Brandon M. Stewart. 2022. “Principles of Measurement.” In Text as Data: A New Framework for Machine Learning and the Social Sciences. Princeton, New Jersey Oxford: Princeton University Press.
+- Prepare your computational environment, make sure that your Jupyter Lab server has these packages installed:
+	- [NLTK](https://www.nltk.org/): Preprocessing.
+	- [Stanza](https://stanfordnlp.github.io/stanza/): Preprocessing, POS, NER, sentiment analysis.
+	- [Gensim](https://radimrehurek.com/gensim/): Preprocessing, vectorization, topic modeling (fixed word-embedding).
+	- [BERTopic](https://maartengr.github.io/BERTopic/index.html): Topic modeling (fixed and contextualized word-embedding, multilingual support, visualization).
+	- [Top2Vec](https://github.com/ddangelov/Top2Vec): Topic modeling (fixed and contextualized word-embedding, multilingual support). I recently used it for a multilingual topic modeling task.
+	- [SentenceTransformers](https://www.sbert.net/#): Vectorize sentences or documents. Used by many proceeding packages. I sometime use it to obtain the raw vector values if analysis requires (e.g., calculating text similarity in [this](https://osf.io/6b7qg/) and [this](https://osf.io/jrqyu/) article, visualizing semantic spaces, etc.)
+	- [Transformers](https://huggingface.co/docs/transformers/index): Train or fine-tune pretrained BERT models. Used by many proceeding packages. I used it to fine-tune a BERT model for [classifying nonprofits according to their mission statements](https://github.com/ma-ji/npo_classifier).
 
 ---
 ### <a name="w6"> Week 6: Research design: Data management (student-lead) </a>	[_Back2Top_](#)
