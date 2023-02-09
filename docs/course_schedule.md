@@ -143,6 +143,8 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 	- Vectorize documents/paragraphs/sentences with pretrained models.
 		- Calculate document similarity between documents/paragraphs/sentences. Example studies:
 			- Ma, Ji, and René Bekkers. 2023. “Consensus Formation in Nonprofit and Philanthropic Studies: Networks, Reputation, and Gender.” Nonprofit and Voluntary Sector Quarterly, January, 08997640221146948. https://doi.org/10.1177/08997640221146948.
+		- Max length of input documents ([caveat 1](https://github.com/tensorflow/hub/issues/244), [caveat 2](https://www.sbert.net/examples/applications/computing-embeddings/README.html?highlight=max#input-sequence-length))
+
 
 ---
 ### <a name="w6"> Week 6: Research design: Data management (student-lead) </a>	[_Back2Top_](#)
