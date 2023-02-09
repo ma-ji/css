@@ -129,6 +129,21 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 	- [SentenceTransformers](https://www.sbert.net/#): Vectorize sentences or documents. Used by many proceeding packages. I sometime use it to obtain the raw vector values if analysis requires (e.g., calculating text similarity in [this](https://osf.io/6b7qg/) and [this](https://osf.io/jrqyu/) article, visualizing semantic spaces, etc.)
 	- [Transformers](https://huggingface.co/docs/transformers/index): Train or fine-tune pretrained BERT models. Used by many proceeding packages. I used it to fine-tune a BERT model for [classifying nonprofits according to their mission statements](https://github.com/ma-ji/npo_classifier).
 
+#### In class
+- Overview: typical application of NLP in social science research
+- Hands-on:
+	- Setup GPU computing environment.
+	- Preprocess text with Stanza.
+	- Vectorize words with pretrained models.
+		- Calculate word similarity. Example studies:
+			- Kozlowski, Austin C., Matt Taddy, and James A. Evans. 2019. “The Geometry of Culture: Analyzing the Meanings of Class through Word Embeddings.” American Sociological Review 84 (5): 905–49. https://doi.org/10.1177/0003122419877135.
+			- Jones, Jason J., Mohammad Ruhul Amin, Jessica Kim, and Steven Skiena. 2020. “Stereotypical Gender Associations in Language Have Decreased Over Time.” Sociological Science 7 (January): 1–35. https://doi.org/10.15195/v7.a1.
+		- Calculate document similarity with Word Mover Distance. Example studies:
+			- Ma, Ji. 2022. “How Does an Authoritarian State Co-Opt Its Social Scientists Studying Civil Society?” VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations, July. https://doi.org/10.1007/s11266-022-00510-6.
+	- Vectorize documents/paragraphs/sentences with pretrained models.
+		- Calculate document similarity between documents/paragraphs/sentences. Example studies:
+			- Ma, Ji, and René Bekkers. 2023. “Consensus Formation in Nonprofit and Philanthropic Studies: Networks, Reputation, and Gender.” Nonprofit and Voluntary Sector Quarterly, January, 08997640221146948. https://doi.org/10.1177/08997640221146948.
+
 ---
 ### <a name="w6"> Week 6: Research design: Data management (student-lead) </a>	[_Back2Top_](#)
 
