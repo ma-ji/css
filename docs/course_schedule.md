@@ -120,7 +120,11 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 	- Grimmer, Justin, Margaret E. Roberts, and Brandon M. Stewart. 2022. “Social Science Research and Text Analysis.” In Text as Data: A New Framework for Machine Learning and the Social Sciences. Princeton, New Jersey Oxford: Princeton University Press.
 	- Grimmer, Justin, Margaret E. Roberts, and Brandon M. Stewart. 2022. “Principles of Measurement.” In Text as Data: A New Framework for Machine Learning and the Social Sciences. Princeton, New Jersey Oxford: Princeton University Press.
 	- Jurafsky, Daniel, and James H. Martin. 2022. “Vector Semantics and Embeddings.” In Speech and Language Processing, 3rd draft. https://web.stanford.edu/~jurafsky/slp3/.
-- Prepare your computational environment, make sure that your Jupyter Lab server has these packages installed:
+- Recommended readings:
+	- Rodriguez, Pedro L., and Arthur Spirling. 2022. “Word Embeddings: What Works, What Doesn’t, and How to Tell the Difference for Applied Research.” The Journal of Politics 84 (1): 101–15. https://doi.org/10.1086/715162.
+	- Grimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21 (3): 267–97. https://doi.org/10.1093/pan/mps028.
+
+<!-- - Prepare your computational environment, make sure that your Jupyter Lab server has these packages installed:
 	- [NLTK](https://www.nltk.org/): Preprocessing.
 	- [Stanza](https://stanfordnlp.github.io/stanza/): Preprocessing, POS, NER, sentiment analysis.
 	- [Gensim](https://radimrehurek.com/gensim/): Preprocessing, vectorization, topic modeling (fixed word-embedding).
@@ -128,11 +132,11 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 	- [Top2Vec](https://github.com/ddangelov/Top2Vec): Topic modeling (fixed and contextualized word-embedding, multilingual support). I recently used it for a multilingual topic modeling task.
 	- [SentenceTransformers](https://www.sbert.net/#): Vectorize sentences or documents. Used by many proceeding packages. I sometime use it to obtain the raw vector values if analysis requires (e.g., calculating text similarity in [this](https://osf.io/6b7qg/) and [this](https://osf.io/jrqyu/) article, visualizing semantic spaces, etc.)
 	- [Transformers](https://huggingface.co/docs/transformers/index): Train or fine-tune pretrained BERT models. Used by many proceeding packages. I used it to fine-tune a BERT model for [classifying nonprofits according to their mission statements](https://github.com/ma-ji/npo_classifier).
+ -->
 
 #### In class
 - Overview: typical application of NLP in social science research
 - Hands-on:
-	- Setup GPU computing environment.
 	- Preprocess text with Stanza.
 	- Vectorize words with pretrained models.
 		- Calculate word similarity. Example studies:
