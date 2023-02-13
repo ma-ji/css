@@ -4,7 +4,7 @@
 
 - Instructor: [Ji Ma](https://jima.me) (maji@austin.utexas.edu)
 - Time and location: 2023 spring, Monday 9:00AM-12:00PM, SRH3.314
-- Office hour: Monday 2-4pm, SRH3.324.
+- Office hour: Friday 2-4pm, SRH3.324.
 
 ---
 This course introduces and contextualizes computational social science methods from a social science research design perspective. The first part of this course (w1--w3) gives you an overview of this course, how to use [high-performance cloud computing resources](https://www.tacc.utexas.edu/systems/chameleon), and how to analyze computational methods from a research design perspective. The second part (w4--w13) will analyze different computational methods according to their roles in social science research. Students will present their [final research project](/final) in the last week. Bilingual or multilingual language ability is a plus. Programming is an essential part of this course but not the purpose and will not be taught. We will be coding for social good.
