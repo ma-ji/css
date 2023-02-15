@@ -86,11 +86,11 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 
 #### Video recording
 
-**How to use Chameleon Cloud: Set up a new instance**
+- How to use Chameleon Cloud: Set up a new instance
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XZvETQb6YmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**How to set up a Jupyter Lab server**
+- How to set up a Jupyter Lab server
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/80yqneJj97w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -152,6 +152,7 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 		- Max length of input documents ([caveat 1](https://github.com/tensorflow/hub/issues/244), [caveat 2](https://www.sbert.net/examples/applications/computing-embeddings/README.html?highlight=max#input-sequence-length))
 
 #### Video recording
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXoG9Ju69Lg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
