@@ -124,16 +124,6 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 	- Rodriguez, Pedro L., and Arthur Spirling. 2022. “Word Embeddings: What Works, What Doesn’t, and How to Tell the Difference for Applied Research.” The Journal of Politics 84 (1): 101–15. https://doi.org/10.1086/715162.
 	- Grimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21 (3): 267–97. https://doi.org/10.1093/pan/mps028.
 
-<!-- - Prepare your computational environment, make sure that your Jupyter Lab server has these packages installed:
-	- [NLTK](https://www.nltk.org/): Preprocessing.
-	- [Stanza](https://stanfordnlp.github.io/stanza/): Preprocessing, POS, NER, sentiment analysis.
-	- [Gensim](https://radimrehurek.com/gensim/): Preprocessing, vectorization, topic modeling (fixed word-embedding).
-	- [BERTopic](https://maartengr.github.io/BERTopic/index.html): Topic modeling (fixed and contextualized word-embedding, multilingual support, visualization).
-	- [Top2Vec](https://github.com/ddangelov/Top2Vec): Topic modeling (fixed and contextualized word-embedding, multilingual support). I recently used it for a multilingual topic modeling task.
-	- [SentenceTransformers](https://www.sbert.net/#): Vectorize sentences or documents. Used by many proceeding packages. I sometime use it to obtain the raw vector values if analysis requires (e.g., calculating text similarity in [this](https://osf.io/6b7qg/) and [this](https://osf.io/jrqyu/) article, visualizing semantic spaces, etc.)
-	- [Transformers](https://huggingface.co/docs/transformers/index): Train or fine-tune pretrained BERT models. Used by many proceeding packages. I used it to fine-tune a BERT model for [classifying nonprofits according to their mission statements](https://github.com/ma-ji/npo_classifier).
- -->
-
 #### In class
 - Overview: typical application of NLP in social science research
 - Hands-on:
@@ -148,6 +138,9 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 		- Calculate document similarity between documents/paragraphs/sentences. Example studies:
 			- Ma, Ji, and René Bekkers. 2023. “Consensus Formation in Nonprofit and Philanthropic Studies: Networks, Reputation, and Gender.” Nonprofit and Voluntary Sector Quarterly, January, 08997640221146948. https://doi.org/10.1177/08997640221146948.
 		- Max length of input documents ([caveat 1](https://github.com/tensorflow/hub/issues/244), [caveat 2](https://www.sbert.net/examples/applications/computing-embeddings/README.html?highlight=max#input-sequence-length))
+
+##### Video recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wXoG9Ju69Lg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ---
