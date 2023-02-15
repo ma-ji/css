@@ -84,7 +84,7 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 	- Snapshot the instance [as an image](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html).
 - Discussion on final project options.
 
-##### Video recording
+#### Video recording
 
 **How to use Chameleon Cloud: Set up a new instance**
 
@@ -151,7 +151,7 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 			- Ma, Ji, and René Bekkers. 2023. “Consensus Formation in Nonprofit and Philanthropic Studies: Networks, Reputation, and Gender.” Nonprofit and Voluntary Sector Quarterly, January, 08997640221146948. https://doi.org/10.1177/08997640221146948.
 		- Max length of input documents ([caveat 1](https://github.com/tensorflow/hub/issues/244), [caveat 2](https://www.sbert.net/examples/applications/computing-embeddings/README.html?highlight=max#input-sequence-length))
 
-##### Video recording
+#### Video recording
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXoG9Ju69Lg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
