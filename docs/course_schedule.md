@@ -84,6 +84,18 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 	- Snapshot the instance [as an image](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html).
 - Discussion on final project options.
 
+##### Video recording
+
+**How to use Chameleon Cloud: Set up a new instance**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XZvETQb6YmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**How to set up a Jupyter Lab server**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/80yqneJj97w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
 #### After class
 - [<span style="color:red">**Assignment 1 due this Friday**</span>](/assignments/#a1)
 
