@@ -29,8 +29,8 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 - [Week 5: Computational methods: NLP algorithms and models as concept representation tools (instructor-lead)](#w5)
 	- Key points: methodological background and overview, vector semantics and embeddings, Word2Vec, Doc2Vec, semantic similarity
 - [Week 6: Research design: Data management (student-lead)](#w6)
-- Week 7: Computational methods: classification and topic modeling (instructor-lead)
-	- Key points: NLP+ML classification, topic modeling fine-tuning, multilingual topic modeling
+- [Week 7: Computational methods: topic modeling and classification (instructor-lead)](#7)
+	- Key points: Topic modeling and text classification
 - [Week 8: Research design: Concept representation (student-lead)](#w8)
 - Week 9: Instructor-lead seminar on computational methods: Voted module 3
 - [Week 10: Research design: Data analysis (student-lead)](#w10)
@@ -155,6 +155,9 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXoG9Ju69Lg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+#### After class
+
+Practice the coding sessions, play with your own datasets, revise research proposal.
 
 ---
 ### <a name="w6"> Week 6: Research design: Data management (student-lead) </a>	[_Back2Top_](#)
@@ -177,6 +180,29 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 
 Provide feedback to group report.
 
+
+---
+### <a name="w7"> Week 7: Computational methods: topic modeling and classification (instructor-lead)</a>	[_Back2Top_](#)
+
+#### Before class
+
+No readings before class, practice the coding sessions from previous weeks, and **prepare a sample dataset of text for your proposed research** (we will need it in class for practice purposes).
+
+#### In class
+
+- Overview: Technical background of topic modeling and classification, application in research
+- Hands-on:
+	- Topic modeling based on different vectorization methods: 
+		- Doc2Vec
+		- Static word embedding (universal-sentence-encoder-multilingual)
+		- Contextual word embedding (BERT)
+	- Generation of topic keywords
+	- Classification of texts (code review)
+	- Practice with your own datasets
+
+#### After class
+
+Practice the coding sessions, play with your own datasets, revise research proposal.
 
 
 ---
