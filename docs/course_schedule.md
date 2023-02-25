@@ -193,7 +193,6 @@ No readings before class, practice the coding sessions from previous weeks, and 
 - Overview: Technical background of topic modeling and classification, application in research
 - Hands-on:
 	- Topic modeling based on different vectorization methods: 
-		- Doc2Vec
 		- Static word embedding (universal-sentence-encoder-multilingual)
 		- Contextual word embedding (BERT)
 	- Generation of topic keywords
@@ -206,12 +205,14 @@ Practice the coding sessions, play with your own datasets, revise research propo
 
 
 ---
-### <a name="w8"> Week 8: Research design: Concept representation (student-lead) (TBD) </a>	[_Back2Top_](#)
+### <a name="w8"> Week 8: Research design: Concept representation (student-lead) </a>	[_Back2Top_](#)
 
 #### Before class
 - Recommended readings:
 	- Gerring, John. 2012. “Mere Description.” British Journal of Political Science 42 (4): 721–46. https://doi.org/10.1017/S0007123412000130.
 	- Grimmer, J., &Stewart, B. M. (2013). Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts. Political Analysis, 21(3), 267–297. doi:10.1093/pan/mps028.
+	- Re-read relevant sections in (also pay attention to cited references): Ma, Ji, Islam Akef Ebeid, Arjen de Wit, Meiying Xu, Yongzheng Yang, René Bekkers, and Pamala Wiepking. 2021. “Computational Social Science for Nonprofit Studies: Developing a Toolbox and Knowledge Base for the Field.” VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations, October. https://doi.org/10.1007/s11266-021-00414-x.
+	- Compile a table to compare how conventional and computational methods operationalize the same concept (such as "social capital," "social movement," and "scientific consensus.").
 - Empirical readings (TBD by student group)
 
 #### In class
