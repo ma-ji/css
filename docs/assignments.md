@@ -71,9 +71,17 @@ Complete research profile so that your classmates will know more about you and y
 
 This is a very brief introduction about your research idea. It usually includes: (1) Research questions and their importance; (2) major concepts and variables, and your hypotheses about the relations between these variables; (3) your primary data sources and analysis methods; (4) any challenges and how you plan to handle them; (5) a few key references that you identify at this stage, usually these articles are the "idols" of your proposed project.
 
-3. Research proposal draft.
-4. Research proposal final (with preliminary descriptive results).
-5. Peer-review of research proposal.
+<u>**Research proposal draft**</u>
+
+Based on your one-page research abstract, this proposal draft should at least include the following items:
+
+1. Specific research questions or hypotheses, and significance.
+2. A small sample dataset for answering these questions.
+3. Empirical analysis plan: (1) specific analysis methods; (2) relations between your research questions and analysis methods.
+4. Project timeline by week (with weekly goals).
+
+- Research proposal final (with preliminary descriptive results).
+- Peer-review of research proposal.
 
 
 ---
