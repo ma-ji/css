@@ -76,9 +76,9 @@ This is a very brief introduction about your research idea. It usually includes:
 In addition to the contents in your one-page research abstract, this proposal draft should at least include the following items:
 
 1. Specific research questions or hypotheses, and significance.
-2. A small sample dataset for answering these questions.
-3. Empirical analysis plan: (1) specific analysis methods; (2) relations between your research questions and analysis methods.
-4. Project timeline by week (with weekly goals).
+2. Empirical analysis plan: (1) specific analysis methods; (2) relations between your research questions and analysis methods.
+3. A small sample dataset for answering these questions.
+4. Member responsibilities and project timeline by week (with weekly goals).
 
 <u>**Research proposal final**</u>
 
