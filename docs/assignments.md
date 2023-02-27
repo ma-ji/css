@@ -80,8 +80,11 @@ Based on your one-page research abstract, this proposal draft should at least in
 3. Empirical analysis plan: (1) specific analysis methods; (2) relations between your research questions and analysis methods.
 4. Project timeline by week (with weekly goals).
 
-- Research proposal final (with preliminary descriptive results).
-- Peer-review of research proposal.
+<u>**Research proposal final**</u>
+
+With preliminary descriptive results.
+
+<u>**Peer-review of research proposal**</u>
 
 
 ---
