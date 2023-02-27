@@ -71,9 +71,9 @@ Complete research profile so that your classmates will know more about you and y
 
 This is a very brief introduction about your research idea. It usually includes: (1) Research questions and their importance; (2) major concepts and variables, and your hypotheses about the relations between these variables; (3) your primary data sources and analysis methods; (4) any challenges and how you plan to handle them; (5) a few key references that you identify at this stage, usually these articles are the "idols" of your proposed project.
 
-<u>**Research proposal draft**</u>
+<u>**Research proposal draft (2 pages)**</u>
 
-Based on your one-page research abstract, this proposal draft should at least include the following items:
+In addition to the contents in your one-page research abstract, this proposal draft should at least include the following items:
 
 1. Specific research questions or hypotheses, and significance.
 2. A small sample dataset for answering these questions.
