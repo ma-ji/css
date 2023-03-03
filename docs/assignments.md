@@ -82,7 +82,11 @@ In addition to the contents in your one-page research abstract, this proposal dr
 
 <u>**Research proposal final**</u>
 
-With preliminary descriptive results.
+By far, in addition to the items you've completed in the proceeding submissions, you should also have:
+
+1. Complete dataset for the research.
+2. Preliminary analysis results.
+3. Tentative conclusions.
 
 <u>**Peer-review of research proposal**</u>
 
