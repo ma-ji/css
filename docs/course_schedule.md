@@ -32,7 +32,8 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 - [Week 7: Computational methods: topic modeling and classification (instructor-lead)](#w7)
 	- Key points: Topic modeling and text classification
 - [Week 8: Research design: Concept representation (student-lead)](#w8)
-- Week 9: Instructor-lead seminar on computational methods: Voted module 3
+- [Week 9: Computational methods: Network analysis as a representation and analysis method (instructor-lead)](#9)
+	- Key points: Basic concepts of network analysis, network generation and transformation, levels of analysis
 - [Week 10: Research design: Data analysis (student-lead)](#w10)
 - Week 11: Instructor-lead seminar on computational methods: Voted module 4
 - _<u>Week 12: Group consultation on final project (no class)</u>_
@@ -208,12 +209,8 @@ Practice the coding sessions, play with your own datasets, revise research propo
 ### <a name="w8"> Week 8: Research design: Concept representation (student-lead) </a>	[_Back2Top_](#)
 
 #### Before class
-- Recommended readings:
-	- Gerring, John. 2012. “Mere Description.” British Journal of Political Science 42 (4): 721–46. https://doi.org/10.1017/S0007123412000130.
-	- Grimmer, J., &Stewart, B. M. (2013). Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts. Political Analysis, 21(3), 267–297. doi:10.1093/pan/mps028.
-	- Re-read relevant sections in (also pay attention to cited references): Ma, Ji, Islam Akef Ebeid, Arjen de Wit, Meiying Xu, Yongzheng Yang, René Bekkers, and Pamala Wiepking. 2021. “Computational Social Science for Nonprofit Studies: Developing a Toolbox and Knowledge Base for the Field.” VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations, October. https://doi.org/10.1007/s11266-021-00414-x.
-	- Compile a table to compare how conventional and computational methods operationalize the same concept (such as "social capital," "social movement," and "scientific consensus.").
-- Empirical readings (TBD by student group)
+- Required readings:
+
 
 #### In class
 - Discussion and lecture on readings.
@@ -223,6 +220,25 @@ Practice the coding sessions, play with your own datasets, revise research propo
 
 Provide feedback to group report.
 
+
+---
+### <a name="w9"> Week 9: Computational methods: Network analysis as a representation and analysis method (instructor-lead) </a>	[_Back2Top_](#)
+
+#### Before class
+- Recommended readings:
+	- Scott, John. 2017. “What Is Social Network Analysis?” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
+	- Scott, John. 2017. “Terminology for Network Analysis.” In Social Network Analysis, Fourth edition, 73–94. Thousand Oaks, CA: SAGE Publications Ltd.
+	- Watts, Duncan J. 2004. “The ‘New’ Science of Networks.” Annual Review of Sociology 30 (1): 243–70. https://doi.org/10.1146/annurev.soc.30.020404.104342.
+
+
+
+#### In class
+- Discussion and lecture on readings.
+- Discussion on final project options.
+
+#### After class
+
+Provide feedback to group report.
 
 
 ---
