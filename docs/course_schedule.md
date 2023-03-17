@@ -32,7 +32,7 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 - [Week 7: Computational methods: topic modeling and classification (instructor-lead)](#w7)
 	- Key points: Topic modeling and text classification
 - [Week 8: Research design: Concept representation (student-lead)](#w8)
-- [Week 9: Computational methods: Network analysis as a representation and analysis method (instructor-lead)](#9)
+- [Week 9: Computational methods: Network analysis as a representation and analysis method (instructor-lead)](#w9)
 	- Key points: Basic concepts of network analysis, network generation and transformation, levels of analysis
 - [Week 10: Research design: Data analysis (student-lead)](#w10)
 - Week 11: Instructor-lead seminar on computational methods: Voted module 4
@@ -229,8 +229,6 @@ Provide feedback to group report.
 	- Scott, John. 2017. “What Is Social Network Analysis?” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
 	- Scott, John. 2017. “Terminology for Network Analysis.” In Social Network Analysis, Fourth edition, 73–94. Thousand Oaks, CA: SAGE Publications Ltd.
 	- Watts, Duncan J. 2004. “The ‘New’ Science of Networks.” Annual Review of Sociology 30 (1): 243–70. https://doi.org/10.1146/annurev.soc.30.020404.104342.
-
-
 
 #### In class
 - Discussion and lecture on readings.
