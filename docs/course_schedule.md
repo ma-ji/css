@@ -208,10 +208,6 @@ Practice the coding sessions, play with your own datasets, revise research propo
 ---
 ### <a name="w8"> Week 8: Research design: Concept representation (student-lead) </a>	[_Back2Top_](#)
 
-#### Before class
-- Required readings:
-
-
 #### In class
 - Discussion and lecture on readings.
 - Discussion on final project options.
@@ -244,6 +240,9 @@ Provide feedback to group report.
 
 #### Before class
 - Recommended readings:
+	- Hofman, Jake M., Duncan J. Watts, Susan Athey, Filiz Garip, Thomas L. Griffiths, Jon Kleinberg, Helen Margetts, et al. 2021. “Integrating Explanation and Prediction in Computational Social Science.” Nature 595 (7866): 181–88. https://doi.org/10.1038/s41586-021-03659-0.
+	- Gerring, J. (2012). Mere Description. British Journal of Political Science, 42(4), 721–746. https://doi.org/10.1017/S0007123412000130
+	- Humphreys, P. (2009). The philosophical novelty of computer simulation methods. Synthese, 169(3), 615–626. https://doi.org/10.1007/s11229-008-9435-2
 - Empirical readings (TBD by student group)
 
 #### In class
