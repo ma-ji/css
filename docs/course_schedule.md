@@ -258,8 +258,17 @@ Provide feedback to group report.
 ### <a name="w13"> Week 13: Research design: Scientific communication (student-lead) (TBD) </a>	[_Back2Top_](#)
 
 #### Before class
+
 - Recommended readings:
+	- Wickham, H. (2014). Tidy data. The Journal of Statistical Software, 59(10). http://www.jstatsoft.org/v59/i10/
 	- Kirk, Andy. 2019. Data Visualisation: A Handbook for Data Driven Design. 2nd edition. S.l.: SAGE Publications Ltd.
+	- "Data storytelling" books through [university library](https://search.lib.utexas.edu/discovery/search?query=any,contains,data%20storytelling&tab=LibraryCatalog&search_scope=MyInstitution&vid=01UTAU_INST:SEARCH&offset=0). The issue is that there are too many such books, and not all of them are helpful. [This book](https://search.lib.utexas.edu/permalink/01UTAU_INST/9e1640/alma991058188717506011) is a bestseller on Amazon.
+
+- Recommended DataCamp modules:
+	- [Understanding Data Visualization](https://app.datacamp.com/learn/courses/data-visualization-for-everyone)
+	- [Data Storytelling Concepts](https://app.datacamp.com/learn/courses/data-storytelling-concepts)
+	- [Data Communication Concepts](https://app.datacamp.com/learn/courses/data-communication-concepts)
+
 - Empirical readings (TBD by student group)
 
 #### In class
