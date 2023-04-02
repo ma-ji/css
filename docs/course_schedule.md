@@ -268,8 +268,7 @@ Provide feedback to group report.
 
 #### After class
 
-Provide feedback to group report.
-
+Work on final project, prepare to finalize the written report for [Assignment 3: Student-lead seminar on research design](https://css.jima.me/assignments/#a3)
 
 ---
 ### <a name="w13"> Week 13: Research design: Scientific communication (student-lead) (TBD) </a>	[_Back2Top_](#)
