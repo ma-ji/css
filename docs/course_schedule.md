@@ -35,7 +35,7 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 - [Week 9: Computational methods: Network analysis as a representation and analysis method (instructor-lead)](#w9)
 	- Key points: Basic concepts of network analysis, network generation and transformation, levels of analysis
 - [Week 10: Research design: Data analysis (student-lead)](#w10)
-- Week 11: Instructor-lead seminar on computational methods: Voted module 4
+- [Week 11: Computational methods: Process of network analysis](#w11)
 - _<u>Week 12: Group consultation on final project (no class)</u>_
 - [Week 13: Research design: Scientific communication (student-lead)](#w13)
 
@@ -244,6 +244,23 @@ Provide feedback to group report.
 	- Gerring, J. (2012). Mere Description. British Journal of Political Science, 42(4), 721–746. https://doi.org/10.1017/S0007123412000130
 	- Humphreys, P. (2009). The philosophical novelty of computer simulation methods. Synthese, 169(3), 615–626. https://doi.org/10.1007/s11229-008-9435-2
 - Empirical readings (TBD by student group)
+
+#### In class
+- Discussion and lecture on readings.
+- Discussion on final project options.
+
+#### After class
+
+Provide feedback to group report.
+
+
+---
+### <a name="w11"> Week 11: Computational methods: Process of network analysis</a>	[_Back2Top_](#)
+
+#### Before class
+- Recommended readings:
+	- Borgatti, Stephen P., and Daniel S. Halgin. 2011. “On Network Theory.” Organization Science 22 (5): 1168–81. https://doi.org/10.1287/orsc.1100.0641.
+	- [Review network analysis algorithms](https://networkx.org/documentation/stable/reference/algorithms/index.html#)
 
 #### In class
 - Discussion and lecture on readings.
