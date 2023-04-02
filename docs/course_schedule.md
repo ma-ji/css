@@ -175,7 +175,7 @@ Practice the coding sessions, play with your own datasets, revise research propo
 
 #### In class
 - Discussion and lecture on readings.
-- Discussion on final project options.
+- Discussion on final project.
 
 #### After class
 
@@ -210,7 +210,7 @@ Practice the coding sessions, play with your own datasets, revise research propo
 
 #### In class
 - Discussion and lecture on readings.
-- Discussion on final project options.
+- Discussion on final project.
 
 #### After class
 
@@ -228,7 +228,7 @@ Provide feedback to group report.
 
 #### In class
 - Discussion and lecture on readings.
-- Discussion on final project options.
+- Discussion on final project.
 
 #### After class
 
@@ -247,7 +247,7 @@ Provide feedback to group report.
 
 #### In class
 - Discussion and lecture on readings.
-- Discussion on final project options.
+- Discussion on final project.
 
 #### After class
 
@@ -264,7 +264,7 @@ Provide feedback to group report.
 
 #### In class
 - Discussion and lecture on readings.
-- Discussion on final project options.
+- Discussion on final project.
 
 #### After class
 
@@ -289,7 +289,7 @@ Work on final project, prepare to finalize the written report for [Assignment 3:
 
 #### In class
 - Discussion and lecture on readings.
-- Discussion on final project options.
+- Discussion on final project.
 
 #### After class
 
