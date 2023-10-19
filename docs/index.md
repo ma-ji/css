@@ -1,15 +1,14 @@
 # Course description
 
-<!-- <span style="color:red"><span style="font-size:6em;">Revising for 2023 spring, check back in 2022 fall or contact instructor</span></span>. -->
 
 - Instructor: [Ji Ma](https://jima.me) (maji@austin.utexas.edu)
-- Time and location: 2023 spring, Monday 9:00AM-12:00PM, SRH3.314
-- Office hour: Friday 2-4pm, SRH3.324.
+- Time and location: 2024 Fall, Tuesday 9:00AM-12:00PM, SRH 3.314.
+- Office hour: TBD.
 
 ---
-This course introduces and contextualizes computational social science methods from a social science research design perspective. The first part of this course (w1--w3) gives you an overview of this course, how to use [high-performance cloud computing resources](https://www.tacc.utexas.edu/systems/chameleon), and how to analyze computational methods from a research design perspective. The second part (w4--w13) will analyze different computational methods according to their roles in social science research. Students will present their [final research project](/final) in the last week. Bilingual or multilingual language ability is a plus. Programming is an essential part of this course but not the purpose and will not be taught. We will be coding for social good.
+This course is academic and research oriented, it introduces and contextualizes computational methods from a social science research design perspective. The first part of this course (w1--w3) gives you an overview of this course, how to use [high-performance cloud computing resources](https://www.tacc.utexas.edu/systems/chameleon), and how to analyze computational methods from a research design perspective. The second part (w4--w13) will analyze different computational methods according to their roles in social science research. Students will present their [final research project](/final) in the last week. Bilingual or multilingual language ability is a plus. Programming is an essential part of this course but not the purpose and will not be taught. We will be coding for social good.
 
-The course has demanding [prerequisites](/prerequisites); therefore, you probably need to work on the [prerequisites](/prerequisites) over the winter break if you are highly motivated. All registrations need to be approved by the instructor in late 2023. 
+The course has demanding [prerequisites](/prerequisites); therefore, you probably need to work on the [prerequisites](/prerequisites) over the winter break if you are highly motivated. All registrations need to be approved by the instructor in late 2023.
 
 <!-- You can [join the learning group](https://uta-css.slack.com) where more learning resources will be shared. -->
 
