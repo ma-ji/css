@@ -29,7 +29,7 @@ The class is Python based, but you can use R or any other programming language a
 
 ### Required fundamentals (no particular order)
 
-After completing the below modules, you should be familiar with all the topics listed in [this tutorial](https://www.learnpython.org/).
+**You can write an email to me to request a free license for DataCamp.** After completing the below modules, you should be familiar with all the topics listed in [this tutorial](https://www.learnpython.org/).
 
 - Programming:
 	- [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) (4 hours)

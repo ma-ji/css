@@ -9,7 +9,9 @@
 ---
 This course introduces and contextualizes computational social science methods from a social science research design perspective. The first part of this course (w1--w3) gives you an overview of this course, how to use [high-performance cloud computing resources](https://www.tacc.utexas.edu/systems/chameleon), and how to analyze computational methods from a research design perspective. The second part (w4--w13) will analyze different computational methods according to their roles in social science research. Students will present their [final research project](/final) in the last week. Bilingual or multilingual language ability is a plus. Programming is an essential part of this course but not the purpose and will not be taught. We will be coding for social good.
 
-The course has demanding [prerequisites](/prerequisites); therefore, you probably need to work on the [prerequisites](/prerequisites) in 2022 summer and fall if you are highly motivated. All registrations need to be approved by the instructor in late 2022 fall. You can [join the learning group](https://uta-css.slack.com) where more learning resources will be shared.
+The course has demanding [prerequisites](/prerequisites); therefore, you probably need to work on the [prerequisites](/prerequisites) over the winter break if you are highly motivated. All registrations need to be approved by the instructor in late 2023. 
+
+<!-- You can [join the learning group](https://uta-css.slack.com) where more learning resources will be shared. -->
 
 # [Prerequisites](/prerequisites)
 
