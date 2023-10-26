@@ -14,13 +14,6 @@ This course is academic and research oriented, it introduces and contextualizes 
 
 # [Prerequisites](/prerequisites)
 
-# Grading
-<!-- 40% [assignments](/assignments/), 20% [presentation of datasets](/data_topic/), and 40% [final project](/final/). -->
-
-- A >= 95%, A- >= 90
-- B+ >= 87%, B >= 83%, B- >= 80%
-- C+ >= 77%, C >= 73%, C- >= 70%
-- D+ >= 67%, D >= 63%, D- >= 60%
 
 # Resources
 
@@ -42,6 +35,16 @@ These books/sources introduce more technical and hands-on details.
 - [2019 fall](https://drive.google.com/drive/folders/1GXDiy4dFq1i00U0qNhTtKM0YJMCOGsvd?usp=sharing)
 - [2023 spring: students' final projects](https://drive.google.com/drive/folders/1btblaU0LWRQTYOQ_TP_fGVyYr6uEEPwJ?usp=sharing)
 
+
+# Grading
+<!-- 40% [assignments](/assignments/), 20% [presentation of datasets](/data_topic/), and 40% [final project](/final/). -->
+
+[Assignments (TBD)](/assignments/)
+
+- A >= 95%, A- >= 90
+- B+ >= 87%, B >= 83%, B- >= 80%
+- C+ >= 77%, C >= 73%, C- >= 70%
+- D+ >= 67%, D >= 63%, D- >= 60%
 
 ---
 # Policies
