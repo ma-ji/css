@@ -39,7 +39,8 @@ These books/sources introduce more technical and hands-on details.
 
 ## Presentations and final projects from previous semesters
 
-[2019 fall](https://drive.google.com/drive/folders/1GXDiy4dFq1i00U0qNhTtKM0YJMCOGsvd?usp=sharing)
+- [2019 fall](https://drive.google.com/drive/folders/1GXDiy4dFq1i00U0qNhTtKM0YJMCOGsvd?usp=sharing)
+- [2023 spring: students' final projects](https://drive.google.com/drive/folders/1btblaU0LWRQTYOQ_TP_fGVyYr6uEEPwJ?usp=sharing)
 
 
 ---
