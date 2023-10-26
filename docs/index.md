@@ -8,7 +8,7 @@
 ---
 This course is academic and research oriented, it introduces and contextualizes computational methods from a social science research design perspective. The first part of this course (w1--w3) gives you an overview of this course, how to use [high-performance cloud computing resources](https://www.tacc.utexas.edu/systems/chameleon), and how to analyze computational methods from a research design perspective. The second part (w4--w13) will analyze different computational methods according to their roles in social science research. Students will present their [final research project](/final) in the last week. Bilingual or multilingual language ability is a plus. Programming is an essential part of this course but not the purpose and will not be taught. We will be coding for social good.
 
-The course has demanding [prerequisites](/prerequisites); therefore, you probably need to work on the [prerequisites](/prerequisites) over the winter break if you are highly motivated. All registrations need to be approved by the instructor in late 2023.
+The course has demanding [prerequisites](/prerequisites); therefore, you probably need to work on the [prerequisites](/prerequisites) over the winter break if you are highly motivated. All registrations need to be approved by the instructor in late 2023. Please provide either (1) your code scripts, or (2) a committed learning plan during the winter break, for me to evaluate your preparedness.
 
 <!-- You can [join the learning group](https://uta-css.slack.com) where more learning resources will be shared. -->
 
@@ -37,7 +37,7 @@ These books/sources introduce more technical and hands-on details.
 - [JM] Jurafsky, Daniel, and James H. Martin. 2022. Speech and Language Processing. 3rd draft. https://web.stanford.edu/~jurafsky/slp3/. (the authors generously made their book publicly available, check their website and use the latest version)
 - [NetworkX](https://networkx.org/) (the package's documentation and the references cited are the best place to start in terms of technical details)
 
-## Presentations from previous semesters
+## Presentations and final projects from previous semesters
 
 [2019 fall](https://drive.google.com/drive/folders/1GXDiy4dFq1i00U0qNhTtKM0YJMCOGsvd?usp=sharing)
 
