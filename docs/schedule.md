@@ -14,21 +14,27 @@
 		- philosophical and epistemological fundamentals, research design overview, comparison between CSS and conventional approaches
 		- data management, concept representation, data analysis, and scientific communication
 - [Week 3: Data Management: Background and Purposes](#)
-- [Week 4: Data Management: Methods and practices](#)
+- [Week 4: Data Management: Methods and tools](#)
+	- File and data format: API, JSON, and relational database.
+	- Efficiency and automation.
+	- Diagram tools: draw.io, MySQL Workbench
 - [Week 5: Data Management Exercise: Gathering Literature in Your Field](#)
 - [Week 6: Concept Representation: Background and Purposes](#)
-- [Week 7: Concept Representation: Methods and practices](#)
+- [Week 7: Concept Representation: Methods and tools](#)
 	- (Large) Language Models as concept representation tools
 	- Topic modeling and classification
 - [Week 8: Concept Representation Exercise: Automated Coding](#)
 - [Week 9: Data Analysis: Background and Purposes](#)
-- [Week 10: Data Analysis: Methods and practices](#)
+- [Week 10: Data Analysis: Methods and tools](#)
 	- Network analysis as a representation and analysis method
 	- Process of network analysis
+	- Visualization tool: [Gephi](https://en.wikipedia.org/wiki/Gephi)
 - [Week 11: Data Analysis Exercise: Simulation and Regression](#)
 - [Week 12: Scientific Communication: Background and Purposes](#)
-- [Week 13: Scientific Communication: Methods and practices](#)
-- [Week 14: Scientific Communication Exercise: Data Dashboards](#)
+- [Week 13: Scientific Communication: Methods and tools](#)
+	- Programming language-based tools: [Plotly and Dash for Python](https://plotly.com/), [Shiny for R](https://shiny.posit.co/r/gallery/)
+	- Off-the-shelf tools: Tableau, PowerBI, Excel.
+- [Week 14: Scientific Communication Exercise: Data Dashboard](#)
 
 
 <!-- 
