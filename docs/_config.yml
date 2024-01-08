@@ -26,5 +26,5 @@ navbar:
 #  - name: "Final"
 #    link: "final"
  - name: "Introduction"
-   link: "intro"
+   link: "index"
 theme: jekyll-theme-midnight
