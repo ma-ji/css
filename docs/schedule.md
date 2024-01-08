@@ -1,7 +1,7 @@
 # Course Schedule
 ---
 
-[Reading Materials by Week](https://drive.google.com/drive/folders/1_4rZLjm7a2b6JL9vxT9ozLGkZKH26ji2?usp=sharing)
+[Reading Materials by Week](#)
 
 <!-- - [Week 0 Pre-course](#w0) -->
 
