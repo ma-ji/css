@@ -14,15 +14,29 @@
 		- philosophical and epistemological fundamentals, research design overview, comparison between CSS and conventional approaches
 		- data management, concept representation, data analysis, and scientific communication
 - [Week 3: Data Management: Background and Purposes](#)
-- [Week 4: Data Management Exercise](#)
-- [Week 5: ]
+- [Week 4: Data Management: Methods and practices](#)
+- [Week 5: Data Management Exercise: Gathering Literature in Your Field](#)
+- [Week 6: Concept Representation: Background and Purposes](#)
+- [Week 7: Concept Representation: Methods and practices](#)
+	- (Large) Language Models as concept representation tools
+	- Topic modeling and classification
+- [Week 8: Concept Representation Exercise: Automated Coding](#)
+- [Week 9: Data Analysis: Background and Purposes](#)
+- [Week 10: Data Analysis: Methods and practices](#)
+	- Network analysis as a representation and analysis method
+	- Process of network analysis
+- [Week 11: Data Analysis Exercise: Simulation and Regression](#)
+- [Week 12: Scientific Communication: Background and Purposes](#)
+- [Week 13: Scientific Communication: Methods and practices](#)
+- [Week 14: Scientific Communication Exercise: Data Dashboards](#)
+
 
 <!-- 
 - [Week 3: Efficient algorithm, data management and documentation, automated workflow](#w3)
 	- Key points: algorithm optimization, iteration, automation, workflow, version control
 - Week 4: Data reduction, validation, and robustness (TBD)
  -->
-
+<!-- 
 ### Analyzing computational social science methods (8 + 1 weeks)
 
 Instructor-lead sessions are voted by the class before 1/27 from [these options](/voted_options)
@@ -294,7 +308,9 @@ Work on final project, prepare to finalize the written report for [Assignment 3:
 
 #### After class
 
-Provide feedback to group report.
+Provide feedback to group report. 
+
+-->
 
 
 
