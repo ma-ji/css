@@ -5,7 +5,7 @@
 
 <!-- - [Week 0 Pre-course](#w0) -->
 
-### Computational methods and research design fundamentals (4 weeks)
+**Introduction to the course**
 
 - [Week 1: Course introduction](#w1)
 	- Key points: course structure, syllabus, assignments, and platforms
@@ -13,23 +13,35 @@
 	- Key points: 
 		- philosophical and epistemological fundamentals, research design overview, comparison between CSS and conventional approaches
 		- data management, concept representation, data analysis, and scientific communication
+
+**Data Management**
+
 - [Week 3: Data Management: Background and Purposes](#)
 - [Week 4: Data Management: Methods and tools](#)
 	- File and data format: API, JSON, and relational database.
 	- Efficiency and automation.
 	- Diagram tools: draw.io, MySQL Workbench
 - [Week 5: Data Management Exercise: Gathering Literature in Your Field](#)
+
+**Concept Representation**
+
 - [Week 6: Concept Representation: Background and Purposes](#)
 - [Week 7: Concept Representation: Methods and tools](#)
 	- (Large) Language Models as concept representation tools
 	- Topic modeling and classification
 - [Week 8: Concept Representation Exercise: Automated Coding](#)
+
+**Data Analysis**
+
 - [Week 9: Data Analysis: Background and Purposes](#)
 - [Week 10: Data Analysis: Methods and tools](#)
 	- Network analysis as a representation and analysis method
 	- Process of network analysis
 	- Visualization tool: [Gephi](https://en.wikipedia.org/wiki/Gephi)
 - [Week 11: Data Analysis Exercise: Simulation and Regression](#)
+
+**Scientific Communication**
+
 - [Week 12: Scientific Communication: Background and Purposes](#)
 - [Week 13: Scientific Communication: Methods and tools](#)
 	- Programming language-based tools: [Plotly and Dash for Python](https://plotly.com/), [Shiny for R](https://shiny.posit.co/r/gallery/)
