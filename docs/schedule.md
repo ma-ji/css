@@ -57,35 +57,40 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 ### Final project
 - Week 14: Final project presentations
 
+-->
+
 ---
 # Weekly Details
 
 ---
 ### <a name="w1"> Week 1: Course introduction </a>	[_Back2Top_](#)
 
-#### Before class
-- Readings:
-	- Hofman, Jake M., Duncan J. Watts, Susan Athey, Filiz Garip, Thomas L. Griffiths, Jon Kleinberg, Helen Margetts, et al. 2021. “Integrating Explanation and Prediction in Computational Social Science.” Nature 595 (7866): 181–88. https://doi.org/10.1038/s41586-021-03659-0.
-	- Edelmann, Achim, Tom Wolff, Danielle Montagne, and Christopher A. Bail. 2020. “Computational Social Science and Sociology.” Annual Review of Sociology 46 (1): 61–81. https://doi.org/10.1146/annurev-soc-121919-054621.
-	- Lazer, David M. J., Alex Pentland, Duncan J. Watts, Sinan Aral, Susan Athey, Noshir Contractor, Deen Freelon, et al. 2020. “Computational Social Science: Obstacles and Opportunities.” Science 369 (6507): 1060–62. https://doi.org/10.1126/science.aaz8170.
-
 #### In class
 - Course overview: 
-	- Motivation and history of this course.
-	- Course sites: Syllabus website, Canvas, and how to use them.
+	- Context of this course.
+	- Course sites: Syllabus website, Open Science Framework, Canvas.
 	- Helpful resources: open source communities, [ChatGPT](https://chat.openai.com/) (and how to responsibly use it for educational purposes), etc.
-- Review final project options.
-- Discussion on readings: [Analytical capacity of CSS methods](https://docs.google.com/document/d/1WrhHiB2KpLG3emceGYHvQE8C8DaoBB1ZfKGnH-aF0t4/edit?usp=sharing)
 - Review [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1360223).
 
 #### After class
 - Register Accounts:
 	- [GitHub](https://github.com/) / [Free GitHub Pro (GitHub Education)](https://education.github.com/students)
 	- [Chameleon Cloud](https://www.chameleoncloud.org/)
-- [Review "Getting started with Chameleon Cloud"](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
+- How to use Chameleon Cloud computing resources:
+	- [Review "Getting started with Chameleon Cloud"](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
+	- [How to use Chameleon Cloud: Set up a new instance](https://youtu.be/XZvETQb6YmQ?si=uka_-scjvZdWQk6b)
+	- [How to set up a Jupyter Lab server](https://www.youtube.com/watch?v=80yqneJj97w)
+
+<!-- 
 
 ---
 ### <a name="w2"> Week 2: Computational methods for social sciences: Overview</a>	[_Back2Top_](#)
+
+#### Before class
+- Readings:
+	- Hofman, Jake M., Duncan J. Watts, Susan Athey, Filiz Garip, Thomas L. Griffiths, Jon Kleinberg, Helen Margetts, et al. 2021. “Integrating Explanation and Prediction in Computational Social Science.” Nature 595 (7866): 181–88. https://doi.org/10.1038/s41586-021-03659-0.
+	- Edelmann, Achim, Tom Wolff, Danielle Montagne, and Christopher A. Bail. 2020. “Computational Social Science and Sociology.” Annual Review of Sociology 46 (1): 61–81. https://doi.org/10.1146/annurev-soc-121919-054621.
+	- Lazer, David M. J., Alex Pentland, Duncan J. Watts, Sinan Aral, Susan Athey, Noshir Contractor, Deen Freelon, et al. 2020. “Computational Social Science: Obstacles and Opportunities.” Science 369 (6507): 1060–62. https://doi.org/10.1126/science.aaz8170.
 
 #### Before class
 - Ragin, Charles C., and Lisa M. Amoroso. 2011. “The Goals of Social Research.” In Constructing Social Research: The Unity and Diversity of Method, 135–62. Pine Forge Press.
