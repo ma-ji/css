@@ -8,13 +8,14 @@
 ### Computational methods and research design fundamentals (4 weeks)
 
 - [Week 1: Course introduction](#w1)
-	- Key points: course structure, assignments, syllabus
-- [Week 2: Computational methods for social sciences: Overview](#w2)
-	- Key points: philosophical and epistemological fundamentals, research design overview, comparison between CSS and conventional approaches
-- [Week 3: Analyzing computational methods from a research design perspective](#w3)
-	- Key points: data management, concept representation, data analysis, and scientific communication
-- [Week 4: Field visit: Texas Advanced Computing Center](#w4)
-	- Visit TACC; Discussion on [final project options](/final/)
+	- Key points: course structure, syllabus, assignments, and platforms
+- [Week 2: Computational Social Science: Why Research Design Approach](#w2)
+	- Key points: 
+		- philosophical and epistemological fundamentals, research design overview, comparison between CSS and conventional approaches
+		- data management, concept representation, data analysis, and scientific communication
+- [Week 3: Data Management: Background and Purposes](#)
+- [Week 4: Data Management Exercise](#)
+- [Week 5: ]
 
 <!-- 
 - [Week 3: Efficient algorithm, data management and documentation, automated workflow](#w3)

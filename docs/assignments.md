@@ -4,10 +4,10 @@
 <!-- %%%%%%Open source community / pedagogy as an assignment%%%%%-->
 
 - [Assignment 1: Plagiarism Test (5 points)](#a1)
-- [Assignment 2: Data Management Exercise: Gathering Literature in Your Field (20 points)](https://utexas.instructure.com/courses/1388527/files/?preview=75695657)
-- [Assignment 3: Concept representation practices (20 points)](#)
-- [Assignment 4: Data analysis practices (20 points)](#)
-- [Assignment 5: Scientific communication practices (20 points)](#)
+- [Assignment 2: Gathering Literature in Your Field (20 points)](https://drive.google.com/drive/folders/1W0EVlXzSIf7AdEyzn7qSnJK_zEa5-kni?usp=sharing)
+- [Assignment 3: Automated Coding (20 points)](https://drive.google.com/drive/folders/1W0EVlXzSIf7AdEyzn7qSnJK_zEa5-kni?usp=sharing)
+- [Assignment 4: Simulation and Regression (20 points)](https://drive.google.com/drive/folders/1W0EVlXzSIf7AdEyzn7qSnJK_zEa5-kni?usp=sharing)
+- [Assignment 5: Data Dashboards (20 points)](https://drive.google.com/drive/folders/1W0EVlXzSIf7AdEyzn7qSnJK_zEa5-kni?usp=sharing)
 - [Assignment 6: Presentation of assignments (15 points)](#a6)
 
 Late submissions are not accepted. Check due dates on [Canvas](https://utexas.instructure.com/courses/1360223).
