@@ -19,12 +19,12 @@
 	- File and data format: API, JSON, and relational database.
 	- Efficiency and automation.
 	- Diagram tools: draw.io, MySQL Workbench
-- [Week 4 2/6: Data Management: Background and Purposes](#)
-- [Week 5 2/13: Data Management Exercise: Gathering Literature in Your Field](#)
+- [Week 4 2/6: Data Management: Background and Purposes (mini-presentation)](#)
+- [Week 5 2/13: Data Management Exercise: Gathering Literature in Your Field](#week-5-data-management-exercise-gathering-literature-in-your-field-back2top)
 
 **Concept Representation**
 
-- [Week 6 2/20: Concept Representation: Background and Purposes](#)
+- [Week 6 2/20: Concept Representation: Background and Purposes (mini-presentation)](#)
 - [Week 7 2/27: Concept Representation: Methods and tools](#)
 	- (Large) Language Models as concept representation tools
 	- Topic modeling and classification
@@ -32,7 +32,7 @@
 
 **Data Analysis**
 
-- [Week 9 3/19: Data Analysis: Background and Purposes](#)
+- [Week 9 3/19: Data Analysis: Background and Purposes (mini-presentation)](#)
 - [Week 10 3/26: Data Analysis: Methods and tools](#)
 	- Network analysis as a representation and analysis method
 	- Process of network analysis
@@ -41,7 +41,7 @@
 
 **Scientific Communication**
 
-- [Week 12 4/9: Scientific Communication: Background and Purposes](#)
+- [Week 12 4/9: Scientific Communication: Background and Purposes (mini-presentation)](#)
 - [Week 13 4/16: Scientific Communication: Methods and tools](#)
 	- Programming language-based tools: [Plotly and Dash for Python](https://plotly.com/), [Shiny for R](https://shiny.posit.co/r/gallery/)
 	- Off-the-shelf tools: Tableau, PowerBI, Excel.
@@ -97,16 +97,17 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 	- [Review "Getting started with Chameleon Cloud"](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
 	- [How to use Chameleon Cloud: Set up a new instance](https://youtu.be/XZvETQb6YmQ?si=uka_-scjvZdWQk6b)
 	- [How to set up a Jupyter Lab server](https://youtu.be/80yqneJj97w?si=aA_nZDz49TeDkVp8)
+- Assignment 2 sign up due on upcoming Monday.
 
 
 ---
 ### Week 2: Computational Social Science: Why Research Design Approach	[_Back2Top_](#)
 
 #### Before class
-- Required readings: 
+- Required readings:
+	- CSSPrimer: Chapter 1 and 2.
 
 #### In class
-- Review upcoming assignments.
 - Discussion and lecture on readings.
 - Hands-on: High-performance cloud computing with [Chameleon](https://www.chameleoncloud.org/)
 	- Start an instance on [Chameleon Cloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
@@ -127,7 +128,30 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 
 
 #### After class
-- [<span style="color:red">**Assignment 1 due this Friday**</span>](/assignments/#a1)
+
+- Assignment 1 due on upcoming Monday.
+
+
+---
+### Week 5: Data Management Exercise: Gathering Literature in Your Field	[_Back2Top_](#)
+
+#### Before class
+
+- Complete your exercise and submit to OSF.
+
+#### In class
+
+- Presentation of assignments.
+- Review peer assignments and provide feedback.
+- Preview next exercise.
+
+
+#### After class
+
+- Revise assignments according to feedback.
+- Research design analysis:
+	- Prepare mini-presentation for upcoming week.
+	- Write annotated bibliography for upcoming week.
 
 
 <!-- 

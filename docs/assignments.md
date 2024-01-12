@@ -4,7 +4,7 @@
 <!-- %%%%%%Open source community / pedagogy as an assignment%%%%%-->
 
 - [Assignment 1: Plagiarism Test (5 points)](#assignment-1-plagiarisms-test)
-- [Assignment 2: Student-lead presentation and annotated bibliography (15 points)](#assignment-2-student-lead-presentation-and-annotated-bibliography)
+- [Assignment 2: Mini-presentation and annotated bibliography (15 points)](#assignment-2-mini-presentation-and-annotated-bibliography)
 - [Assignment 3: Gathering Literature in Your Field (15 points)](https://utexas.box.com/s/db176nbiayueewyyglsp40dt649alr0j)
 - [Assignment 4: Automated Coding (20 points)](https://utexas.box.com/s/db176nbiayueewyyglsp40dt649alr0j)
 - [Assignment 5: Simulation and Regression (20 points)](https://utexas.box.com/s/db176nbiayueewyyglsp40dt649alr0j)
@@ -26,7 +26,7 @@ You do not need to take this test if you have a comparable certification or you 
 For this assignment, please submit your certificate as a file on Canvas.
 
 ---
-### Assignment 2: Student-lead presentation and annotated bibliography
+### Assignment 2: Mini-presentation and annotated bibliography
 
 **(1) Student-lead presentation**
 
