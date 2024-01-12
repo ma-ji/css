@@ -1,6 +1,8 @@
 # Course Schedule
 ---
 
+![Learning Cycle](/assets/learnin_cycle.png)
+
 [Reading Materials by Week](#)
 
 <!-- - [Week 0 Pre-course](#w0) -->
