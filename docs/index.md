@@ -20,7 +20,11 @@ This course is academic and research oriented, it introduces and contextualizes 
 
 **Required readings:**
 
-This class will use a draft book manuscript I'm currently working on, complemented with readings from various other sources. Details are on the [schedule page](/schedule.md).
+This class will use a draft book manuscript I'm currently working on:
+
+- [CSSPrimer] "Computational Social Science Methods: A Research Design Primer"
+
+Additionally, each week is complemented with readings from various other sources. See details on [Schedule page](/schedule.md).
 
 **Recommended readings:**
 
