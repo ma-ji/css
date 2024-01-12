@@ -167,11 +167,13 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 
 #### In class
 
-- Group presentation 
+- Group presentation.
+- Prepare Assignment 3: Gathering Literature in Your Field.
 
 
 #### After class
 
+- Assignment 3: Gathering Literature in Your Field due upcoming Monday.
 
 
 ---
