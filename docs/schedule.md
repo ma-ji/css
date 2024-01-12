@@ -96,9 +96,8 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 - How to use Chameleon Cloud computing resources:
 	- [Review "Getting started with Chameleon Cloud"](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
 	- [How to use Chameleon Cloud: Set up a new instance](https://youtu.be/XZvETQb6YmQ?si=uka_-scjvZdWQk6b)
-	- [How to set up a Jupyter Lab server](https://www.youtube.com/watch?v=80yqneJj97w)
+	- [How to set up a Jupyter Lab server](https://youtu.be/80yqneJj97w?si=aA_nZDz49TeDkVp8)
 
-<!-- 
 
 ---
 ### <a name="w2"> Week 2: Computational methods for social sciences: Overview</a>	[_Back2Top_](#)
@@ -137,6 +136,8 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 #### After class
 - [<span style="color:red">**Assignment 1 due this Friday**</span>](/assignments/#a1)
 
+
+<!-- 
 
 ---
 ### <a name="w3"> Week 3: Analyzing computational methods from a research design perspective </a>	[_Back2Top_](#)

@@ -16,7 +16,13 @@ This course is academic and research oriented, it introduces and contextualizes 
 <!-- You can [join the learning group](https://uta-css.slack.com) where more learning resources will be shared. -->
 
 ---
-# _Recommended_ (not required) textbooks / e-books
+# _Reading materials / e-books
+
+**Required readings:**
+
+This class will use a draft book manuscript I'm currently working on, complemented with readings from various other sources. Details are on the [schedule page](/schedule.md).
+
+**Recommended readings:**
 
 These books give you a good theoretical understanding and are very useful in research design.
 
@@ -29,11 +35,13 @@ These books/sources introduce more technical and hands-on details.
 - [JM] Jurafsky, Daniel, and James H. Martin. 2022. Speech and Language Processing. 3rd draft. https://web.stanford.edu/~jurafsky/slp3/. (the authors generously made their book publicly available, check their website and use the latest version)
 - [NetworkX](https://networkx.org/) (the package's documentation and the references cited are the best place to start in terms of technical details)
 
+
 ---
 # Presentations and final projects from previous semesters
 
-- [2019 fall](https://drive.google.com/drive/folders/1GXDiy4dFq1i00U0qNhTtKM0YJMCOGsvd?usp=sharing)
 - [2023 spring: students' final projects](https://drive.google.com/drive/folders/1btblaU0LWRQTYOQ_TP_fGVyYr6uEEPwJ?usp=sharing)
+- [2019 fall](https://drive.google.com/drive/folders/1GXDiy4dFq1i00U0qNhTtKM0YJMCOGsvd?usp=sharing)
+
 
 ---
 # Grading
@@ -52,7 +60,8 @@ These books/sources introduce more technical and hands-on details.
 - Mental health: The instructor urge students who are struggling for any reason and who believe that it might impact their performance in the course to reach out if they feel comfortable. This will allow the instructor to provide any possible resources or accommodations. If immediate mental health assistance is needed, call the Counseling and Mental Health Center (CMHC) at 512-471-3515. You may also contact Bryce Moffett, LCSW (LBJ CARE counselor) at 512-232-4449 or stop by her office hours-Wednesday 1-2 pm SRH 3.119. Outside CMHC business hours (8a.m.-5p.m., Monday-Friday), contact the CMHC 24/7 Crisis Line at 512-471-2255.
 - [University Policies](https://amgps.jima.me/policies/)
 - By taking this course (either for credit or auditing), you automatically authorize the instructor to use or cite the contents created by you for this course in the instructor's working book project. Appropriate academic principles of attribution and integrity will be followed.
-- License for Open Education: This syllabus and all course content on this website created by the instructor, TA, and students are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+- **License for Open Education:** This syllabus and all course content on this public website created by the instructor, TA, and students are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+- **License of assignments:** For the assignment examples submitted by creators to OSF, the creators of submissions are the owners of their submissions. The owners grant [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/) to their submissions.
 
 
 ---
