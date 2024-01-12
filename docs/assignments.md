@@ -58,8 +58,8 @@ For the rest of the class who are not presenting, should complete a one-page ann
 
 
 ---
-### Assignment 6: Participation
+### Assignment 7: Participation
 
-There are some small writing or review exercises helping you keep up with the course content. You are also expected to present your Assignments 3--6 in class (no need to prepare slides). These are counted as participation. Details of these small exercises are listed in the schedule of each week.
+You are expected to present your Assignments 3--6 in class (no need to prepare slides). There may be small writing or review exercises helping you keep up with the course content. These are counted as participation. Details of these small exercises are listed in the schedule of each week.
 
 *No submission is required for this assignment.*
