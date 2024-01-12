@@ -5,10 +5,10 @@
 
 - [Assignment 1: Plagiarism Test (5 points)](#assignment-1-plagiarisms-test)
 - [Assignment 2: Mini-presentation and annotated bibliography (15 points)](#assignment-2-mini-presentation-and-annotated-bibliography)
-- [Assignment 3: Gathering Literature in Your Field (15 points)](https://utexas.box.com/s/db176nbiayueewyyglsp40dt649alr0j)
-- [Assignment 4: Automated Coding (20 points)](https://utexas.box.com/s/db176nbiayueewyyglsp40dt649alr0j)
-- [Assignment 5: Simulation and Regression (20 points)](https://utexas.box.com/s/db176nbiayueewyyglsp40dt649alr0j)
-- [Assignment 6: Data Dashboards (15 points)](https://utexas.box.com/s/db176nbiayueewyyglsp40dt649alr0j)
+- [Assignment 3: Gathering Literature in Your Field (15 points)](https://osf.io/rbtw8/)
+- [Assignment 4: Automated Coding (20 points)](https://osf.io/5qk6s/)
+- [Assignment 5: Simulation and Regression (20 points)](https://osf.io/ycj26/)
+- [Assignment 6: Data Dashboards (15 points)](https://osf.io/cu7r3/)
 - [Assignment 7: Participation and in-class assignments (10 points)](#assignment-6-participation)
 
 Late submissions are not accepted. Check due dates on [Canvas](https://utexas.instructure.com/courses/1388527/assignments).
