@@ -6,17 +6,10 @@
 - Office hour: TBD.
 
 ---
-This course is academic and research oriented, it introduces and contextualizes computational methods from a social science research design perspective. The first part of this course (w1--w3) gives you an overview of this course, how to use [high-performance cloud computing resources](https://www.tacc.utexas.edu/systems/chameleon), and how to analyze computational methods from a research design perspective. The second part (w4--w13) will analyze different computational methods according to their roles in social science research. Students will present their [final research project](/final) in the last week. Bilingual or multilingual language ability is a plus. Programming is an essential part of this course but not the purpose and will not be taught. We will be coding for social good.
+This course is academic and research oriented, it introduces and contextualizes computational methods from a social science research design perspective. The first part of this course (w1--w2) gives you an overview of this course and how to analyze computational methods from a research design perspective, namely data management, concept representation, data analysis, and scientific communication. The second part (w3--w14) will analyze and practice different computational methods according to their roles in social science research. Bilingual or multilingual language ability is a plus. Programming is an essential part of this course but not the purpose and will not be taught. We will be coding for social science purposes.
 
 ---
-# [Prerequisites](/prerequisites)
-
-**The course has demanding [prerequisites](/prerequisites)**; therefore, you probably need to work on the [prerequisites](/prerequisites) over the winter break if you are highly motivated. All registrations need to be approved by the instructor in late 2023. Please provide either (1) your code scripts, or (2) a committed learning plan during the winter break, to me to evaluate your preparedness.
-
-<!-- You can [join the learning group](https://uta-css.slack.com) where more learning resources will be shared. -->
-
----
-# _Reading materials / e-books
+# Reading materials / e-books
 
 **Required readings:**
 
@@ -73,6 +66,18 @@ These books/sources introduce more technical and hands-on details.
 
 - 2022: The course is partly supported by the [Teaching Innovation Grants 2022-23](https://ctl.utexas.edu/grants-fellowships/teaching-innovation-grants-2022-2023) from the [Center for Teaching and Learning](https://ctl.utexas.edu/).
 - 2019: The special events were supported by UT Austin Graduate School's [Academic Enrichment Fund](https://gradschool.utexas.edu/finances/academic-enrichment) and [RGK Center Special Funds for Data Science Speaker Series](https://rgkcenter.org/) at the [LBJ School of Public Affairs](https://lbj.utexas.edu/). Co-sponsors also include [Center for East Asian Studies](https://liberalarts.utexas.edu/asianstudies/), [UT Library Research Data Services](https://www.lib.utexas.edu/research-help-support/research-data-services). The computing resource for the one-day data hackathon was supported by the [XSEDE Educational Resources](https://portal.xsede.org/allocations/education). 
+
+
+<!-- 
+---
+# [Prerequisites](/prerequisites)
+
+**The course has demanding [prerequisites](/prerequisites)**; therefore, you probably need to work on the [prerequisites](/prerequisites) over the winter break if you are highly motivated. All registrations need to be approved by the instructor in late 2023. Please provide either (1) your code scripts, or (2) a committed learning plan during the winter break, to me to evaluate your preparedness. 
+
+-->
+
+<!-- You can [join the learning group](https://uta-css.slack.com) where more learning resources will be shared. -->
+
 
 <!-- ---
 # Class profile
