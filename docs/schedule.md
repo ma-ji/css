@@ -10,7 +10,7 @@
 - [Week 1 1/16: Course introduction](#week-1-course-introduction-back2top)
 	- Key points: course structure, syllabus, assignments, and platforms
 - [Week 2 1/23: Computational Social Science: Why Research Design Approach](#w2)
-	- Key points: 
+	- Key points:
 		- philosophical and epistemological fundamentals, research design overview, comparison between CSS and conventional approaches
 		- data management, concept representation, data analysis, and scientific communication
 
@@ -19,12 +19,12 @@
 	- File and data format: API, JSON, and relational database.
 	- Efficiency and automation.
 	- Diagram tools: draw.io, MySQL Workbench
-- [Week 4 2/6: Data Management: Background and Purposes (mini-presentation)](#)
+- [Week 4 2/6: Data Management: Background and Purposes (group presentation)](#)
 - [Week 5 2/13: Data Management Exercise: Gathering Literature in Your Field](#week-5-data-management-exercise-gathering-literature-in-your-field-back2top)
 
 **Concept Representation**
 
-- [Week 6 2/20: Concept Representation: Background and Purposes (mini-presentation)](#)
+- [Week 6 2/20: Concept Representation: Background and Purposes (group presentation)](#)
 - [Week 7 2/27: Concept Representation: Methods and tools](#)
 	- (Large) Language Models as concept representation tools
 	- Topic modeling and classification
@@ -32,7 +32,7 @@
 
 **Data Analysis**
 
-- [Week 9 3/19: Data Analysis: Background and Purposes (mini-presentation)](#)
+- [Week 9 3/19: Data Analysis: Background and Purposes (group presentation)](#)
 - [Week 10 3/26: Data Analysis: Methods and tools](#)
 	- Network analysis as a representation and analysis method
 	- Process of network analysis
@@ -41,7 +41,7 @@
 
 **Scientific Communication**
 
-- [Week 12 4/9: Scientific Communication: Background and Purposes (mini-presentation)](#)
+- [Week 12 4/9: Scientific Communication: Background and Purposes (group presentation)](#)
 - [Week 13 4/16: Scientific Communication: Methods and tools](#)
 	- Programming language-based tools: [Plotly and Dash for Python](https://plotly.com/), [Shiny for R](https://shiny.posit.co/r/gallery/)
 	- Off-the-shelf tools: Tableau, PowerBI, Excel.
@@ -83,14 +83,16 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 ### Week 1: Course introduction	[_Back2Top_](#)
 
 #### In class
-- Course overview: 
+- Course overview:
 	- Context of this course.
 	- Course sites: Syllabus website, Open Science Framework, Canvas.
 	- Helpful resources: open source communities, [ChatGPT](https://chat.openai.com/) (and how to responsibly use it for educational purposes), etc.
 - Review [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1360223).
 
 #### After class
+- Complete readings for the upcoming week.
 - Register Accounts:
+	- [Open Science Framework](https://osf.io/)
 	- [GitHub](https://github.com/) / [Free GitHub Pro (GitHub Education)](https://education.github.com/students)
 	- [Chameleon Cloud](https://www.chameleoncloud.org/)
 - How to use Chameleon Cloud computing resources:
@@ -109,11 +111,14 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 
 #### In class
 - Discussion and lecture on readings.
-- Hands-on: High-performance cloud computing with [Chameleon](https://www.chameleoncloud.org/)
+- In-class review and prepare:
+	- Group presentations.
+	- Empirical studies for analysis.
+
+If time allows: High-performance cloud computing with [Chameleon](https://www.chameleoncloud.org/)
 	- Start an instance on [Chameleon Cloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
 	- Install [Anaconda Python](https://www.anaconda.com/distribution/) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
 	- Snapshot the instance [as an image](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html).
-- Discussion on final project options.
 
 #### Video recording
 
@@ -126,10 +131,47 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/80yqneJj97w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-
 #### After class
 
 - Assignment 1 due on upcoming Monday.
+
+
+---
+### Week 3: Data Management: Methods and tools	[_Back2Top_](#)
+
+#### Before class
+
+- Review Assignment 3: Gathering Literature in Your Field
+
+#### In class
+
+- Tools review:
+	- OpenAlex
+	- Draw.io
+	- MySQL Workbench
+
+- Prepare Assignment 3: Gathering Literature in Your Field
+
+
+#### After class
+
+- Group presentation slides and annotated bibliography due upcoming Monday.
+
+---
+### Week 4: Data Management: Background and Purposes (group presentation)	[_Back2Top_](#)
+
+#### Before class
+
+- Required readings:
+	- TBD
+
+#### In class
+
+- Group presentation 
+
+
+#### After class
+
 
 
 ---
@@ -150,7 +192,7 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 
 - Revise assignments according to feedback.
 - Research design analysis:
-	- Prepare mini-presentation for upcoming week.
+	- Prepare group presentation for upcoming week.
 	- Write annotated bibliography for upcoming week.
 
 

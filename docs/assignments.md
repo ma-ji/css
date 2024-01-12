@@ -4,7 +4,7 @@
 <!-- %%%%%%Open source community / pedagogy as an assignment%%%%%-->
 
 - [Assignment 1: Plagiarism Test (5 points)](#assignment-1-plagiarisms-test)
-- [Assignment 2: Mini-presentation and annotated bibliography (15 points)](#assignment-2-mini-presentation-and-annotated-bibliography)
+- [Assignment 2: Group presentation and annotated bibliography (15 points)](#assignment-2-group-presentation-and-annotated-bibliography)
 - [Assignment 3: Gathering Literature in Your Field (15 points)](https://osf.io/rbtw8/)
 - [Assignment 4: Automated Coding (20 points)](https://osf.io/5qk6s/)
 - [Assignment 5: Simulation and Regression (20 points)](https://osf.io/ycj26/)
@@ -26,9 +26,9 @@ You do not need to take this test if you have a comparable certification or you 
 For this assignment, please submit your certificate as a file on Canvas.
 
 ---
-### Assignment 2: Mini-presentation and annotated bibliography
+### Assignment 2: Group presentation and annotated bibliography
 
-**(1) Student-lead presentation**
+**(1) Group presentation**
 
 [Sign up your presentation here.](https://docs.google.com/spreadsheets/d/1ngb_aBqId8TnN_y29523kRMOE671q_HPOz9d5H91mvE/edit#gid=1658895974)
 
