@@ -30,7 +30,7 @@ For this assignment, please submit your certificate as a file on Canvas.
 
 **(1) Student-lead presentation**
 
-[Sign up your presentation here.](https://docs.google.com/spreadsheets/d/1ngb_aBqId8TnN_y29523kRMOE671q_HPOz9d5H91mvE/edit?usp=sharing)
+[Sign up your presentation here.](https://docs.google.com/spreadsheets/d/1ngb_aBqId8TnN_y29523kRMOE671q_HPOz9d5H91mvE/edit#gid=1658895974)
 
 Students will lead four short presentations on each of the research design themes: data management, concept representation, data analysis, and scientific communication.
 
