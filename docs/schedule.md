@@ -7,46 +7,45 @@
 
 **Introduction to the course**
 
-- [Week 1: Course introduction](#w1)
+- [Week 1 1/16: Course introduction](#week-1-course-introduction-back2top)
 	- Key points: course structure, syllabus, assignments, and platforms
-- [Week 2: Computational Social Science: Why Research Design Approach](#w2)
+- [Week 2 1/23: Computational Social Science: Why Research Design Approach](#w2)
 	- Key points: 
 		- philosophical and epistemological fundamentals, research design overview, comparison between CSS and conventional approaches
 		- data management, concept representation, data analysis, and scientific communication
 
 **Data Management**
-
-- [Week 3: Data Management: Background and Purposes](#)
-- [Week 4: Data Management: Methods and tools](#)
+- [Week 3 1/30: Data Management: Methods and tools](#)
 	- File and data format: API, JSON, and relational database.
 	- Efficiency and automation.
 	- Diagram tools: draw.io, MySQL Workbench
-- [Week 5: Data Management Exercise: Gathering Literature in Your Field](#)
+- [Week 4 2/6: Data Management: Background and Purposes](#)
+- [Week 5 2/13: Data Management Exercise: Gathering Literature in Your Field](#)
 
 **Concept Representation**
 
-- [Week 6: Concept Representation: Background and Purposes](#)
-- [Week 7: Concept Representation: Methods and tools](#)
+- [Week 6 2/20: Concept Representation: Background and Purposes](#)
+- [Week 7 2/27: Concept Representation: Methods and tools](#)
 	- (Large) Language Models as concept representation tools
 	- Topic modeling and classification
-- [Week 8: Concept Representation Exercise: Automated Coding](#)
+- [Week 8 3/5: Concept Representation Exercise: Automated Coding](#)
 
 **Data Analysis**
 
-- [Week 9: Data Analysis: Background and Purposes](#)
-- [Week 10: Data Analysis: Methods and tools](#)
+- [Week 9 3/19: Data Analysis: Background and Purposes](#)
+- [Week 10 3/26: Data Analysis: Methods and tools](#)
 	- Network analysis as a representation and analysis method
 	- Process of network analysis
 	- Visualization tool: [Gephi](https://en.wikipedia.org/wiki/Gephi)
-- [Week 11: Data Analysis Exercise: Simulation and Regression](#)
+- [Week 11 4/2: Data Analysis Exercise: Simulation and Regression](#)
 
 **Scientific Communication**
 
-- [Week 12: Scientific Communication: Background and Purposes](#)
-- [Week 13: Scientific Communication: Methods and tools](#)
+- [Week 12 4/9: Scientific Communication: Background and Purposes](#)
+- [Week 13 4/16: Scientific Communication: Methods and tools](#)
 	- Programming language-based tools: [Plotly and Dash for Python](https://plotly.com/), [Shiny for R](https://shiny.posit.co/r/gallery/)
 	- Off-the-shelf tools: Tableau, PowerBI, Excel.
-- [Week 14: Scientific Communication Exercise: Data Dashboard](#)
+- [Week 14 4/23: Scientific Communication Exercise: Data Dashboard](#)
 
 
 <!-- 
@@ -81,7 +80,7 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 # Weekly Details
 
 ---
-### <a name="w1"> Week 1: Course introduction </a>	[_Back2Top_](#)
+### Week 1: Course introduction	[_Back2Top_](#)
 
 #### In class
 - Course overview: 
