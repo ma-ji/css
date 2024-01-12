@@ -2,7 +2,7 @@
 
 
 - Instructor: [Ji Ma](https://jima.me) (maji@austin.utexas.edu)
-- Time and location: 2024 Fall, Tuesday 9:00AM-12:00PM, SRH 3.314.
+- Time and location: Spring 2024, Tuesday 9:00AM-12:00PM, SRH 3.314.
 - Office hour: TBD.
 
 ---
