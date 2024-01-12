@@ -8,17 +8,10 @@
 **Introduction to the course**
 
 - [Week 1 1/16: Course introduction](#week-1-course-introduction-back2top)
-	- Key points: course structure, syllabus, assignments, and platforms
 - [Week 2 1/23: Computational Social Science: Why Research Design Approach](#w2)
-	- Key points:
-		- philosophical and epistemological fundamentals, research design overview, comparison between CSS and conventional approaches
-		- data management, concept representation, data analysis, and scientific communication
 
 **Data Management**
 - [Week 3 1/30: Data Management: Methods and tools](#)
-	- File and data format: API, JSON, and relational database.
-	- Efficiency and automation.
-	- Diagram tools: draw.io, MySQL Workbench
 - [Week 4 2/6: Data Management: Background and Purposes (group presentation)](#)
 - [Week 5 2/13: Data Management Exercise: Gathering Literature in Your Field](#week-5-data-management-exercise-gathering-literature-in-your-field-back2top)
 
@@ -110,7 +103,9 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 	- CSSPrimer: Chapter 1 and 2.
 
 #### In class
-- Discussion and lecture on readings.
+- Discussion and lecture on readings. Key points:
+	- Philosophical and epistemological fundamentals, research design overview, comparison between CSS and conventional approaches
+	- Data management, concept representation, data analysis, and scientific communication
 - In-class review and prepare:
 	- Group presentations.
 	- Empirical studies for analysis.
@@ -145,13 +140,14 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 
 #### In class
 
+- File and data format: API, JSON, and relational database.
+- Efficiency and automation.
 - Tools review:
 	- OpenAlex
 	- Draw.io
 	- MySQL Workbench
 
 - Prepare Assignment 3: Gathering Literature in Your Field
-
 
 #### After class
 
@@ -168,6 +164,7 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 #### In class
 
 - Group presentation.
+- Group discussion on annotated bibliography.
 - Prepare Assignment 3: Gathering Literature in Your Field.
 
 
@@ -181,21 +178,20 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 
 #### Before class
 
-- Complete your exercise and submit to OSF.
+- Complete the Assignment and submit to OSF.
 
 #### In class
 
-- Presentation of assignments.
+- Presentation and discussion of Assignment.
 - Review peer assignments and provide feedback.
 - Preview next exercise.
-
 
 #### After class
 
 - Revise assignments according to feedback.
 - Research design analysis:
-	- Prepare group presentation for upcoming week.
-	- Write annotated bibliography for upcoming week.
+	- Prepare group presentation for next session.
+	- Write annotated bibliography for next session.
 
 
 <!-- 
