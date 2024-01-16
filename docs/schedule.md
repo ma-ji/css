@@ -80,20 +80,20 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 #### In class
 - Course overview:
 	- Context of this course.
-	- Course sites: Syllabus website, Open Science Framework, Canvas.
-	- Helpful resources: open source communities, [ChatGPT](https://chat.openai.com/) (and how to responsibly use it for educational purposes), etc.
-- Review [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1360223).
+	- Course sites: Syllabus website, [Open Science Framework](https://osf.io/mvj7u/), Canvas.
+- Helpful resources:
+	- Open source communities (e.g., Stack Overflow)
+	- [ChatGPT](https://chat.openai.com/). Discussion: How to effectively and responsibly use it? Your best practices.
+	- [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1360223). Discussion: Pick 2 studies of your interests, discuss with neighbors.
 
 #### After class
 - Complete readings for the upcoming week.
-- Register Accounts:
+- Register accounts:
 	- [Open Science Framework](https://osf.io/)
-	- [GitHub](https://github.com/) / [Free GitHub Pro (GitHub Education)](https://education.github.com/students)
+	- [GitHub](https://github.com/) / [Free GitHub Pro (GitHub Education)](https://education.github.com/)
 	- [Chameleon Cloud](https://www.chameleoncloud.org/)
 - How to use Chameleon Cloud computing resources:
 	- [Review "Getting started with Chameleon Cloud"](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
-	- [How to use Chameleon Cloud: Set up a new instance](https://youtu.be/XZvETQb6YmQ?si=uka_-scjvZdWQk6b)
-	- [How to set up a Jupyter Lab server](https://youtu.be/80yqneJj97w?si=aA_nZDz49TeDkVp8)
 - Assignment 2 sign up due on upcoming Monday.
 
 
@@ -113,17 +113,15 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 	- Empirical studies for analysis.
 
 If time allows: High-performance cloud computing with [Chameleon](https://www.chameleoncloud.org/)
-	- Start an instance on [Chameleon Cloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
-	- Install [Anaconda Python](https://www.anaconda.com/distribution/) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
-	- Snapshot the instance [as an image](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html).
-
-#### Video recording
-
-- How to use Chameleon Cloud: Set up a new instance
+- Start an instance on [Chameleon Cloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
+- Install [Anaconda Python](https://www.anaconda.com/distribution/) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
+- Snapshot the instance [as an image](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html).
+- You can also watch the video recordings below: 
+	- How to use Chameleon Cloud: Set up a new instance
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XZvETQb6YmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- How to set up a Jupyter Lab server
+	- How to set up a Jupyter Lab server
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/80yqneJj97w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -131,6 +129,7 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 #### After class
 
 - Assignment 1 due on upcoming Monday.
+- Review tools and platforms for upcoming week, prepare to discuss how you plan to use them.
 
 
 ---
