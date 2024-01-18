@@ -3,18 +3,18 @@
 
 ![Learning Cycle](/assets/learnin_cycle.png)
 
-[Reading Materials by Week](#)
+[Reading Materials by Week](https://drive.google.com/drive/folders/1eziwxSu0agJfYjAcPu5VsNh5QxRFAFLj?usp=sharing)
 
 <!-- - [Week 0 Pre-course](#w0) -->
 
 **Introduction to the course**
 
 - [Week 1 1/16: Course introduction](#week-1-course-introduction-back2top)
-- [Week 2 1/23: Computational Social Science: Why Research Design Approach](#w2)
+- [Week 2 1/23: Computational Social Science: Why Research Design Approach](#week-2-computational-social-science-why-research-design-approach-back2top)
 
 **Data Management**
-- [Week 3 1/30: Data Management: Methods and tools](#)
-- [Week 4 2/6: Data Management: Background and Purposes (group presentation)](#)
+- [Week 3 1/30: Data Management: Methods and tools](#week-3-data-management-methods-and-tools-back2top)
+- [Week 4 2/6: Data Management: Background and Purposes (group presentation)](#week-4-data-management-background-and-purposes-group-presentation-back2top)
 - [Week 5 2/13: Data Management Exercise: Gathering Literature in Your Field](#week-5-data-management-exercise-gathering-literature-in-your-field-back2top)
 
 **Concept Representation**
@@ -159,8 +159,12 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 
 #### Before class
 
-- Required readings:
-	- TBD
+- [Required readings](https://drive.google.com/drive/folders/1eziwxSu0agJfYjAcPu5VsNh5QxRFAFLj?usp=sharing)
+	- Leonelli, Sabina. “Scientific Research and Big Data.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Summer 2020. Metaphysics Research Lab, Stanford University, 2020. https://plato.stanford.edu/archives/sum2020/entries/science-big-data/.
+	- Wickham, Hadley. “Tidy Data.” The Journal of Statistical Software 59, no. 10 (2014). http://www.jstatsoft.org/v59/i10/.
+	- Goble, Carole, and David De Roure. “The Impact of Workflow Tools on Data-Centric Research.” In The Fourth Paradigm: Data-Intensive Scientific Discovery, edited by Tony Hey, Stewart Tansley, Kristin Tolle, and Jim Gray. Microsoft Research, 2009. https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-discovery/.
+	- Fidler, Fiona, and John Wilcox. “Reproducibility of Scientific Results.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Summer 2021. Metaphysics Research Lab, Stanford University, 2021. https://plato.stanford.edu/archives/sum2021/entries/scientific-reproducibility/.
+
 
 #### In class
 
