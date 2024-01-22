@@ -3,7 +3,7 @@
 
 - Instructor: [Ji Ma](https://jima.me) (maji@austin.utexas.edu)
 - Time and location: Spring 2024, Tuesday 9:00AM-12:00PM, SRH 3.314.
-- Office hour: [Tuesday 2:40pm-4:40pm](https://calendly.com/maji/20min).
+- Office hour: [Tuesday 2--4pm](https://calendly.com/maji/20min).
 
 ---
 This course is academic and research oriented, it introduces and contextualizes computational methods from a social science research design perspective. The first part of this course (w1--w2) gives you an overview of this course and how to analyze computational methods from a research design perspective, namely data management, concept representation, data analysis, and scientific communication. The second part (w3--w14) will analyze and practice different computational methods according to their roles in social science research. Bilingual or multilingual language ability is a plus. Programming is an essential part of this course but not the purpose and will not be taught. We will be coding for social science purposes.
