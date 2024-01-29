@@ -55,6 +55,7 @@ The presentation should respond to the following points:
 For the rest of the class who are not presenting, should complete a one-page annotated bibliography analyzing two empirical studies of your choice from the CSS Empirical Studies Database. The structure and purpose generally follow those of the presentation, with the expectation that the presentation and annotated bibliography may resonate with each other.
 
 *For this assignment, send your annotated bibliography to the presentation group.*
+*Submission status will be recorded by the presentation group.*
 
 
 ---
