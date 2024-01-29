@@ -152,7 +152,7 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 
 #### After class
 
-- Group presentation slides and annotated bibliography due upcoming Monday.
+- Group presentation slides and annotated bibliography on *data management* due upcoming Monday.
 
 ---
 ### Week 4: Data Management: Background and Purposes (group presentation)	[_Back2Top_](#)
@@ -176,6 +176,7 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 #### After class
 
 - Assignment 3: Gathering Literature in Your Field due upcoming Monday.
+- Group presentation slides and annotated bibliography on *concept representation* due in two weeks.
 
 
 ---
@@ -194,10 +195,13 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 #### After class
 
 - Revise assignments according to feedback.
-- Research design analysis:
-	- Prepare group presentation for next session.
-	- Write annotated bibliography for next session.
+- Group presentation slides and annotated bibliography on *concept representation* due in upcoming Monday.
+	- Read required readings.
+	- Prepare group presentation.
+	- Write annotated bibliography.
 
+
+---
 ### Week 6: Concept Representation: Background and Purposes (group presentation)	[_Back2Top_](#)
 
 #### Before class
@@ -211,13 +215,31 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 
 - Student-lead group presentation and instructor lecture.
 - Discussion on annotated bibliography.
-- Prepare Assignment 4: Automated Coding.
+- Prepare Assignment 4: Automated Coding, due in two weeks.
 
 
 #### After class
 
 
+---
+### Week 7: Concept Representation: Methods and tools	[_Back2Top_](#)
 
+#### Before class
+
+- Review Assignment 4: Automated Coding
+
+#### In class
+
+- Tools and methods introduction.
+- Prepare Assignment 4: Automated Coding
+
+#### After class
+
+- Group presentation slides and annotated bibliography on *Data Analysis* due in two weeks.
+- Complete Assignment 4: Automated Coding, due upcoming Monday.
+
+
+---
 ### Week 9: Data Analysis: Background and Purposes (group presentation)	[_Back2Top_](#)
 
 #### Before class
