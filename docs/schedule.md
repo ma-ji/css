@@ -19,7 +19,7 @@
 
 **Concept Representation**
 
-- [Week 6 2/20: Concept Representation: Background and Purposes (group presentation)](#)
+- [Week 6 2/20: Concept Representation: Background and Purposes (group presentation)](#week-6-concept-representation-background-and-purposes-group-presentation-back2top)
 - [Week 7 2/27: Concept Representation: Methods and tools](#)
 	- (Large) Language Models as concept representation tools
 	- Topic modeling and classification
@@ -27,7 +27,7 @@
 
 **Data Analysis**
 
-- [Week 9 3/19: Data Analysis: Background and Purposes (group presentation)](#)
+- [Week 9 3/19: Data Analysis: Background and Purposes (group presentation)](#week-9-data-analysis-background-and-purposes-group-presentation-back2top)
 - [Week 10 3/26: Data Analysis: Methods and tools](#)
 	- Network analysis as a representation and analysis method
 	- Process of network analysis
@@ -212,6 +212,25 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 - Student-lead group presentation and instructor lecture.
 - Discussion on annotated bibliography.
 - Prepare Assignment 4: Automated Coding.
+
+
+#### After class
+
+
+
+### Week 9: Data Analysis: Background and Purposes (group presentation)	[_Back2Top_](#)
+
+#### Before class
+
+- [Required readings](https://drive.google.com/drive/folders/1eziwxSu0agJfYjAcPu5VsNh5QxRFAFLj?usp=sharing)
+	- Hofman, Jake M., Duncan J. Watts, Susan Athey, Filiz Garip, Thomas L. Griffiths, Jon Kleinberg, Helen Margetts, et al. “Integrating Explanation and Prediction in Computational Social Science.” Nature 595, no. 7866 (July 2021): 181–88. https://doi.org/10.1038/s41586-021-03659-0.
+	- Ludwig, Jens, and Sendhil Mullainathan. “Machine Learning as a Tool for Hypothesis Generation.” Working Paper. Working Paper Series. National Bureau of Economic Research, March 2023. https://doi.org/10.3386/w31017.
+
+#### In class
+
+- Student-lead group presentation and instructor lecture.
+- Discussion on annotated bibliography.
+- Prepare Assignment 5: Simulation and Regression.
 
 
 #### After class
