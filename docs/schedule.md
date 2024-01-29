@@ -20,10 +20,8 @@
 **Concept Representation**
 
 - [Week 6 2/20: Concept Representation: Background and Purposes (group presentation)](#week-6-concept-representation-background-and-purposes-group-presentation-back2top)
-- [Week 7 2/27: Concept Representation: Methods and tools](#)
-	- (Large) Language Models as concept representation tools
-	- Topic modeling and classification
-- [Week 8 3/5: Concept Representation Exercise: Automated Coding](#)
+- [Week 7 2/27: Concept Representation: Methods and tools](#week-7-concept-representation-methods-and-tools-back2top)
+- [Week 8 3/5: Concept Representation Exercise: Automated Coding](#week-8-concept-representation-exercise-automated-coding-back2top)
 
 **Data Analysis**
 
@@ -152,7 +150,7 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 
 #### After class
 
-- Group presentation slides and annotated bibliography on *data management* due upcoming Monday.
+- Group presentation slides and annotated bibliography on *Data Management* due upcoming Monday.
 
 ---
 ### Week 4: Data Management: Background and Purposes (group presentation)	[_Back2Top_](#)
@@ -176,7 +174,7 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 #### After class
 
 - Assignment 3: Gathering Literature in Your Field due upcoming Monday.
-- Group presentation slides and annotated bibliography on *concept representation* due in two weeks.
+- Group presentation slides and annotated bibliography on *Concept Representation* due in two weeks.
 
 
 ---
@@ -195,7 +193,7 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 #### After class
 
 - Revise assignments according to feedback.
-- Group presentation slides and annotated bibliography on *concept representation* due in upcoming Monday.
+- Group presentation slides and annotated bibliography on *Concept Representation* due in upcoming Monday.
 	- Read required readings.
 	- Prepare group presentation.
 	- Write annotated bibliography.
@@ -231,12 +229,36 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 #### In class
 
 - Tools and methods introduction.
+	- (Large) Language Models as concept representation tools
+	- Topic modeling and classification
 - Prepare Assignment 4: Automated Coding
 
 #### After class
 
 - Group presentation slides and annotated bibliography on *Data Analysis* due in two weeks.
 - Complete Assignment 4: Automated Coding, due upcoming Monday.
+
+
+---
+### Week 8: Concept Representation Exercise: Automated Coding	[_Back2Top_](#)
+
+#### Before class
+
+- Complete the Assignment and submit to OSF.
+
+#### In class
+
+- Presentation and discussion of Assignment.
+- Review peer assignments and provide feedback.
+- Preview next exercise.
+
+#### After class
+
+- Revise assignments according to feedback.
+- Group presentation slides and annotated bibliography on *Data Analysis* due in upcoming Monday.
+	- Read required readings.
+	- Prepare group presentation.
+	- Write annotated bibliography.
 
 
 ---
