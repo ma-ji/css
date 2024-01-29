@@ -168,7 +168,7 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 
 #### In class
 
-- Group presentation.
+- Student-lead group presentation and instructor lecture.
 - Group discussion on annotated bibliography.
 - Prepare Assignment 3: Gathering Literature in Your Field.
 
@@ -197,6 +197,26 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 - Research design analysis:
 	- Prepare group presentation for next session.
 	- Write annotated bibliography for next session.
+
+### Week 6: Concept Representation: Background and Purposes (group presentation)	[_Back2Top_](#)
+
+#### Before class
+
+- [Required readings](https://drive.google.com/drive/folders/1eziwxSu0agJfYjAcPu5VsNh5QxRFAFLj?usp=sharing)
+	- Creswell, John W. “The Selection of a Research Approach.” In Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, 4th ed. Thousand Oaks: SAGE Publications, 2014.
+	- Ragin, Charles C., and Lisa M. Amoroso. “The Goals of Social Research.” In Constructing Social Research: The Unity and Diversity of Method, 135–62. Pine Forge Press, 2011.
+	- Grimmer, Justin, and Brandon M. Stewart. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21, no. 3 (2013): 267–97. https://doi.org/10.1093/pan/mps028.
+
+#### In class
+
+- Student-lead group presentation and instructor lecture.
+- Discussion on annotated bibliography.
+- Prepare Assignment 4: Automated Coding.
+
+
+#### After class
+
+
 
 
 <!-- 
