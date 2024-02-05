@@ -229,8 +229,8 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 #### In class
 
 - Inductive coding with topic modeling:
-	- Top2Vec.
-	- BERTopic.
+	- [Top2Vec](https://top2vec.readthedocs.io/en/latest/index.html)
+	- [BERTopic](https://maartengr.github.io/BERTopic/index.html)
 - Deductive coding (text classification):
 	- [Fine-tune model with training dataset.](https://huggingface.co/docs/transformers/en/tasks/sequence_classification)
 	- Prompt-based classification with LLMs: [Llama 2](https://llama.meta.com/llama2) (English) and [Qwen](https://github.com/QwenLM/Qwen) (multilingual)
