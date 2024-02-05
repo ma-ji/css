@@ -224,7 +224,7 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 
 #### Before class
 
-- Review Assignment 4: Automated Coding
+- Prepare Assignment 4: Automated Coding
 
 #### In class
 
