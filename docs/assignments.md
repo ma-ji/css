@@ -7,7 +7,7 @@
 - [Assignment 2: Group presentation and annotated bibliography (15 points)](#assignment-2-group-presentation-and-annotated-bibliography)
 - [Assignment 3: Gathering Literature in Your Field (15 points)](https://osf.io/rbtw8/)
 - [Assignment 4: Automated Coding (20 points)](https://osf.io/5qk6s/)
-- [Assignment 5: Simulation and Regression (20 points)](https://osf.io/ycj26/)
+- [Assignment 5: Network Analysis (20 points)](https://osf.io/ycj26/)
 - [Assignment 6: Data Dashboards (15 points)](https://osf.io/cu7r3/)
 - [Assignment 7: Participation and in-class assignments (10 points)](#assignment-6-participation)
 
