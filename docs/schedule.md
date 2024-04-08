@@ -26,7 +26,7 @@
 **Data Analysis**
 
 - [Week 9 3/19: Data Analysis: Background and Purposes (group presentation)](#week-9-data-analysis-background-and-purposes-group-presentation-back2top)
-- [Week 10 3/26: Data Analysis: Methods and tools](#)
+- [Week 10 3/26: Data Analysis: Methods and Tools](#)
 	- Network analysis as a representation and analysis method
 	- Process of network analysis
 	- Visualization tool: [Gephi](https://en.wikipedia.org/wiki/Gephi)
@@ -41,7 +41,7 @@
 		- Programming language-based tools: [Plotly and Dash for Python](https://plotly.com/), [Shiny for R](https://shiny.posit.co/r/gallery/)
 		- Off-the-shelf tools: Tableau, PowerBI, Excel.
 - Week 14 4/23: Presenting Data Dashboard or Final Project + Happy Hour
-	- Meet in Haymaker@11am
+	- Meet at [Haymaker@11am](https://maps.app.goo.gl/jhvgnfdVnGXjjCoZ8)
 	- Bring your laptop, we will Zoom-share and present your data dashboard or final project first.
 	- Happy hour: I'll cover all snacks, one main course and two drinks (either alcohol or non-alcohol) per person.
 
