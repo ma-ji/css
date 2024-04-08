@@ -35,11 +35,15 @@
 **Scientific Communication**
 
 - [Week 12 4/9: Scientific Communication: Background and Purposes (group presentation)](#week-12-scientific-communication-background-and-purposes-group-presentation-back2top)
-- [Week 13 4/16: Scientific Communication: Methods and tools](#)
-	- Programming language-based tools: [Plotly and Dash for Python](https://plotly.com/), [Shiny for R](https://shiny.posit.co/r/gallery/)
-	- Off-the-shelf tools: Tableau, PowerBI, Excel.
-- [Week 14 4/23: Scientific Communication Exercise: Data Dashboard](#)
-
+- Week 13 4/16: Scientific Communication: Methods and tools
+	- Basic principles of visualization.
+	- Review tools:
+		- Programming language-based tools: [Plotly and Dash for Python](https://plotly.com/), [Shiny for R](https://shiny.posit.co/r/gallery/)
+		- Off-the-shelf tools: Tableau, PowerBI, Excel.
+- Week 14 4/23: Presenting Data Dashboard or Final Project + Happy Hour
+	- Meet in Haymaker@11am
+	- Bring your laptop, we will Zoom-share and present your data dashboard or final project first.
+	- Happy hour: I'll cover all snacks, one main course and two drinks (either alcohol or non-alcohol) per person.
 
 <!-- 
 - [Week 3: Efficient algorithm, data management and documentation, automated workflow](#w3)
