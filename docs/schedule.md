@@ -34,7 +34,7 @@
 
 **Scientific Communication**
 
-- [Week 12 4/9: Scientific Communication: Background and Purposes (group presentation)](#)
+- [Week 12 4/9: Scientific Communication: Background and Purposes (group presentation)](#week-12-scientific-communication-background-and-purposes-group-presentation-back2top)
 - [Week 13 4/16: Scientific Communication: Methods and tools](#)
 	- Programming language-based tools: [Plotly and Dash for Python](https://plotly.com/), [Shiny for R](https://shiny.posit.co/r/gallery/)
 	- Off-the-shelf tools: Tableau, PowerBI, Excel.
