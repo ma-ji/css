@@ -298,11 +298,11 @@ Prepare Assignment 5: Network Analysis, due in two weeks.
 
 - Student-lead group presentation and instructor lecture.
 - Discussion on annotated bibliography.
-- Review final assignment or project.
+- Review [Data Dashboards](https://osf.io/cu7r3/) and [Final Project](/assets/css_final_template.pdf).
 
 #### After class
 
-Prepare final assignment or project.
+Prepare [Data Dashboards](https://osf.io/cu7r3/) or [Final Project](/assets/css_final_template.pdf).
 
 <!-- 
 
