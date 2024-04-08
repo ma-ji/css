@@ -277,13 +277,32 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 
 - Student-lead group presentation and instructor lecture.
 - Discussion on annotated bibliography.
-- Prepare Assignment 5: Simulation and Regression.
+- Review Assignment 5: Network Analysis.
 
 
 #### After class
 
+Prepare Assignment 5: Network Analysis, due in two weeks.
 
+---
+### Week 12: Scientific Communication: Background and Purposes (group presentation)	[_Back2Top_](#)
 
+#### Before class
+
+- [Required readings](https://drive.google.com/drive/folders/1eziwxSu0agJfYjAcPu5VsNh5QxRFAFLj?usp=sharing)
+	- Wickham, H. (2014). Tidy data. The Journal of Statistical Software, 59(10). http://www.jstatsoft.org/v59/i10/
+	- Kirk, A. (2019). The Visualisation Design Process. In Data Visualisation: A Handbook for Data Driven Design (2nd edition, pp. 31–58). SAGE Publications Ltd.
+	- Kirk, A. (2019). Working With Data. In Data Visualisation: A Handbook for Data Driven Design (2nd edition, pp. 95–117). SAGE Publications Ltd.
+
+#### In class
+
+- Student-lead group presentation and instructor lecture.
+- Discussion on annotated bibliography.
+- Review final assignment or project.
+
+#### After class
+
+Prepare final assignment or project.
 
 <!-- 
 
