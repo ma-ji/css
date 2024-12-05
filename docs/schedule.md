@@ -1,7 +1,7 @@
 # Course Schedule
 ---
 
-![Learning Cycle](/assets/learnin_cycle.png)
+![Learning Cycle](/assets/diagrams-learning_cycle.png)
 
 [Reading Materials by Week](https://drive.google.com/drive/folders/1eziwxSu0agJfYjAcPu5VsNh5QxRFAFLj?usp=sharing)
 
