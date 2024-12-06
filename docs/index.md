@@ -1,11 +1,11 @@
 # Course description
 
-- Instructor: [Ji Ma](https://jima.me) ([maji@austin.utexas.edu](mailto:maji@austin.utexas.edu))
+- Instructor: [Ji Ma](https://jima.me) <a href="mailto:maji@austin.utexas.edu?subject=CSS 25Sp">(maji@austin.utexas.edu)</a>
 - Time and location: Spring 2025, Tuesday 9:00AM-12:00PM, SRH 3.312.
 - Office hour: [TBD](#).
 
 ---
-This research-oriented course introduces and contextualizes computational methods from a social science research design perspective. The course is structured to have three major components:
+This research-oriented course introduces and contextualizes computational methods from a social science research design perspective. The course has three major components:
 
 1. Readings and presentations on theoretical analysis. We will mainly focus on how to comprehend computational methods from a research design perspective, i.e., _data management_, _concept representation_, _data analysis_, and _scientific communication_.
 2. Practice and presentations on hands-on exercises. We have a range of bi-weekly assignments helping you experiment or practice a variety of computational methods.
