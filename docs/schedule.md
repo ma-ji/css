@@ -1,4 +1,5 @@
 # Course Schedule
+
 ---
 
 ![Learning Cycle](/assets/diagrams-learning_cycle.png)
@@ -9,41 +10,42 @@
 
 **Introduction to the course**
 
-- [Week 1 1/16: Course introduction](#week-1-course-introduction-back2top)
-- [Week 2 1/23: Computational Social Science: Why Research Design Approach](#week-2-computational-social-science-why-research-design-approach-back2top)
+- [Week 1 1/14: Course introduction](#week-1-course-introduction-back2top)
+- [Week 2 1/21: Computational Social Science: Why Research Design Approach](#week-2-computational-social-science-why-research-design-approach-back2top)
 
 **Data Management**
-- [Week 3 1/30: Data Management: Methods and tools](#week-3-data-management-methods-and-tools-back2top)
-- [Week 4 2/6: Data Management: Background and Purposes (group presentation)](#week-4-data-management-background-and-purposes-group-presentation-back2top)
-- [Week 5 2/13: Data Management Exercise: Gathering Literature in Your Field](#week-5-data-management-exercise-gathering-literature-in-your-field-back2top)
+
+- [Week 3 1/28: Data Management: Methods and tools](#week-3-data-management-methods-and-tools-back2top)
+- [Week 4 2/4: Data Management: Background and Purposes (group presentation)](#week-4-data-management-background-and-purposes-group-presentation-back2top)
+- [Week 5 2/11: Data Management Exercise: Gathering Literature in Your Field](#week-5-data-management-exercise-gathering-literature-in-your-field-back2top)
 
 **Concept Representation**
 
-- [Week 6 2/20: Concept Representation: Background and Purposes (group presentation)](#week-6-concept-representation-background-and-purposes-group-presentation-back2top)
-- [Week 7 2/27: Concept Representation: Methods and tools](#week-7-concept-representation-methods-and-tools-back2top)
-- [Week 8 3/5: Concept Representation Exercise: Automated Coding](#week-8-concept-representation-exercise-automated-coding-back2top)
+- [Week 6 2/18: Concept Representation: Background and Purposes (group presentation)](#week-6-concept-representation-background-and-purposes-group-presentation-back2top)
+- [Week 7 2/25: Concept Representation: Methods and tools](#week-7-concept-representation-methods-and-tools-back2top)
+- [Week 8 3/4: Concept Representation Exercise: Automated Coding](#week-8-concept-representation-exercise-automated-coding-back2top)
 
 **Data Analysis**
 
-- [Week 9 3/19: Data Analysis: Background and Purposes (group presentation)](#week-9-data-analysis-background-and-purposes-group-presentation-back2top)
-- [Week 10 3/26: Data Analysis: Methods and Tools](#)
-	- Network analysis as a representation and analysis method
-	- Process of network analysis
-	- Visualization tool: [Gephi](https://en.wikipedia.org/wiki/Gephi)
-- [Week 11 4/2: Data Analysis Exercise: Simulation and Regression](#)
+- [Week 9 3/11: Data Analysis: Background and Purposes (group presentation)](#week-9-data-analysis-background-and-purposes-group-presentation-back2top)
+- [Week 10 3/25: Data Analysis: Methods and Tools](#)
+  - Network analysis as a representation and analysis method
+  - Process of network analysis
+  - Visualization tool: [Gephi](https://en.wikipedia.org/wiki/Gephi)
+- [Week 11 4/1: Data Analysis Exercise: Simulation and Regression](#)
 
 **Scientific Communication**
 
-- [Week 12 4/9: Scientific Communication: Background and Purposes (group presentation)](#week-12-scientific-communication-background-and-purposes-group-presentation-back2top)
-- Week 13 4/16: Scientific Communication: Methods and tools
-	- Basic principles of visualization.
-	- Review tools:
-		- Programming language-based tools: [Plotly and Dash for Python](https://plotly.com/), [Shiny for R](https://shiny.posit.co/r/gallery/)
-		- Off-the-shelf tools: Tableau, PowerBI, Excel.
-- Week 14 4/23: Presenting Data Dashboard or Final Project + Happy Hour
-	- Meet at [Haymaker@11am](https://maps.app.goo.gl/jhvgnfdVnGXjjCoZ8)
-	- Bring your laptop, we will Zoom-share and present your data dashboard or final project first.
-	- Happy hour: I'll cover all snacks, one main course and two drinks (either alcohol or non-alcohol) per person.
+- [Week 12 4/8: Scientific Communication: Background and Purposes (group presentation)](#week-12-scientific-communication-background-and-purposes-group-presentation-back2top)
+- Week 13 4/15: Scientific Communication: Methods and tools
+  - Basic principles of visualization.
+  - Review tools:
+    - Programming language-based tools: [Plotly and Dash for Python](https://plotly.com/), [Shiny for R](https://shiny.posit.co/r/gallery/)
+    - Off-the-shelf tools: Tableau, PowerBI, Excel.
+- Week 14 4/22: Presenting Data Dashboard or Final Project + Happy Hour
+  - Meet at [Haymaker@11am](https://maps.app.goo.gl/jhvgnfdVnGXjjCoZ8)
+  - Bring your laptop, we will Zoom-share and present your data dashboard or final project first.
+  - Happy hour: I'll cover all snacks, one main course and two drinks (either alcohol or non-alcohol) per person.
 
 <!-- 
 - [Week 3: Efficient algorithm, data management and documentation, automated workflow](#w3)
@@ -74,68 +76,74 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 -->
 
 ---
+
 # Weekly Details
 
 ---
-### Week 1: Course introduction	[_Back2Top_](#)
+
+### Week 1: Course introduction [_Back2Top_](#)
 
 #### In class
+
 - Course overview:
-	- Context of this course.
-	- Course sites: Syllabus website, [Open Science Framework](https://osf.io/mvj7u/), Canvas.
+  - Context of this course.
+  - Course sites: Syllabus website, [Open Science Framework](https://osf.io/mvj7u/), Canvas.
 - Helpful resources:
-	- Open source communities (e.g., Stack Overflow)
-	- [ChatGPT](https://chat.openai.com/). Discussion: How to effectively and responsibly use it? Your best practices.
-	- [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1360223). Discussion: Pick 2 studies of your interests, discuss with neighbors.
+  - Open source communities (e.g., Stack Overflow)
+  - [ChatGPT](https://chat.openai.com/). Discussion: How to effectively and responsibly use it? Your best practices.
+  - [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1360223). Discussion: Pick 2 studies of your interests, discuss with neighbors.
 
 #### After class
+
 - Complete readings for the upcoming week.
 - Register accounts:
-	- [Open Science Framework](https://osf.io/)
-	- [GitHub](https://github.com/) / [Free GitHub Pro (GitHub Education)](https://education.github.com/)
-	- [Chameleon Cloud](https://www.chameleoncloud.org/)
+  - [Open Science Framework](https://osf.io/)
+  - [GitHub](https://github.com/) / [Free GitHub Pro (GitHub Education)](https://education.github.com/)
+  - [Chameleon Cloud](https://www.chameleoncloud.org/)
 - How to use Chameleon Cloud computing resources:
-	- [Review "Getting started with Chameleon Cloud"](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
+  - [Review "Getting started with Chameleon Cloud"](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
 - Assignment 2 sign up due on upcoming Monday.
 
-
 ---
-### Week 2: Computational Social Science: Why Research Design Approach	[_Back2Top_](#)
+
+### Week 2: Computational Social Science: Why Research Design Approach [_Back2Top_](#)
 
 #### Before class
+
 - Required readings:
-	- CSSPrimer: Chapter 1 and 2.
+  - CSSPrimer: Chapter 1 and 2.
 
 #### In class
+
 - Discussion and lecture on readings. Key points:
-	- Philosophical and epistemological fundamentals, research design overview, comparison between CSS and conventional approaches
-	- Data management, concept representation, data analysis, and scientific communication
+  - Philosophical and epistemological fundamentals, research design overview, comparison between CSS and conventional approaches
+  - Data management, concept representation, data analysis, and scientific communication
 - In-class review and prepare:
-	- Group presentations.
-	- Empirical studies for analysis.
+  - Group presentations.
+  - Empirical studies for analysis.
 
 If time allows: High-performance cloud computing with [Chameleon](https://www.chameleoncloud.org/)
+
 - Start an instance on [Chameleon Cloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
 - Install [Anaconda Python](https://www.anaconda.com/distribution/) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
 - Snapshot the instance [as an image](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html).
-- You can also watch the video recordings below: 
-	- How to use Chameleon Cloud: Set up a new instance
+- You can also watch the video recordings below:
+  - How to use Chameleon Cloud: Set up a new instance
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XZvETQb6YmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-	- How to set up a Jupyter Lab server
+- How to set up a Jupyter Lab server
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/80yqneJj97w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 #### After class
 
 - Assignment 1 due on upcoming Monday.
 - Review tools and platforms for upcoming week, prepare to discuss how you plan to use them.
 
-
 ---
-### Week 3: Data Management: Methods and tools	[_Back2Top_](#)
+
+### Week 3: Data Management: Methods and tools [_Back2Top_](#)
 
 #### Before class
 
@@ -146,27 +154,27 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 - File and data format: API, JSON, and relational database.
 - Efficiency and automation.
 - Tools review:
-	- OpenAlex
-	- Draw.io
-	- MySQL Workbench
+  - OpenAlex
+  - Draw.io
+  - MySQL Workbench
 
 - Prepare Assignment 3: Gathering Literature in Your Field
 
 #### After class
 
-- Group presentation slides and annotated bibliography on *Data Management* due upcoming Monday.
+- Group presentation slides and annotated bibliography on _Data Management_ due upcoming Monday.
 
 ---
-### Week 4: Data Management: Background and Purposes (group presentation)	[_Back2Top_](#)
+
+### Week 4: Data Management: Background and Purposes (group presentation) [_Back2Top_](#)
 
 #### Before class
 
 - [Required readings](https://drive.google.com/drive/folders/1eziwxSu0agJfYjAcPu5VsNh5QxRFAFLj?usp=sharing)
-	- Leonelli, Sabina. “Scientific Research and Big Data.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Summer 2020. Metaphysics Research Lab, Stanford University, 2020. https://plato.stanford.edu/archives/sum2020/entries/science-big-data/.
-	- Wickham, Hadley. “Tidy Data.” The Journal of Statistical Software 59, no. 10 (2014). http://www.jstatsoft.org/v59/i10/.
-	- Goble, Carole, and David De Roure. “The Impact of Workflow Tools on Data-Centric Research.” In The Fourth Paradigm: Data-Intensive Scientific Discovery, edited by Tony Hey, Stewart Tansley, Kristin Tolle, and Jim Gray. Microsoft Research, 2009. https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-discovery/.
-	- Fidler, Fiona, and John Wilcox. “Reproducibility of Scientific Results.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Summer 2021. Metaphysics Research Lab, Stanford University, 2021. https://plato.stanford.edu/archives/sum2021/entries/scientific-reproducibility/.
-
+  - Leonelli, Sabina. “Scientific Research and Big Data.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Summer 2020. Metaphysics Research Lab, Stanford University, 2020. <https://plato.stanford.edu/archives/sum2020/entries/science-big-data/>.
+  - Wickham, Hadley. “Tidy Data.” The Journal of Statistical Software 59, no. 10 (2014). <http://www.jstatsoft.org/v59/i10/>.
+  - Goble, Carole, and David De Roure. “The Impact of Workflow Tools on Data-Centric Research.” In The Fourth Paradigm: Data-Intensive Scientific Discovery, edited by Tony Hey, Stewart Tansley, Kristin Tolle, and Jim Gray. Microsoft Research, 2009. <https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-discovery/>.
+  - Fidler, Fiona, and John Wilcox. “Reproducibility of Scientific Results.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Summer 2021. Metaphysics Research Lab, Stanford University, 2021. <https://plato.stanford.edu/archives/sum2021/entries/scientific-reproducibility/>.
 
 #### In class
 
@@ -174,15 +182,14 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 - Group discussion on annotated bibliography.
 - Prepare Assignment 3: Gathering Literature in Your Field.
 
-
 #### After class
 
 - Assignment 3: Gathering Literature in Your Field due upcoming Monday.
-- Group presentation slides and annotated bibliography on *Concept Representation* due in two weeks.
-
+- Group presentation slides and annotated bibliography on _Concept Representation_ due in two weeks.
 
 ---
-### Week 5: Data Management Exercise: Gathering Literature in Your Field	[_Back2Top_](#)
+
+### Week 5: Data Management Exercise: Gathering Literature in Your Field [_Back2Top_](#)
 
 #### Before class
 
@@ -197,21 +204,21 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 #### After class
 
 - Revise assignments according to feedback.
-- Group presentation slides and annotated bibliography on *Concept Representation* due in upcoming Monday.
-	- Read required readings.
-	- Prepare group presentation.
-	- Write annotated bibliography.
-
+- Group presentation slides and annotated bibliography on _Concept Representation_ due in upcoming Monday.
+  - Read required readings.
+  - Prepare group presentation.
+  - Write annotated bibliography.
 
 ---
-### Week 6: Concept Representation: Background and Purposes (group presentation)	[_Back2Top_](#)
+
+### Week 6: Concept Representation: Background and Purposes (group presentation) [_Back2Top_](#)
 
 #### Before class
 
 - [Required readings](https://drive.google.com/drive/folders/1eziwxSu0agJfYjAcPu5VsNh5QxRFAFLj?usp=sharing)
-	- Creswell, John W. “The Selection of a Research Approach.” In Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, 4th ed. Thousand Oaks: SAGE Publications, 2014.
-	- Ragin, Charles C., and Lisa M. Amoroso. “The Goals of Social Research.” In Constructing Social Research: The Unity and Diversity of Method, 135–62. Pine Forge Press, 2011.
-	- Grimmer, Justin, and Brandon M. Stewart. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21, no. 3 (2013): 267–97. https://doi.org/10.1093/pan/mps028.
+  - Creswell, John W. “The Selection of a Research Approach.” In Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, 4th ed. Thousand Oaks: SAGE Publications, 2014.
+  - Ragin, Charles C., and Lisa M. Amoroso. “The Goals of Social Research.” In Constructing Social Research: The Unity and Diversity of Method, 135–62. Pine Forge Press, 2011.
+  - Grimmer, Justin, and Brandon M. Stewart. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21, no. 3 (2013): 267–97. <https://doi.org/10.1093/pan/mps028>.
 
 #### In class
 
@@ -219,12 +226,11 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 - Discussion on annotated bibliography.
 - Prepare Assignment 4: Automated Coding, due in two weeks.
 
-
 #### After class
 
-
 ---
-### Week 7: Concept Representation: Methods and tools	[_Back2Top_](#)
+
+### Week 7: Concept Representation: Methods and tools [_Back2Top_](#)
 
 #### Before class
 
@@ -233,21 +239,21 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 #### In class
 
 - Inductive coding with topic modeling:
-	- [Top2Vec](https://top2vec.readthedocs.io/en/latest/index.html)
-	- [BERTopic](https://maartengr.github.io/BERTopic/index.html)
+  - [Top2Vec](https://top2vec.readthedocs.io/en/latest/index.html)
+  - [BERTopic](https://maartengr.github.io/BERTopic/index.html)
 - Deductive coding (text classification):
-	- [Fine-tune model with training dataset.](https://huggingface.co/docs/transformers/en/tasks/sequence_classification)
-	- Prompt-based classification with LLMs: [Llama 2](https://llama.meta.com/llama2) (English) and [Qwen](https://github.com/QwenLM/Qwen) (multilingual)
+  - [Fine-tune model with training dataset.](https://huggingface.co/docs/transformers/en/tasks/sequence_classification)
+  - Prompt-based classification with LLMs: [Llama 2](https://llama.meta.com/llama2) (English) and [Qwen](https://github.com/QwenLM/Qwen) (multilingual)
 - Prepare Assignment 4: Automated Coding
 
 #### After class
 
-- Group presentation slides and annotated bibliography on *Data Analysis* due in two weeks.
+- Group presentation slides and annotated bibliography on _Data Analysis_ due in two weeks.
 - Complete Assignment 4: Automated Coding, due upcoming Monday.
 
-
 ---
-### Week 8: Concept Representation Exercise: Automated Coding	[_Back2Top_](#)
+
+### Week 8: Concept Representation Exercise: Automated Coding [_Back2Top_](#)
 
 #### Before class
 
@@ -262,20 +268,20 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 #### After class
 
 - Revise assignments according to feedback.
-- Group presentation slides and annotated bibliography on *Data Analysis* due in upcoming Monday.
-	- Read required readings.
-	- Prepare group presentation.
-	- Write annotated bibliography.
-
+- Group presentation slides and annotated bibliography on _Data Analysis_ due in upcoming Monday.
+  - Read required readings.
+  - Prepare group presentation.
+  - Write annotated bibliography.
 
 ---
-### Week 9: Data Analysis: Background and Purposes (group presentation)	[_Back2Top_](#)
+
+### Week 9: Data Analysis: Background and Purposes (group presentation) [_Back2Top_](#)
 
 #### Before class
 
 - [Required readings](https://drive.google.com/drive/folders/1eziwxSu0agJfYjAcPu5VsNh5QxRFAFLj?usp=sharing)
-	- Hofman, Jake M., Duncan J. Watts, Susan Athey, Filiz Garip, Thomas L. Griffiths, Jon Kleinberg, Helen Margetts, et al. “Integrating Explanation and Prediction in Computational Social Science.” Nature 595, no. 7866 (July 2021): 181–88. https://doi.org/10.1038/s41586-021-03659-0.
-	- Ludwig, Jens, and Sendhil Mullainathan. “Machine Learning as a Tool for Hypothesis Generation.” Working Paper. Working Paper Series. National Bureau of Economic Research, March 2023. https://doi.org/10.3386/w31017.
+  - Hofman, Jake M., Duncan J. Watts, Susan Athey, Filiz Garip, Thomas L. Griffiths, Jon Kleinberg, Helen Margetts, et al. “Integrating Explanation and Prediction in Computational Social Science.” Nature 595, no. 7866 (July 2021): 181–88. <https://doi.org/10.1038/s41586-021-03659-0>.
+  - Ludwig, Jens, and Sendhil Mullainathan. “Machine Learning as a Tool for Hypothesis Generation.” Working Paper. Working Paper Series. National Bureau of Economic Research, March 2023. <https://doi.org/10.3386/w31017>.
 
 #### In class
 
@@ -283,20 +289,20 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 - Discussion on annotated bibliography.
 - Review Assignment 5: Network Analysis.
 
-
 #### After class
 
 Prepare Assignment 5: Network Analysis, due in two weeks.
 
 ---
-### Week 12: Scientific Communication: Background and Purposes (group presentation)	[_Back2Top_](#)
+
+### Week 12: Scientific Communication: Background and Purposes (group presentation) [_Back2Top_](#)
 
 #### Before class
 
 - [Required readings](https://drive.google.com/drive/folders/1eziwxSu0agJfYjAcPu5VsNh5QxRFAFLj?usp=sharing)
-	- Wickham, H. (2014). Tidy data. The Journal of Statistical Software, 59(10). http://www.jstatsoft.org/v59/i10/
-	- Kirk, A. (2019). The Visualisation Design Process. In Data Visualisation: A Handbook for Data Driven Design (2nd edition, pp. 31–58). SAGE Publications Ltd.
-	- Kirk, A. (2019). Working With Data. In Data Visualisation: A Handbook for Data Driven Design (2nd edition, pp. 95–117). SAGE Publications Ltd.
+  - Wickham, H. (2014). Tidy data. The Journal of Statistical Software, 59(10). <http://www.jstatsoft.org/v59/i10/>
+  - Kirk, A. (2019). The Visualisation Design Process. In Data Visualisation: A Handbook for Data Driven Design (2nd edition, pp. 31–58). SAGE Publications Ltd.
+  - Kirk, A. (2019). Working With Data. In Data Visualisation: A Handbook for Data Driven Design (2nd edition, pp. 95–117). SAGE Publications Ltd.
 
 #### In class
 
@@ -321,7 +327,6 @@ Prepare [Data Dashboards](https://osf.io/cu7r3/) or [Final Project](/assets/css_
 - Discussion and lecture on readings.
 - Discussion on final project options.
 
-
 ---
 ### <a name="w4"> Week 4: Field visit: Texas Advanced Computing Center (TBD) </a>	[_Back2Top_](#)
 
@@ -332,7 +337,6 @@ Prepare [Data Dashboards](https://osf.io/cu7r3/) or [Final Project](/assets/css_
 #### After class
 
 - [<span style="color:red">**One-page research abstract [Research proposal] due this Friday**</span>](/assignments/#a4)
-
 
 ---
 ### <a name="w5"> Week 5: Computational methods: NLP algorithms and models as concept representation tools </a>	[_Back2Top_](#)
@@ -390,7 +394,6 @@ Practice the coding sessions, play with your own datasets, revise research propo
 
 Provide feedback to group report.
 
-
 ---
 ### <a name="w7"> Week 7: Computational methods: topic modeling and classification (instructor-lead) </a>	[_Back2Top_](#)
 
@@ -413,7 +416,6 @@ No readings before class, practice the coding sessions from previous weeks, and 
 
 Practice the coding sessions, play with your own datasets, revise research proposal.
 
-
 ---
 ### <a name="w8"> Week 8: Research design: Concept representation (student-lead) </a>	[_Back2Top_](#)
 
@@ -424,7 +426,6 @@ Practice the coding sessions, play with your own datasets, revise research propo
 #### After class
 
 Provide feedback to group report.
-
 
 ---
 ### <a name="w9"> Week 9: Computational methods: Network analysis as a representation and analysis method (instructor-lead) </a>	[_Back2Top_](#)
@@ -443,7 +444,6 @@ Provide feedback to group report.
 
 Provide feedback to group report.
 
-
 ---
 ### <a name="w10"> Week 10: Research design: Data analysis (student-lead) (TBD) </a>	[_Back2Top_](#)
 
@@ -461,7 +461,6 @@ Provide feedback to group report.
 #### After class
 
 Provide feedback to group report.
-
 
 ---
 ### <a name="w11"> Week 11: Computational methods: Process of network analysis</a>	[_Back2Top_](#)
@@ -506,8 +505,6 @@ Provide feedback to group report.
 
 -->
 
-
-
 <!-- 
 ---
 ### <a name="w2"> Week 2: Data management and documentation </a>	[_Back2Top_](#)
@@ -520,10 +517,8 @@ Provide feedback to group report.
 #### In class
 - Discussion and lecture on readings.
 
-
 #### After class
 - [<span style="color:red">**Assignment 2 due this week's Sunday.**</span>](/open_data/assignments/#a2)
-
 
 ---
 ### <a name="w3"> Week 3: Efficient algorithm and automated workflow </a>	[_Back2Top_](#)
@@ -551,7 +546,5 @@ Provide feedback to group report.
 
 #### After class
 - Recommended course: [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1) (3 hours)
-
-
 
  -->

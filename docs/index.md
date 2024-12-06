@@ -1,21 +1,27 @@
 # Course description
 
-
-- Instructor: [Ji Ma](https://jima.me) (maji@austin.utexas.edu)
-- Time and location: Spring 2024, Tuesday 9:00AM-12:00PM, SRH 3.314.
-- Office hour: [Tuesday 2--4pm](https://calendly.com/maji/20min).
-
----
-This course is academic and research oriented, it introduces and contextualizes computational methods from a social science research design perspective. The first part of this course (w1--w2) gives you an overview of this course and how to analyze computational methods from a research design perspective, namely data management, concept representation, data analysis, and scientific communication. The second part (w3--w14) will analyze and practice different computational methods according to their roles in social science research. Bilingual or multilingual language ability is a plus. Programming is an essential part of this course but not the purpose and will not be taught. We will be coding for social science purposes.
+- Instructor: [Ji Ma](https://jima.me) ([maji@austin.utexas.edu](mailto:maji@austin.utexas.edu))
+- Time and location: Spring 2025, Tuesday 9:00AM-12:00PM, SRH 3.312.
+- Office hour: [TBD](#).
 
 ---
+This research-oriented course introduces and contextualizes computational methods from a social science research design perspective. The course is structured to have three major components:
+
+1. Readings and presentations on theoretical analysis. We will mainly focus on how to comprehend computational methods from a research design perspective, i.e., _data management_, _concept representation_, _data analysis_, and _scientific communication_.
+2. Practice and presentations on hands-on exercises. We have a range of bi-weekly assignments helping you experiment or practice a variety of computational methods.
+3. Reflections on methods and empirical studies.
+
+I strongly encourage you to responsibly use ChatGPT or similar generative AI tools to boost your productivity. Bilingual or multilingual language ability is a plus. Programming is an essential part of this course but not the purpose and will not be taught. We will be coding for social science purposes.
+
+---
+
 # Reading materials / e-books
 
 **Required readings:**
 
 This class will use a draft book manuscript I'm currently working on:
 
-- [CSSPrimer] ["Computational Social Science Methods: A Research Design Primer"](https://utexas.box.com/s/memnssammnzla97c4ni3bjofoq5ech5y)
+- [CSSPrimer] ["Computational Social Science Methods: A Research Design Primer"](https://utexas.box.com/s/ihxwvs8czcbhsqsbp80q9kbqm8dlsupt)
 
 Additionally, each week is complemented with readings from various other sources. See details on [Schedule page](/schedule.md).
 
@@ -28,21 +34,21 @@ These books give you a good theoretical understanding and are very useful in res
 
 These books/sources introduce more technical and hands-on details.
 
-- [GS] Gentzkow, Matthew, and Jesse M. Shapiro. 2014. Code and Data for the Social Sciences: A Practitioner’s Guide. https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf.
-- [JM] Jurafsky, Daniel, and James H. Martin. 2022. Speech and Language Processing. 3rd draft. https://web.stanford.edu/~jurafsky/slp3/. (the authors generously made their book publicly available, check their website and use the latest version)
+- [GS] Gentzkow, Matthew, and Jesse M. Shapiro. 2014. Code and Data for the Social Sciences: A Practitioner’s Guide. <https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf>.
+- [JM] Jurafsky, Daniel, and James H. Martin. 2022. Speech and Language Processing. 3rd draft. <https://web.stanford.edu/~jurafsky/slp3/>. (the authors generously made their book publicly available, check their website and use the latest version)
 - [NetworkX](https://networkx.org/) (the package's documentation and the references cited are the best place to start in terms of technical details)
 
-
 ---
-# Presentations and final projects from previous semesters
 
+# Resources from previous semesters
+
+- [2024 spring](https://osf.io/mvj7u/)
 - [2023 spring: students' final projects](https://drive.google.com/drive/folders/1btblaU0LWRQTYOQ_TP_fGVyYr6uEEPwJ?usp=sharing)
 - [2019 fall](https://drive.google.com/drive/folders/1GXDiy4dFq1i00U0qNhTtKM0YJMCOGsvd?usp=sharing)
 
-
 ---
+
 # Grading
-<!-- 40% [assignments](/assignments/), 20% [presentation of datasets](/data_topic/), and 40% [final project](/final/). -->
 
 [Assignments (TBD)](/assignments/)
 
@@ -52,6 +58,7 @@ These books/sources introduce more technical and hands-on details.
 - D+ >= 67%, D >= 63%, D- >= 60%
 
 ---
+
 # Policies
 
 - Mental health: The instructor urge students who are struggling for any reason and who believe that it might impact their performance in the course to reach out if they feel comfortable. This will allow the instructor to provide any possible resources or accommodations. If immediate mental health assistance is needed, call the Counseling and Mental Health Center (CMHC) at 512-471-3515. You may also contact Bryce Moffett, LCSW (LBJ CARE counselor) at 512-232-4449 or stop by her office hours-Wednesday 1-2 pm SRH 3.119. Outside CMHC business hours (8a.m.-5p.m., Monday-Friday), contact the CMHC 24/7 Crisis Line at 512-471-2255.
@@ -60,13 +67,12 @@ These books/sources introduce more technical and hands-on details.
 - **License for Open Education:** This syllabus and all course content on this public website created by the instructor, TA, and students are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 - **License of assignments:** For the assignment examples submitted by creators to OSF, the creators of submissions are the owners of their submissions. The owners grant [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/) to their submissions.
 
-
 ---
+
 # Acknowledgements
 
 - 2022: The course is partly supported by the [Teaching Innovation Grants 2022-23](https://ctl.utexas.edu/grants-fellowships/teaching-innovation-grants-2022-2023) from the [Center for Teaching and Learning](https://ctl.utexas.edu/).
-- 2019: The special events were supported by UT Austin Graduate School's [Academic Enrichment Fund](https://gradschool.utexas.edu/finances/academic-enrichment) and [RGK Center Special Funds for Data Science Speaker Series](https://rgkcenter.org/) at the [LBJ School of Public Affairs](https://lbj.utexas.edu/). Co-sponsors also include [Center for East Asian Studies](https://liberalarts.utexas.edu/asianstudies/), [UT Library Research Data Services](https://www.lib.utexas.edu/research-help-support/research-data-services). The computing resource for the one-day data hackathon was supported by the [XSEDE Educational Resources](https://portal.xsede.org/allocations/education). 
-
+- 2019: The special events were supported by UT Austin Graduate School's [Academic Enrichment Fund](https://gradschool.utexas.edu/finances/academic-enrichment) and [RGK Center Special Funds for Data Science Speaker Series](https://rgkcenter.org/) at the [LBJ School of Public Affairs](https://lbj.utexas.edu/). Co-sponsors also include [Center for East Asian Studies](https://liberalarts.utexas.edu/asianstudies/), [UT Library Research Data Services](https://www.lib.utexas.edu/research-help-support/research-data-services). The computing resource for the one-day data hackathon was supported by the [XSEDE Educational Resources](https://portal.xsede.org/allocations/education).
 
 <!-- 
 ---
@@ -77,7 +83,6 @@ These books/sources introduce more technical and hands-on details.
 -->
 
 <!-- You can [join the learning group](https://uta-css.slack.com) where more learning resources will be shared. -->
-
 
 <!-- ---
 # Class profile
