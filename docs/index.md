@@ -1,6 +1,6 @@
 # Course description
 
-- Instructor: [Ji Ma](https://jima.me) <a href="mailto:maji@austin.utexas.edu?subject=CSS 25Sp">(maji@austin.utexas.edu)</a>
+- Instructor: [Ji Ma](https://jima.me) (<a href="mailto:maji@austin.utexas.edu?subject=CSS 25Sp">maji@austin.utexas.edu</a>)
 - Time and location: Spring 2025, Tuesday 9:00AM-12:00PM, SRH 3.312.
 - Office hour: [TBD](#).
 
