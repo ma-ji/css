@@ -8,7 +8,7 @@
 - [Assignment 4: Automated Coding (20 points)](https://osf.io/5qk6s/)
 - [Assignment 5: Network Analysis (20 points)](https://osf.io/ycj26/)
 - Assignment 6: [Data Dashboards](https://osf.io/cu7r3/) or [Final Project](/assets/css_final_template.pdf) (15 points)
-- [Assignment 7: Participation and in-class assignments (10 points)](#assignment-6-participation)
+- [Assignment 7: Participation and in-class assignments (10 points)](#assignment-7-participation)
 
 **Assignments 3--6 accept using data sources other than OpenAlex, but must share similar analytical components.**
 
