@@ -1,7 +1,6 @@
 # Assignments
----
 
-<!-- %%%%%%Open source community / pedagogy as an assignment%%%%%-->
+---
 
 - [Assignment 1: Plagiarism Test (5 points)](#assignment-1-plagiarisms-test)
 - [Assignment 2: Group presentation and annotated bibliography (15 points)](#assignment-2-group-presentation-and-annotated-bibliography)
@@ -11,10 +10,12 @@
 - Assignment 6: [Data Dashboards](https://osf.io/cu7r3/) or [Final Project](/assets/css_final_template.pdf) (15 points)
 - [Assignment 7: Participation and in-class assignments (10 points)](#assignment-6-participation)
 
+**Assignments 3--6 accept using data sources other than OpenAlex, but must share similar analytical components.**
+
 Late submissions are not accepted. Check due dates on [Canvas](https://utexas.instructure.com/courses/1388527/assignments).
 
-
 ---
+
 ### Assignment 1: Plagiarisms test
 
 The first assignment of this course is to [pass the plagiarism test and obtain a certificate at the master and doctoral level](https://plagiarism.iu.edu/index.html). Plagiarism is a serious academic misconduct. You will receive zero grade on plagiarized work and there may be other consequences. We have been told not to do this maybe since primary school, and we are always assuming we know what plagiarism is. However, we may assume we know too much (e.g., [famous cases of plagiarism](https://www.google.com/search?q=famous+cases+of+plagiarism)).
@@ -26,11 +27,12 @@ You do not need to take this test if you have a comparable certification or you 
 For this assignment, please submit your certificate as a file on Canvas.
 
 ---
+
 ### Assignment 2: Group presentation and annotated bibliography
 
 **(1) Group presentation**
 
-[Sign up your presentation here.](https://docs.google.com/spreadsheets/d/1ngb_aBqId8TnN_y29523kRMOE671q_HPOz9d5H91mvE/edit#gid=1658895974)
+[Sign up your presentation here.](https://docs.google.com/spreadsheets/d/1JNRbnHA-lsQPbgufdggZegXgCYO6Lj9qyyQb8dcpJO4/edit?usp=sharing)
 
 Students will lead four short presentations on each of the research design themes: data management, concept representation, data analysis, and scientific communication.
 
@@ -43,7 +45,7 @@ The presentation should respond to the following points:
 3. How do existing empirical studies apply specific methods, and how can these applications be improved? Select at least 2 articles from the [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1360223) and 2 articles of your own selection (add your article to the database).
 4. What are the general patterns or rationales you can abstract from your analysis?
 
-*For this assignment, submit your presentation slides to OSF.*
+_For this assignment, submit your presentation slides to OSF._
 
 - [Analysis: Data Management](https://osf.io/srxa8/)
 - [Analysis: Concept Representation](https://osf.io/dafbm/)
@@ -54,13 +56,13 @@ The presentation should respond to the following points:
 
 For the rest of the class who are not presenting, should complete a one-page annotated bibliography analyzing two empirical studies of your choice from the CSS Empirical Studies Database. The structure and purpose generally follow those of the presentation, with the expectation that the presentation and annotated bibliography may resonate with each other.
 
-*For this assignment, send your annotated bibliography to the presentation group.*
-*Submission status will be recorded by the presentation group.*
-
+_For this assignment, send your annotated bibliography to the presentation group._
+_Submission status will be recorded by the presentation group._
 
 ---
+
 ### Assignment 7: Participation
 
 You are expected to present your Assignments 3--6 in class (no need to prepare slides). There may be small writing or review exercises helping you keep up with the course content. These are counted as participation. Details of these small exercises are listed in the schedule of each week.
 
-*No submission is required for this assignment.*
+_No submission is required for this assignment._
