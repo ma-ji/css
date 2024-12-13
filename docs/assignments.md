@@ -12,7 +12,7 @@
 
 **Assignments 3--6 accept using data sources other than OpenAlex, but must share similar analytical components.**
 
-Late submissions are not accepted. Check due dates on [Canvas](https://utexas.instructure.com/courses/1388527/assignments).
+Late submissions are not accepted. Check due dates on [Canvas](https://utexas.instructure.com/courses/1409307/assignments).
 
 ---
 
@@ -32,17 +32,17 @@ For this assignment, please submit your certificate as a file on Canvas.
 
 **(1) Group presentation**
 
-[Sign up your presentation here.](https://docs.google.com/spreadsheets/d/1JNRbnHA-lsQPbgufdggZegXgCYO6Lj9qyyQb8dcpJO4/edit?usp=sharing)
+[Sign up your presentation here.](https://docs.google.com/spreadsheets/d/1JNRbnHA-lsQPbgufdggZegXgCYO6Lj9qyyQb8dcpJO4/edit?gid=1658895974#gid=1658895974)
 
 Students will lead four short presentations on each of the research design themes: data management, concept representation, data analysis, and scientific communication.
 
-I will provide some key definitions, frameworks, and references for you to start, you are expected to select and analyze empirical studies from the [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1388527), and prepare a 30-minutes group presentation in class.
+I will provide some key definitions, frameworks, and references for you to start, you are expected to select and analyze empirical studies from the [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1409307), and prepare a 30-minutes group presentation in class.
 
 The presentation should respond to the following points:
 
 1. How to define this function of CSS methods from a research design perspective, and why it is necessary?
 2. What are the common technical methods or practices, how do they complement existing research approaches, and how are they unique?
-3. How do existing empirical studies apply specific methods, and how can these applications be improved? Select at least 2 articles from the [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1360223) and 2 articles of your own selection (add your article to the database).
+3. How do existing empirical studies apply specific methods, and how can these applications be improved? Select at least 2 articles from the [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1409307) and 2 articles of your own selection (add your article to the database).
 4. What are the general patterns or rationales you can abstract from your analysis?
 
 _For this assignment, submit your presentation slides to OSF._

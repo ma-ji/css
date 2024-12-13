@@ -91,7 +91,7 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 - Helpful resources:
   - Open source communities (e.g., Stack Overflow)
   - [ChatGPT](https://chat.openai.com/). Discussion: How to effectively and responsibly use it? Your best practices.
-  - [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1360223). Discussion: Pick 2 studies of your interests, discuss with neighbors.
+  - [CSS Empirical Studies Database](https://utexas.instructure.com/courses/1409307). Discussion: Pick 2 studies of your interests, discuss with neighbors.
 
 #### After class
 
