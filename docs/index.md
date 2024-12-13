@@ -71,6 +71,8 @@ These books/sources introduce more technical and hands-on details.
 
 # Acknowledgements
 
+- 2025: Below data source partners provide generous support:
+  - [Perigon](https://perigon.io/products/news-api): Comprehensive news articles with API access and advanced AI capacities.
 - 2022: The course is partly supported by the [Teaching Innovation Grants 2022-23](https://ctl.utexas.edu/grants-fellowships/teaching-innovation-grants-2022-2023) from the [Center for Teaching and Learning](https://ctl.utexas.edu/).
 - 2019: The special events were supported by UT Austin Graduate School's [Academic Enrichment Fund](https://gradschool.utexas.edu/finances/academic-enrichment) and [RGK Center Special Funds for Data Science Speaker Series](https://rgkcenter.org/) at the [LBJ School of Public Affairs](https://lbj.utexas.edu/). Co-sponsors also include [Center for East Asian Studies](https://liberalarts.utexas.edu/asianstudies/), [UT Library Research Data Services](https://www.lib.utexas.edu/research-help-support/research-data-services). The computing resource for the one-day data hackathon was supported by the [XSEDE Educational Resources](https://portal.xsede.org/allocations/education).
 
