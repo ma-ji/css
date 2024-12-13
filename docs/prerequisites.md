@@ -1,7 +1,9 @@
 # Prerequisites
 
 ---
+
 ## Good with numbers
+
 ---
 
 The way to happiness is simple, you just "Be good with numbers, and be good with people." -- The Pursuit of Happyness (2006)
@@ -12,9 +14,10 @@ The way to happiness is simple, you just "Be good with numbers, and be good with
 
 **_Working knowledge of linear algebra._** For example, you should know what is a vector and how to calculate the distance between two vectors.
 
-
 ---
+
 ## Intermediate to advanced programming skills
+
 ---
 
 Programming may be intimidating, but remember you are coding for social good and "Sometimes it's the people no one imagines anything of who do the things that no one can imagine." -- The Imitation Game (2014)
@@ -29,25 +32,27 @@ The class is Python based, but you can use R or any other programming language a
 
 ### Required fundamentals (no particular order)
 
-**You can write an email to me to request a free license for DataCamp.** After completing the below modules, you should be familiar with all the topics listed in [this tutorial](https://www.learnpython.org/).
+**[Register with your UT email (either `@utexas.edu` or `@austin.utexas.edu`) to have a free license for DataCamp](#).** After completing the below modules, you should be familiar with all the topics listed in [this tutorial](https://www.learnpython.org/).
 
 - Programming:
-	- [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) (4 hours)
-	- [Intermediate Python](https://app.datacamp.com/learn/courses/intermediate-python) (4 hours)
-	- [Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science) (4 hours)
-	- [Writing Functions in Python](https://app.datacamp.com/learn/courses/writing-functions-in-python)
-	- [Writing Efficient Python Code](https://app.datacamp.com/learn/courses/writing-efficient-python-code)
+  - [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) (4 hours)
+  - [Intermediate Python](https://app.datacamp.com/learn/courses/intermediate-python) (4 hours)
+  - [Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science) (4 hours)
+  - [Writing Functions in Python](https://app.datacamp.com/learn/courses/writing-functions-in-python)
+  - [Writing Efficient Python Code](https://app.datacamp.com/learn/courses/writing-efficient-python-code)
 
 - Data preprocessing and exploratory analysis:
-	- [Exploratory Data Analysis in Python](https://www.datacamp.com/courses/exploratory-data-analysis-in-python)
-	- [Introduction to Importing Data in Python](https://app.datacamp.com/learn/courses/introduction-to-importing-data-in-python)
-	- [Intermediate Importing Data in Python](https://app.datacamp.com/learn/courses/intermediate-importing-data-in-python)
-	- [Cleaning Data in Python](https://app.datacamp.com/learn/courses/cleaning-data-in-python)
-	- [Joining Data with pandas](https://app.datacamp.com/learn/courses/joining-data-with-pandas)
-	- [Data Manipulation with pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
+  - [Exploratory Data Analysis in Python](https://www.datacamp.com/courses/exploratory-data-analysis-in-python)
+  - [Introduction to Importing Data in Python](https://app.datacamp.com/learn/courses/introduction-to-importing-data-in-python)
+  - [Intermediate Importing Data in Python](https://app.datacamp.com/learn/courses/intermediate-importing-data-in-python)
+  - [Cleaning Data in Python](https://app.datacamp.com/learn/courses/cleaning-data-in-python)
+  - [Joining Data with pandas](https://app.datacamp.com/learn/courses/joining-data-with-pandas)
+  - [Data Manipulation with pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
 
 ### Recommended modules
 
+- [Large Language Models (LLMs) Concepts](https://app.datacamp.com/learn/courses/large-language-models-llms-concepts)
+- [Introduction to LLMs in Python](https://app.datacamp.com/learn/courses/introduction-to-llms-in-python)
 - [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python)
 - [Web Scraping in Python](https://www.datacamp.com/courses/web-scraping-with-python)
 - [Regular Expressions in Python](https://www.datacamp.com/courses/regular-expressions-in-python)
