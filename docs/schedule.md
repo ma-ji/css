@@ -1,10 +1,12 @@
 # Course Schedule
 
+We may have field visits and guest speakers over the semester to be arranged, so the schedule here is TBD.
+
 ---
 
 ![Learning Cycle](/assets/diagrams-learning_cycle.png)
 
-[Reading Materials by Week](https://drive.google.com/drive/folders/1eziwxSu0agJfYjAcPu5VsNh5QxRFAFLj?usp=sharing)
+[Reading Materials by Week](https://drive.google.com/drive/folders/1Rijn2CHQk4MzFYuUkKb_8Hyavr557Syr?usp=sharing)
 
 <!-- - [Week 0 Pre-course](#w0) -->
 
@@ -42,38 +44,10 @@
   - Review tools:
     - Programming language-based tools: [Plotly and Dash for Python](https://plotly.com/), [Shiny for R](https://shiny.posit.co/r/gallery/)
     - Off-the-shelf tools: Tableau, PowerBI, Excel.
-- Week 14 4/22: Presenting Data Dashboard or Final Project + Happy Hour
-  - Meet at [Haymaker@11am](https://maps.app.goo.gl/jhvgnfdVnGXjjCoZ8)
+- Week 14 4/22: Present Data Dashboard or Final Project + Happy Hour
+  <!-- - Meet at [Haymaker@11am](https://maps.app.goo.gl/jhvgnfdVnGXjjCoZ8)
   - Bring your laptop, we will Zoom-share and present your data dashboard or final project first.
-  - Happy hour: I'll cover all snacks, one main course and two drinks (either alcohol or non-alcohol) per person.
-
-<!-- 
-- [Week 3: Efficient algorithm, data management and documentation, automated workflow](#w3)
-	- Key points: algorithm optimization, iteration, automation, workflow, version control
-- Week 4: Data reduction, validation, and robustness (TBD)
- -->
-<!-- 
-### Analyzing computational social science methods (8 + 1 weeks)
-
-Instructor-lead sessions are voted by the class before 1/27 from [these options](/voted_options)
-
-- [Week 5: Computational methods: NLP algorithms and models as concept representation tools (instructor-lead)](#w5)
-	- Key points: methodological background and overview, vector semantics and embeddings, Word2Vec, Doc2Vec, semantic similarity
-- [Week 6: Research design: Data management (student-lead)](#w6)
-- [Week 7: Computational methods: topic modeling and classification (instructor-lead)](#w7)
-	- Key points: Topic modeling and text classification
-- [Week 8: Research design: Concept representation (student-lead)](#w8)
-- [Week 9: Computational methods: Network analysis as a representation and analysis method (instructor-lead)](#w9)
-	- Key points: Basic concepts of network analysis, network generation and transformation, levels of analysis
-- [Week 10: Research design: Data analysis (student-lead)](#w10)
-- [Week 11: Computational methods: Process of network analysis](#w11)
-- _<u>Week 12: Group consultation on final project (no class)</u>_
-- [Week 13: Research design: Scientific communication (student-lead)](#w13)
-
-### Final project
-- Week 14: Final project presentations
-
--->
+  - Happy hour: I'll cover all snacks, one main course and two drinks (either alcohol or non-alcohol) per person. -->
 
 ---
 
@@ -111,7 +85,7 @@ Instructor-lead sessions are voted by the class before 1/27 from [these options]
 #### Before class
 
 - Required readings:
-  - CSSPrimer: Chapter 1 and 2.
+  - CSSPrimer: Chapter 1.
 
 #### In class
 
