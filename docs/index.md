@@ -8,9 +8,9 @@
 ---
 This research-oriented course introduces and contextualizes computational methods from a social science research design perspective. The course has three major components:
 
-1. Readings and presentations on theoretical analysis. We will mainly focus on how to comprehend computational methods from a research design perspective, i.e., _data management_, _concept representation_, _data analysis_, and _scientific communication_.
-2. Practice and presentations on hands-on exercises. We have a range of bi-weekly assignments helping you experiment or practice a variety of computational methods.
-3. Reflections on methods and empirical studies.
+1. Readings and presentations on *theoretical analysis*. We will mainly focus on how to comprehend computational methods from a research design perspective, i.e., *data management*, *concept representation*, *data analysis*, and *scientific communication*.
+2. Practice and presentations on *hands-on exercises*. We have a range of bi-weekly assignments helping you experiment or practice a variety of computational methods.
+3. *Reflections* on methods and empirical studies.
 
 I strongly encourage you to responsibly use ChatGPT or similar generative AI tools to boost your productivity. Bilingual or multilingual language ability is a plus. Programming is an essential part of this course but not the purpose and will not be taught. We will be coding for social science purposes.
 
