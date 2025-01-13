@@ -41,11 +41,20 @@ These books/sources introduce more technical and hands-on details.
 
 ---
 
-# Resources from previous semesters
+# Resources
+
+## Submissions from previous semesters
 
 - [2024 spring](https://osf.io/mvj7u/)
 - [2023 spring: students' final projects](https://drive.google.com/drive/folders/1btblaU0LWRQTYOQ_TP_fGVyYr6uEEPwJ?usp=sharing)
 - [2019 fall](https://drive.google.com/drive/folders/1GXDiy4dFq1i00U0qNhTtKM0YJMCOGsvd?usp=sharing)
+
+## Computing resources
+
+Students of this class have access to below high-performance computing resources:
+
+- [Chameleon Cloud](https://chameleoncloud.org/)
+- [TACC Analysis Portal Pilot](https://cloud.wikis.utexas.edu/wiki/spaces/iSchool/pages/273943788/TACC+Analysis+Portal+Pilot+-+Student+Guide)
 
 ---
 

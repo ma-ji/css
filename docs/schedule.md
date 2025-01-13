@@ -45,9 +45,12 @@ We may have field visits and guest speakers over the semester to be arranged, so
     - Programming language-based tools: [Plotly and Dash for Python](https://plotly.com/), [Shiny for R](https://shiny.posit.co/r/gallery/)
     - Off-the-shelf tools: Tableau, PowerBI, Excel.
 - Week 14 4/22: Present Data Dashboard or Final Project + Happy Hour
-  <!-- - Meet at [Haymaker@11am](https://maps.app.goo.gl/jhvgnfdVnGXjjCoZ8)
+
+<!-- 
+- Meet at [Haymaker@11am](https://maps.app.goo.gl/jhvgnfdVnGXjjCoZ8)
   - Bring your laptop, we will Zoom-share and present your data dashboard or final project first.
-  - Happy hour: I'll cover all snacks, one main course and two drinks (either alcohol or non-alcohol) per person. -->
+  - Happy hour: I'll cover all snacks, one main course and two drinks (either alcohol or non-alcohol) per person. 
+ -->
 
 ---
 
@@ -74,7 +77,9 @@ We may have field visits and guest speakers over the semester to be arranged, so
   - [Open Science Framework](https://osf.io/)
   - [GitHub](https://github.com/) / [Free GitHub Pro (GitHub Education)](https://education.github.com/)
   - [Chameleon Cloud](https://www.chameleoncloud.org/)
+  - [TACC Analysis Portal Pilot](https://cloud.wikis.utexas.edu/wiki/spaces/iSchool/pages/273943788/TACC+Analysis+Portal+Pilot+-+Student+Guide)
 - How to use Chameleon Cloud computing resources:
+  - [TACC Analysis Portal Pilot - Student Guide](https://cloud.wikis.utexas.edu/wiki/spaces/iSchool/pages/273943788/TACC+Analysis+Portal+Pilot+-+Student+Guide)
   - [Review "Getting started with Chameleon Cloud"](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
 - Assignment 2 sign up due on upcoming Monday.
 
@@ -96,7 +101,9 @@ We may have field visits and guest speakers over the semester to be arranged, so
   - Group presentations.
   - Empirical studies for analysis.
 
-If time allows: High-performance cloud computing with [Chameleon](https://www.chameleoncloud.org/)
+If time allows, introducing supercomputer resources:
+
+**Cloud computing with [Chameleon](https://www.chameleoncloud.org/)**
 
 - Start an instance on [Chameleon Cloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
 - Install [Anaconda Python](https://www.anaconda.com/distribution/) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
@@ -109,6 +116,8 @@ If time allows: High-performance cloud computing with [Chameleon](https://www.ch
 - How to set up a Jupyter Lab server
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/80yqneJj97w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**[TACC Analysis Portal Pilot - Student Guide](https://cloud.wikis.utexas.edu/wiki/spaces/iSchool/pages/273943788/TACC+Analysis+Portal+Pilot+-+Student+Guide)**
 
 #### After class
 
