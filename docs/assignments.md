@@ -63,6 +63,6 @@ _Submission status will be recorded by the presentation group._
 
 ### Assignment 7: Participation
 
-You are expected to present your Assignments 3--6 in class (no need to prepare slides). There may be small writing or review exercises helping you keep up with the course content. These are counted as participation. Details of these small exercises are listed in the schedule of each week.
-
-_No submission is required for this assignment._
+- **Presentation**: You are expected to present your Assignments 3--6 in class (slides are not required).
+- **Research proposal**: This class encourage you to do your own original research. Therefore, you should reflect and update your research proposal weekly. The link is on the course [Canvas home page](https://utexas.instructure.com/courses/1409307) ("Individual Research Proposal").
+- **Small exercises**: There may be small writing or review exercises helping you keep up with the course content. These are counted as participation. Details of these small exercises are listed in the schedule of each week.
