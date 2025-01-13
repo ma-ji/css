@@ -3,7 +3,7 @@
 - Instructor: [Ji Ma](https://jima.me) (<a href="mailto:maji@austin.utexas.edu?subject=CSS 25Sp">maji@austin.utexas.edu</a>)
 - Time and location: Spring 2025, Tuesday 9:00AM-12:00PM, SRH 3.312.
 - [Statistical and Programming Workshop, Fridays 1-2:30pm](/assets/SSW_2025SP.pdf), organized by [Kate McArdle](https://www.linkedin.com/in/katemcardle/) (highly recommend the first two sessions for beginners, I even hope to make it required!)
-- Office hour: [Ji Ma, Tue, 2-4pm](https://calendar.app.google/k9CSb97HPLnvNqNu6)
+- Office hour: [Ji Ma, Tue, 2-4pm](https://calendar.app.google/k9CSb97HPLnvNqNu6); Kate McArdle, Fri, 11am-12pm.
 
 ---
 This research-oriented course introduces and contextualizes computational methods from a social science research design perspective. The course has three major components:
