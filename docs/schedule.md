@@ -90,12 +90,12 @@ We may have field visits and guest speakers over the semester to be arranged, so
 #### Before class
 
 - Required readings:
-  - CSSPrimer: Chapter 1.
+  - CSSPrimer: Preface and Chapter 1.
 
 #### In class
 
 - Discussion and lecture on readings. Key points:
-  - Philosophical and epistemological fundamentals, research design overview, comparison between CSS and conventional approaches
+  - Theoretical fundamentals, research design overview, comparison between CSS and conventional approaches
   - Data management, concept representation, data analysis, and scientific communication
 - In-class review and prepare:
   - Group presentations.
@@ -121,7 +121,7 @@ If time allows, introducing supercomputer resources:
 
 #### After class
 
-- Assignment 1 due on upcoming Monday.
+- Complete Assignment 1.
 - Review tools and platforms for upcoming week, prepare to discuss how you plan to use them.
 
 ---
