@@ -44,7 +44,7 @@ We may have field visits and guest speakers over the semester to be arranged, so
   - Review tools:
     - Programming language-based tools: [Plotly and Dash for Python](https://plotly.com/), [Shiny for R](https://shiny.posit.co/r/gallery/)
     - Off-the-shelf tools: Tableau, PowerBI, Excel.
-- </s>Week 14 4/22: Present Data Dashboard or Final Project + Happy Hour</s> TBD.
+- <s>Week 14 4/22: Present Data Dashboard or Final Project + Happy Hour</s> TBD.
 
 <!-- 
 - Meet at [Haymaker@11am](https://maps.app.goo.gl/jhvgnfdVnGXjjCoZ8)
