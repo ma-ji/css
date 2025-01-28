@@ -6,7 +6,8 @@ We may have field visits and guest speakers over the semester to be arranged, so
 
 ![Learning Cycle](/assets/diagrams-learning_cycle.png)
 
-[Reading Materials by Week](https://drive.google.com/drive/folders/1Rijn2CHQk4MzFYuUkKb_8Hyavr557Syr?usp=sharing)
+- [Lecture Notes](https://docs.google.com/presentation/d/1Hm67NaTIP_bNO46a2EerGrCAJjIcd1fkx1lNsImpfr4/edit?usp=sharing)
+- [Reading Materials by Week](https://drive.google.com/drive/folders/1Rijn2CHQk4MzFYuUkKb_8Hyavr557Syr?usp=sharing)
 
 <!-- - [Week 0 Pre-course](#w0) -->
 
