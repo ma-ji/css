@@ -107,7 +107,7 @@ If time allows, introducing supercomputer resources:
 **Cloud computing with [Chameleon](https://www.chameleoncloud.org/)**
 
 - Start an instance on [Chameleon Cloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
-- Install [Anaconda Python](https://www.anaconda.com/distribution/) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
+- Install [Anaconda Python](https://www.anaconda.com/download/success) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
 - Snapshot the instance [as an image](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html).
 - You can also watch the video recordings below:
   - How to use Chameleon Cloud: Set up a new instance
