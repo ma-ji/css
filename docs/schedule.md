@@ -13,38 +13,38 @@ We may have field visits and guest speakers over the semester to be arranged, so
 **Introduction to the course**
 
 - [Week 1 1/14: Course introduction](#week-1-course-introduction-back2top)
-- [Week 2 1/21: Computational Social Science: Why Research Design Approach](#week-2-computational-social-science-why-research-design-approach-back2top)
+- [Week 2 1/<s>21</s>28: Computational Social Science: Why Research Design Approach](#week-2-computational-social-science-why-research-design-approach-back2top)
 
 **Data Management**
 
-- [Week 3 1/28: Data Management: Methods and tools](#week-3-data-management-methods-and-tools-back2top)
-- [Week 4 2/4: Data Management: Background and Purposes (group presentation)](#week-4-data-management-background-and-purposes-group-presentation-back2top)
-- [Week 5 2/11: Data Management Exercise: Gathering Literature in Your Field](#week-5-data-management-exercise-gathering-literature-in-your-field-back2top)
+- [Week 3 2/4: Data Management: Methods and tools](#week-3-data-management-methods-and-tools-back2top)
+- [Week 4 2/11: **Site Visit: Perigon** + Data Management: Background and Purposes (group presentation)](#week-4-data-management-background-and-purposes-group-presentation-back2top)
+- [Week 5 2/18: Data Management Exercise: Gathering Literature in Your Field](#week-5-data-management-exercise-gathering-literature-in-your-field-back2top)
 
 **Concept Representation**
 
-- [Week 6 2/18: Concept Representation: Background and Purposes (group presentation)](#week-6-concept-representation-background-and-purposes-group-presentation-back2top)
-- [Week 7 2/25: Concept Representation: Methods and tools](#week-7-concept-representation-methods-and-tools-back2top)
-- [Week 8 3/4: Concept Representation Exercise: Automated Coding](#week-8-concept-representation-exercise-automated-coding-back2top)
+- [Week 6 2/25: Concept Representation: Background and Purposes (group presentation)](#week-6-concept-representation-background-and-purposes-group-presentation-back2top)
+- [Week 7 3/4: Concept Representation: Methods and tools](#week-7-concept-representation-methods-and-tools-back2top)
+- [Week 8 3/11: Concept Representation Exercise: Automated Coding](#week-8-concept-representation-exercise-automated-coding-back2top)
 
 **Data Analysis**
 
-- [Week 9 3/11: Data Analysis: Background and Purposes (group presentation)](#week-9-data-analysis-background-and-purposes-group-presentation-back2top)
-- [Week 10 3/25: Data Analysis: Methods and Tools](#)
+- [Week 9 3/25: Data Analysis: Background and Purposes (group presentation)](#week-9-data-analysis-background-and-purposes-group-presentation-back2top)
+- [Week 10 4/1: Data Analysis: Methods and Tools](#)
   - Network analysis as a representation and analysis method
   - Process of network analysis
   - Visualization tool: [Gephi](https://en.wikipedia.org/wiki/Gephi)
-- [Week 11 4/1: Data Analysis Exercise: Simulation and Regression](#)
+- [Week 11 4/8: Data Analysis Exercise: Simulation and Regression](#)
 
 **Scientific Communication**
 
-- [Week 12 4/8: Scientific Communication: Background and Purposes (group presentation)](#week-12-scientific-communication-background-and-purposes-group-presentation-back2top)
-- Week 13 4/15: Scientific Communication: Methods and tools
+- [Week 12 4/15: Scientific Communication: Background and Purposes (group presentation)](#week-12-scientific-communication-background-and-purposes-group-presentation-back2top)
+- Week 13 4/22: Scientific Communication: Methods and tools
   - Basic principles of visualization.
   - Review tools:
     - Programming language-based tools: [Plotly and Dash for Python](https://plotly.com/), [Shiny for R](https://shiny.posit.co/r/gallery/)
     - Off-the-shelf tools: Tableau, PowerBI, Excel.
-- Week 14 4/22: Present Data Dashboard or Final Project + Happy Hour
+- </s>Week 14 4/22: Present Data Dashboard or Final Project + Happy Hour</s> TBD.
 
 <!-- 
 - Meet at [Haymaker@11am](https://maps.app.goo.gl/jhvgnfdVnGXjjCoZ8)
@@ -123,6 +123,7 @@ If time allows, introducing supercomputer resources:
 
 - Complete Assignment 1.
 - Review tools and platforms for upcoming week, prepare to discuss how you plan to use them.
+- [Read Perigon's research proposal, be prepared to discuss.](/assets/Perigon_UT_Austin.pdf)
 
 ---
 
@@ -142,6 +143,7 @@ If time allows, introducing supercomputer resources:
   - MySQL Workbench
 
 - Prepare Assignment 3: Gathering Literature in Your Field
+- [Discuss Perigon's research proposal.](/assets/Perigon_UT_Austin.pdf)
 
 #### After class
 
