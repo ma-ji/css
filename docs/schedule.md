@@ -132,7 +132,7 @@ If time allows, introducing supercomputer resources:
 
 #### Before class
 
-- Review Assignment 3: Gathering Literature in Your Field
+- Review Assignment 3: Gathering Literature in Your Field (i.e., CSSPrimer: Chapter 3)
 
 #### In class
 
@@ -148,7 +148,7 @@ If time allows, introducing supercomputer resources:
 
 #### After class
 
-- Group presentation slides and annotated bibliography on _Data Management_ due upcoming Monday.
+- Group presentation slides and annotated bibliography on _Data Management_ due upcoming week.
 
 ---
 
@@ -157,6 +157,7 @@ If time allows, introducing supercomputer resources:
 #### Before class
 
 - [Required readings](https://drive.google.com/drive/folders/1eziwxSu0agJfYjAcPu5VsNh5QxRFAFLj?usp=sharing)
+  - CSSPrimer: Chapter 2.
   - Leonelli, Sabina. “Scientific Research and Big Data.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Summer 2020. Metaphysics Research Lab, Stanford University, 2020. <https://plato.stanford.edu/archives/sum2020/entries/science-big-data/>.
   - Wickham, Hadley. “Tidy Data.” The Journal of Statistical Software 59, no. 10 (2014). <http://www.jstatsoft.org/v59/i10/>.
   - Goble, Carole, and David De Roure. “The Impact of Workflow Tools on Data-Centric Research.” In The Fourth Paradigm: Data-Intensive Scientific Discovery, edited by Tony Hey, Stewart Tansley, Kristin Tolle, and Jim Gray. Microsoft Research, 2009. <https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-discovery/>.
@@ -170,7 +171,7 @@ If time allows, introducing supercomputer resources:
 
 #### After class
 
-- Assignment 3: Gathering Literature in Your Field due upcoming Monday.
+- Assignment 3: Gathering Literature in Your Field due upcoming week.
 - Group presentation slides and annotated bibliography on _Concept Representation_ due in two weeks.
 
 ---
