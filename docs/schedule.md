@@ -82,7 +82,7 @@ We may have field visits and guest speakers over the semester to be arranged, so
 - How to use Chameleon Cloud computing resources:
   - [TACC Analysis Portal Pilot - Student Guide](https://cloud.wikis.utexas.edu/wiki/spaces/iSchool/pages/273943788/TACC+Analysis+Portal+Pilot+-+Student+Guide)
   - [Review "Getting started with Chameleon Cloud"](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
-- Assignment 2 sign up due on upcoming Monday.
+- Assignment 2 sign up due on upcoming week.
 
 ---
 
@@ -191,7 +191,7 @@ If time allows, introducing supercomputer resources:
 #### After class
 
 - Revise assignments according to feedback.
-- Group presentation slides and annotated bibliography on _Concept Representation_ due in upcoming Monday.
+- Group presentation slides and annotated bibliography on _Concept Representation_ due in upcoming week.
   - Read required readings.
   - Prepare group presentation.
   - Write annotated bibliography.
@@ -236,7 +236,7 @@ If time allows, introducing supercomputer resources:
 #### After class
 
 - Group presentation slides and annotated bibliography on _Data Analysis_ due in two weeks.
-- Complete Assignment 4: Automated Coding, due upcoming Monday.
+- Complete Assignment 4: Automated Coding, due upcoming week.
 
 ---
 
@@ -255,7 +255,7 @@ If time allows, introducing supercomputer resources:
 #### After class
 
 - Revise assignments according to feedback.
-- Group presentation slides and annotated bibliography on _Data Analysis_ due in upcoming Monday.
+- Group presentation slides and annotated bibliography on _Data Analysis_ due in upcoming week.
   - Read required readings.
   - Prepare group presentation.
   - Write annotated bibliography.
