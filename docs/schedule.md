@@ -208,6 +208,7 @@ If time allows, introducing supercomputer resources:
 - Student-lead group presentation and instructor lecture.
 - Discussion on annotated bibliography.
 - Prepare Assignment 4: Automated Coding, due in two weeks.
+- Guest speaker: [Dr. Hanjin Mao](https://www.uhd.edu/faculty/maoh.aspx), Technologies in nonprofits.
 
 ### After class
 
@@ -227,7 +228,8 @@ If time allows, introducing supercomputer resources:
 - Deductive coding (text classification):
   - [Fine-tune model with training dataset.](https://huggingface.co/docs/transformers/en/tasks/sequence_classification)
   - Prompt-based classification with LLMs: [Llama 2](https://llama.meta.com/llama2) (English) and [Qwen](https://github.com/QwenLM/Qwen) (multilingual)
-- Prepare Assignment 4: Automated Coding
+- Prepare Assignment 4: Automated Coding.
+- Teaching observation by [Prof. Varun Rai](https://lbj.utexas.edu/rai-varun)
 
 ### After class
 
