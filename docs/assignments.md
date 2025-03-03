@@ -1,5 +1,25 @@
 # Assignments
 
+<!-- 
+DataCamp modules by research design
+
+- Data Management:
+modules: Data manipulation with pandas, cleaning data in python, Intro & Inter Importing Data with Python
+projects: Consolidating Employee Data, Performing a Code review, Analyze US Census Data,
+
+- Concept Representation:
+modules: Intro to data visualization with Python, LLMs concepts, , Intro to NLP in Python
+projects:  Generating Key Words for Search Campaigns, What makes a good book, Reveal Categories found in data
+
+- Data Analysis:
+modules: Python automation, Web scraping with Python, Writing Functions, Writing Efficient Code
+projects: Social Networks: a twitter analysis, Understanding Subscription Behaviors, Customer Analytics
+
+- Scientific Communication:
+modules: Intro & Inter to Data Visualization with Seaborn
+projects: Visualizing History of the Nobel Prize, Isnpecting EV Charging Trends, Understanding Search Interest in Google Trends
+ -->
+
 ---
 
 - [Assignment 1: Plagiarism Test (5 points)](#assignment-1-plagiarisms-test)

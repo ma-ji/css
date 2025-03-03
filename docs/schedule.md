@@ -227,9 +227,8 @@ If time allows, introducing supercomputer resources:
   - [BERTopic](https://maartengr.github.io/BERTopic/index.html)
 - Deductive coding (text classification):
   - [Fine-tune model with training dataset.](https://huggingface.co/docs/transformers/en/tasks/sequence_classification)
-  - Prompt-based classification with LLMs: [Llama 2](https://llama.meta.com/llama2) (English) and [Qwen](https://github.com/QwenLM/Qwen) (multilingual)
+  - Prompt-based classification with LLMs: [OpenAI API](https://platform.openai.com/docs/api-reference/chat), [Models (Ollama service)](https://ollama.com/search), [deploy local LLM and API (liteLLM + Ollama)](https://docs.litellm.ai/docs/providers/ollama).
 - Prepare Assignment 4: Automated Coding.
-- Teaching observation by [Prof. Varun Rai](https://lbj.utexas.edu/rai-varun)
 
 ### After class
 
