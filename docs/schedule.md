@@ -207,10 +207,12 @@ If time allows, introducing supercomputer resources:
 
 - Student-lead group presentation and instructor lecture.
 - Discussion on annotated bibliography.
-- Prepare Assignment 4: Automated Coding, due in two weeks.
+- Preview Assignment 4: Automated Coding.
 - Guest speaker: [Dr. Hanjin Mao](https://www.uhd.edu/faculty/maoh.aspx), Technologies in nonprofits.
 
 ### After class
+
+- Review Assignment 4 (Automated Coding).
 
 ---
 
@@ -218,7 +220,7 @@ If time allows, introducing supercomputer resources:
 
 ### Before class
 
-- Prepare Assignment 4: Automated Coding
+- Review Assignment 4 (Automated Coding).
 
 ### In class
 
@@ -232,8 +234,8 @@ If time allows, introducing supercomputer resources:
 
 ### After class
 
-- Group presentation slides and annotated bibliography on _Data Analysis_ due in two weeks.
-- Complete Assignment 4: Automated Coding, due upcoming week.
+- Group presentation slides and annotated bibliography on _Data Analysis_ due soon.
+- Prepare a draft submission of Assignment 4 (Automated Coding) for presenting in class.
 
 ---
 
@@ -241,18 +243,18 @@ If time allows, introducing supercomputer resources:
 
 ### Before class
 
-- Complete the Assignment and submit to OSF.
+- Prepare a draft submission of Assignment 4 (Automated Coding) for presenting in class.
 
 ### In class
 
 - Presentation and discussion of Assignment.
 - Review peer assignments and provide feedback.
-- Preview next exercise.
+- Prepare Assignment 4 (Automated Coding).
 
 ### After class
 
-- Revise assignments according to feedback.
-- Group presentation slides and annotated bibliography on _Data Analysis_ due in upcoming week.
+- Revise Assignment 4 according to feedback and submit.
+- Group presentation slides and annotated bibliography on _Data Analysis_ due soon for upcoming session.
   - Read required readings.
   - Prepare group presentation.
   - Write annotated bibliography.
@@ -275,7 +277,7 @@ If time allows, introducing supercomputer resources:
 
 ### After class
 
-Prepare Assignment 5: Network Analysis, due in two weeks.
+- Review Assignment 5: Network Analysis.
 
 ---
 
@@ -283,7 +285,7 @@ Prepare Assignment 5: Network Analysis, due in two weeks.
 
 ### Before class
 
-- Prepare Assignment 5: Network Analysis
+- Review Assignment 5: Network Analysis.
 
 ### In class
 
@@ -292,7 +294,7 @@ TBD.
 ### After class
 
 - Group presentation slides and annotated bibliography on _Scientific Communication_ due in two weeks.
-- Complete Assignment 5: Network Analysis, due upcoming week.
+- Prepare a draft submission of Assignment 5 (Network Analysis) for presenting in class.
 
 ---
 
@@ -300,17 +302,17 @@ TBD.
 
 ### Before class
 
-- Complete the Assignment and submit to OSF.
+- Prepare a draft submission of Assignment 5 (Network Analysis) for presenting in class.
 
 ### In class
 
 - Presentation and discussion of Assignment.
 - Review peer assignments and provide feedback.
-- Preview next exercise.
+- Prepare Assignment 5 (Network Analysis).
 
 ### After class
 
-- Revise assignments according to feedback.
+- Revise Assignment 5 according to feedback and submit.
 - Group presentation slides and annotated bibliography on _Scientific Communication_ due in upcoming week.
   - Read required readings.
   - Prepare group presentation.
